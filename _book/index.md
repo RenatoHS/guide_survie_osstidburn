@@ -1,0 +1,48 @@
+--- 
+title: "Guide de Survie Édition 2023"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a minimal example of using the bookdown package to write a book.
+  The HTML output format for this example is bookdown::bs4_book,
+  set in the _output.yml file.
+biblio-style: apalike
+csl: chicago-fullnote-bibliography.csl
+bookdown::bs4_book:
+  css: style.css
+  config:
+    toc:
+      before: |
+        <a href="https://www.example.com/"><img src="www/logo.png" width="280"></a>
+        <li><a href="./">An example Resource</a></li>
+      after: |
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+---
+
+# LE GUIDE QUE TU DOIS ABSOLUMENT LIRE {-}
+
+<h2><span> AVANT-PROPOS </span></h2> 
+
+Tout à L’OsstidBurn est organisé et géré par des volontaires.  Le volontariat, c’est une belle façon de contribuer et de participer à l’événement. Il existe plusieurs façons de s’impliquer: Accueil, Premiers Soins, Rangers, Sanctuaire, Périmètre du Feu, Département public de la  
+Wouérie (DPW), etc. 
+
+
+Toutes les personnes participant à L’OsstidBurn sont invitées à combler un minimum de deux postes durant l’événement. À l’achat de votre billet, vous avez reçu le lien vers la plateforme de volontariat (ci-dessous). Allez choisir vos quarts dès maintenant si ce n’est pas déjà fait! 
+Assurez-vous d’avoir un billet avant de vous y inscrire; s’inscrire ne donne pas accès à  
+un billet. ;-)  
+
+https://participation.losstidburn.org
+
+Ensuite, n’oubliez pas de mettre à jour vos informations! 
+
+
+
+
+
+
+
+
+
