@@ -16,7 +16,7 @@ https://participation.losstidburn.org
 
 
 **LES TIQUES** \
-Les Cantons-de-l’Est font partie des zones particulièrement à risque pour la présence des tiques infectées pouvant transmettre la maladie de lyme. Consultez ce site pour plus d'informations: https://www.quebec.ca/sante/problemes-de-sante/ a-z/maladie-de-lyme 
+Les Cantons-de-l’Est font partie des zones particulièrement à risque pour la présence des tiques infectées pouvant transmettre la maladie de lyme. Consultez ce site pour plus d'informations: https://www.quebec.ca/sante/problemes-de-sante/a-z/maladie-de-lyme 
 
 
 **CENDRIERS DE POCHE** \

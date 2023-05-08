@@ -3,12 +3,14 @@
 <h2><span>EFFIGIE & TEMPLE</span></h2> 
 
 
-La cérémonie du Burn de l’Effigie est prévue le vendredi au coucher du soleil. 
+La cérémonie du Burn de l’Effigie est prévue le samedi au coucher du soleil. 
 
-Le Temple est un espace intentionnel de co-création. Une équipe de bénévoles a construit un monument qui servira de canevas libre pour notre délivrance collective. Au cours de l'événement, les OsstidBurners peuvent écrire des messages, laisser des souvenirs, passer un moment dans le calme, se livrer à une cérémonie, ou tout ce qui a une signification pour elleux dans le but de commémorer les choses dont iels aimeraient se défaire. Si ce n'est pas ton truc, pas de problème. Veuillez toutefois traiter cet espace et les objets personnels et importants qui s'y trouvent avec respect. Si vous restez jusqu'à la fin de l'événement, vous aurez le privilège de vivre l'expérience du Burn du Temple, au cours duquel nous observons, en tant que communauté, l'acte transformateur de brûler tout ce que nous sommes prêt.e.s à laisser derrière nous. La cérémonie du Burn du Temple est prévue le samedi au coucher du soleil. 
+Le Temple est un espace intentionnel de co-création. Une équipe de bénévoles a construit un monument qui servira de canevas libre pour notre délivrance collective. Au cours de l'événement, les OsstidBurners peuvent écrire des messages, laisser des souvenirs, passer un moment dans le calme, se livrer à une cérémonie, ou tout ce qui a une signification pour elleux dans le but de commémorer les choses dont iels aimeraient se défaire. Si ce n'est pas ton truc, pas de problème. Veuillez toutefois traiter cet espace et les objets personnels et importants qui s'y trouvent avec respect. Si vous restez jusqu'à la fin de l'événement, vous aurez le privilège de vivre l'expérience du Burn du Temple, au cours duquel nous observons, en tant que communauté, l'acte transformateur de brûler tout ce que nous sommes prêt.e.s à laisser derrière nous. La cérémonie du Burn du Temple est prévue le dimanche au coucher du soleil. 
 
 
-Si vous souhaitez participer au périmètre de sécurité du Burn de l’Effigie ou du Temple, inscrivez-vous via la plateforme d’inscription des volontaires: https://participation.losstidburn.org
+Si vous souhaitez participer au périmètre de sécurité du Burn de l’Effigie ou du Temple, inscrivez-vous via la plateforme d’inscription des volontaires:
+
+https://participation.losstidburn.org
 
 
 * Dans le cas d’une interdiction de feu lors de l’événement, il n’y aura pas de Burn. L’Effigie et le Temple sont des œuvres participatives. Si vous le désirez, rendez-vous sur la Plana durant la semaine pour aider les équipes à créer les structures.  
@@ -37,4 +39,5 @@ En raison d’un risque de propagation de feu, ne jonglez pas avec du feu ailleu
 **ESPACE JAM DE FEU**
 
 En dehors du Conclave, il n’y a pas d’espace Jam de Feu prévu pour l’édition 2022 car nous ne possédons pas d’assurances à cet effet. Si vous désirez créer et gérer votre propre espace et que vous possédez des assurances, écrivez-nous à : 
+
 participation@losstidburn.com 

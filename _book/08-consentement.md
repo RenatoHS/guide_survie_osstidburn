@@ -6,14 +6,14 @@
 2. <span style="text-decoration:underline">Unanime, explicite et renouvelable </span>
   
   
-  * Toute interaction (physique ou autre) nécessite le consentement <span style="text-decoration:underline"> EXPLICITE de toutes les  personnes impliquées </span> dans l’échange.  
+* Toute interaction (physique ou autre) nécessite le consentement <span style="text-decoration:underline"> EXPLICITE de toutes les  personnes impliquées </span> dans l’échange.  
 * <span style="text-decoration:underline">  Le consentement devrait toujours être VERBAL, PRÉALABLE et RENOUVELABLE. </span> 
-  * Le consentement peut être retiré à tout moment : n’importe quelle interaction peut être  arrêtée à n’importe quel moment par les personnes impliquées, sans justification. 
+* Le consentement peut être retiré à tout moment : n’importe quelle interaction peut être  arrêtée à n’importe quel moment par les personnes impliquées, sans justification. 
 
 
 3. <span style="text-decoration:underline"> À la recherche du OUI enthousiaste </span> 
   
-  * Chaque personne est invitée à trouver et rester dans un OUI authentique et enthousiaste,  avant et pendant l’interaction. 
+* Chaque personne est invitée à trouver et rester dans un OUI authentique et enthousiaste,  avant et pendant l’interaction. 
 * Si vous n’êtes pas 100% certain·e de vouloir cette interaction, il est peut-être préférable de rester dans un NON.
 * Un NON est une réponse complète et ne demande aucune justification/explication. Si  toutes les personnes le souhaitent, il est possible de négocier pour trouver un OUI ENTHOUSIASTE. 
 
@@ -21,8 +21,8 @@
 4.<span style="text-decoration:underline">  La nudité, l’habillement, le costume ou le comportement d’une personne NE CONSTITUENT PAS une invitation à une quelconque interaction. </span> 
   
   
-  5. <span style="text-decoration:underline">  Le consentement doit être LIBRE et CONSCIENT. </span> 
-  Une personne endormie ou sous la contrainte n’est pas consentante. La prise de substance(s)  (alcool, drogues, cannabis…) ou même l’énergie sexuelle et l’intimité physique peuvent également altérer la conscience. Il est donc nécessaire d’être d’autant plus vigilant·e·s si vous  consommez ou êtes en interaction avec une/des personnes dans un état altéré de conscience.  
+5. <span style="text-decoration:underline">  Le consentement doit être LIBRE et CONSCIENT. </span> 
+Une personne endormie ou sous la contrainte n’est pas consentante. La prise de substance(s)  (alcool, drogues, cannabis…) ou même l’énergie sexuelle et l’intimité physique peuvent également altérer la conscience. Il est donc nécessaire d’être d’autant plus vigilant·e·s si vous  consommez ou êtes en interaction avec une/des personnes dans un état altéré de conscience.  
 
 Toutes les personnes impliquées comprennent à quoi elles s’engagent en acceptant l'interaction: <span style="text-decoration:underline"> le consentement doit être éclairé. </span> 
 
@@ -42,7 +42,7 @@ L’adhésion à ces principes assure un espace plus sécuritaire pour tous·te�
 * Nous vous invitons à informer les Rangers de tout comportement déplacé. 
 * L’organisation se réserve le droit d’exclure toute personne au comportement inapproprié. 
 https://losstidburn.com/language/en/sans-oui-cest non/
-• Suite à l’événement, si vous souhaitez nous faire part d’une situation de bris de consentement, n’hésitez pas à nous contacter à <span style="text-decoration:underline">consentement@osstidburn.com </span> 
+* Suite à l’événement, si vous souhaitez nous faire part d’une situation de bris de consentement, n’hésitez pas à nous contacter à <span style="text-decoration:underline">consentement@osstidburn.com </span> 
 
 
 <h2><span> PHOTOGRAPHIE  </span></h2>

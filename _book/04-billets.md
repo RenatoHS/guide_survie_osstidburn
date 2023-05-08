@@ -26,12 +26,13 @@ IMPORTANT: Si la chaussée du sentier était jugée impraticable par le proprié
 
 
 ACCÈS AU SENTIER PAR VÉHICULE 4X4 
-Mercredi: 10h00 à 19h00 
-Jeudi: Aucun véhicule 
-Vendredi: Aucun véhicule 
-Samedi: Aucun véhicule 
-Dimanche: 09h00 à 14h00 
-Lundi: 09h00 à 14h00 
+
+Mercredi: 10h00 à 19h00 \
+Jeudi: Aucun véhicule \
+Vendredi: Aucun véhicule \
+Samedi: Aucun véhicule \
+Dimanche: 09h00 à 14h00 \
+Lundi: 09h00 à 14h00 \
 
 <h2><span> VOUS N’AVEZ PAS DE 4X4?  </span></h2> 
 

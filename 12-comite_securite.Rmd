@@ -1,42 +1,20 @@
 # COMITÉ SÉCURITÉ  RANGERS, SANCTUAIRE ET PREMIERS SOINS {-}
 
 
-<h2><span> LAISSE PAS D'TRACE (LNT) </span></h2> 
+Nous sommes des Burners, nous prenons soin de notre communauté. Nous faisons de la médiation, offrons de l’aide à la résolution de conflit, et nous agissons en cas d’urgence.Si vous avez besoin d’aide, vous pouvez nous trouver à la centrale “HQ Sécurité”. Vous trouverez l'emplacement sur la carte. 
 
 
-Notre communauté respecte l'environnement. Nous nous engageons à ne laisser aucune trace physique de nos activités. Nous nettoyons derrière nous et nous nous efforçons, dans la mesure du possible, de laisser les lieux dans un meilleur état que lorsque nous sommes arrivé·e·s. Vous devez ramener tous vos effets personnels et vos déchets après l'événement. Il n'y aura pas de conteneur de vidange à la sortie de l'événement. Il est important de prévoir d'apporter des sacs à ordures et du matériel pour gérer tous vos déchets.
+Les Rangers patrouillent par groupe de deux et sont équipé·e·s de radio afin de pouvoir communiquer plus rapidement avec les autres équipes en cas de besoin. Les bénévoles de premiers soins sont “on call” et sont joignables par radio, notamment via les Rangers. Si vous vous sentez pris·e dans une situation inconfortable, les Rangers et les Premiers Soins seront là pour vous soutenir. Les bénévoles du sanctuaire peuvent aussi vous accueillir et vous fournir un espace plus sécurisé, éclairé et résistant aux intempéries. 
 
 
-De plus, la propreté du site est une responsabilité partagée et l'entretien du site est l'affaire de tous·tes. N'oubliez pas d'avoir un petit sac avec vous en tout temps pour ramasser les déchets que vous voyez par terre, même s'ils ne sont pas les votre. Il est également fortement conseillé de participer à la session de nettoyage (MOOP SWEEP) à la fin de l'événement, en plus de celle que vous devez faire à votre camp. Veuillez consulter le guide LNT pour plus d'informations à ce sujet.
+Le Sanctuaire est un endroit calme pour les participant·e·s vivant une expérience difficile et qui ressentent le besoin d’être supporté·e·s durant ce moment. Jour et nuit, les volontaires sont là pour répondre aux questions éventuelles, tenir compagnie ou tout simplement pour avoir de bons échanges! L’espace sera rempli de coussins et de couvertures douces. Il sera sec, chaud, à l’ombre et lumineux: une place pour se relaxer et se recentrer. Il y a aussi des activités-discussions et des workshops sur les thèmes du consentement, de l’appropriation culturelle et de la consommation plus sécuritaire de drogues. Du matériel de consommation et de sexualité propre et stérile sera en libre-service et ainsi que de l’information de toutes sortes sur les drogues et sur la sexualité.
 
 
-**QU'EST-CE QUE LA MOOP ?**
+S’il vous plaît, faites preuve de prudence. Prenez soin de vos ami·e·s et de vous-même. Buvez de l’eau, mangez. Et amusez-vous! 
 
-MOOP est un acronyme pour «Matter Out Of Place», un terme qui réfère à tout ce qui ne provient pas à l’origine de la terre sur laquelle l’événement a lieu. 
-Mégots de cigarette, bouchons de bouteille, «glowsticks», feux d’artifice, plumes, «glitters», confettis, morceaux brisés de bois, plastique, costume, métal ou verre…
-Les matières organiques, même si biodégradables, sont également de la MOOP. Si tout le monde jetait son cœur de pomme dans le bois, le site deviendrait rapidement un dépotoir et pourrait attirer des animaux. Notre impact sur l’environnement doit être le plus infime possible.
-Contrairement aux festivals grand public, il n’y a aucune installation pour les déchets ou le recyclage sur le site d’un événement LNT (Leave No Trace). Tout ce qui est amené sur le site de L’OsstidBurn doit repartir avec vous, incluant vos déchets. Assurez-vous d’en disposer de façon responsable après l’événement.
 
-<h2><span>GUIDE DES BONNES PRATIQUES LNT </span></h2>
+Nous avons des fournitures médicales à la centrale  “HQ Sécurité”. Venez nous voir si vous n’avez pas ce qu’il vous faut dans votre propre kit de premiers soins. 
+La nuit, assurez-vous de voir et d’être vu·e. Ayez toujours au moins une lampe de poche ou une frontale sur vous. 
 
-Pendant vos préparatifs, il est impératif de consulter et de lire attentivement le guide des bonnes pratiques LNT directement sur notre site internet, dans la section Préparations -> Laisse Pas d'Trace.
 
-https://losstidburn.org/language/fr/preparation/laisse-pas-dtrace/ 
-
-Ce guide répondra à la plupart de vos questions en matière de LNT. Si toutefois vous aviez d’autres interrogations, n'hésitez pas à contacter la communauté de L'OsstidBurn via sa page Facebook afin de trouver les réponses dont vous avez besoin, ou écrivez-nous.
-
-lnt@losstidburn.com 
-
-**MOOP SWEEP DE FIN D'ÉVÉNEMENT**
-
-Le comité LNT veille à ce que le bois demeure en bon état, voire dans un meilleur état que lorsque nous sommes arrivé·e·s. 
-Une session de nettoyage global du site aura lieu de 13h à 18h le dimanche 26 juin. Pour vous inscrire à cette session, dirigez-vous vers la plateforme d’inscription des volontaires.
-https://participation.losstidburn.org/
-
-<h2><span>MOOP MAP</span></h2>
-
-Une MOOP Map est créée après chaque édition de L’OsstidBurn, à partir des données récupérées lors du MOOP Sweep (photos de la MOOP ramassée). Elle permet de visualiser le niveau de propreté des différents camps, emplacements d’installations artistiques et espaces communs, tels qu’ils ont été laissés à la fin de l’événement, avant le MOOP Sweep.
-
-Ces données sont ensuite étudiées par le comité LNT, puis utilisées lors de la préparation des éditions futures afin d’octroyer les placements aux camps ou artistes.
-
-**_La plaine, les sites de parking, le chemin, le bois et la rivière sont des espaces communs. Il est de votre responsabilité en tant que participant.e de veiller à la propreté de ces espaces, au même titre que votre campement._**
+-- L’Équipe Sécurité de L’OsstidBurn 

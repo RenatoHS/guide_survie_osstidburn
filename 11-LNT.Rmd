@@ -21,7 +21,7 @@ Contrairement aux festivals grand public, il n’y a aucune installation pour le
 
 Pendant vos préparatifs, il est impératif de consulter et de lire attentivement le guide des bonnes pratiques LNT directement sur notre site internet, dans la section Préparations -> Laisse Pas d'Trace.
 
-https://losstidburn.org/language/fr/preparation/laisse-pas-dtrace/ 
+https://losstidburn.org/laisse-pas-dtrace/
 
 Ce guide répondra à la plupart de vos questions en matière de LNT. Si toutefois vous aviez d’autres interrogations, n'hésitez pas à contacter la communauté de L'OsstidBurn via sa page Facebook afin de trouver les réponses dont vous avez besoin, ou écrivez-nous.
 
@@ -30,7 +30,7 @@ lnt@losstidburn.com
 **MOOP SWEEP DE FIN D'ÉVÉNEMENT**
 
 Le comité LNT veille à ce que le bois demeure en bon état, voire dans un meilleur état que lorsque nous sommes arrivé·e·s. 
-Une session de nettoyage global du site aura lieu de 13h à 18h le dimanche 26 juin. Pour vous inscrire à cette session, dirigez-vous vers la plateforme d’inscription des volontaires.
+Une session de nettoyage global du site aura lieu de 14h à 18h le lundi 26 juin. Pour vous inscrire à cette session, dirigez-vous vers la plateforme d’inscription des volontaires.
 https://participation.losstidburn.org/
 
 <h2><span>MOOP MAP</span></h2>
