@@ -1,4 +1,4 @@
-# LES BURNS {-}
+# THE BURNS {-}
 
 <h2><span>EFFIGY & TEMPLE</span></h2> 
 

@@ -1,12 +1,12 @@
 --- 
-title: "Guide de Survie Édition 2023"
+title: "Survival Guide 2023 edition"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
-  Guide de survie de l'OsstidBurn.
+  Survival Guide of l'OsstidBurn.
 biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 bookdown::bs4_book:
@@ -20,10 +20,9 @@ bookdown::bs4_book:
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 ---
 
-# LE GUIDE QUE TU DOIS ABSOLUMENT LIRE {-}
+# THE GUIDE THAT YOU MUST READ {-}
 
 <img src="www/logo.png"  width=100% height=50%>
-
 
 <h2><span> FOREWORD </span></h2> 
 
