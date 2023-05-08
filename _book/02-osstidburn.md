@@ -1,51 +1,50 @@
 # L’OSSTIDBURN ?? {-}
 
-<h2><span>QUESSÉ?</span></h2> 
+<h2><span>WHAT’S THAT?</span></h2> 
 
-L’OsstidBurn est un Burn régional, c'est-à-dire un  événement d’art participatif organisé par des Burners locaux pour apporter la culture et les principes de Burning Man au sein de leurs communautés.
+L'OsstidBurn is a regional Burn, which is a participative art event organized by local Burners to bring Burning Man culture and principles to their local communities.
 
 <h2><span>MISSION?</span></h2>
 
-La mission de L’OsstidBurn est de promouvoir l’art et l’engagement participatif. Inspiré par  les principes de Burning Man, L’OsstidBurn invite chaque participant·e à exprimer sa créativité de manière libre et radicale. 
+L’OsstidBurn’s mission is to promote engagement in art and participation. Inspired by the 10 principles of Burning Man, L’OsstidBurn encourages participants to express their creativity freely and radically.
+
+The eclectic L’OsstidBurn community is made up of people from all walks of life: artists, scientists, engineers, shamans, nurses, chefs, plumbers, philosophers, accountants, etc. Everyone converges to co-create a temporary zone  of self-expression. Participants paint, weld, sculpt, burn things, write code, cook with a lot of oil and sometimes practice biodanza... In short, they create remarkable interactive experiences.
 
 
-La communauté plutôt éclectique de L’OsstidBurn est composée d’individus de tous genres: artistes, scientifiques, ingénieur·e·s, chamans, plombier·e·s, cuisinièr·e·s, philosophes, infirmièr·e·s,  comptables… Tous·tes se rencontrent pour créer une zone temporaire d’expression de soi. Iels y peignent, soudent, sculptent, mettent des affaires  en feu, écrivent du code, cuisinent avec beaucoup d’huile et biodansent parfois… Bref, iels y fabriquent des trucs interactifs surprenants! 
+L’OsstidBurn has been recognized by Burning Man as an official regional event since its inception in 2016.
 
 
-L’OsstidBurn est reconnu par Burning Man comme un événement régional officiel depuis sa création en 2016. 
-
-<h2><span>QUAND ?</span></h2>
+<h2><span>WHEN?</span></h2>
 
 
-21 (Mercredi) au 26 (Lundi) juin 2023
+June 21 (Wednesday) – 26 (Monday), 2023
 
 
-<h2><span> OÙ ? </span></h2>
+<h2><span>WHERE? </span></h2>
 
-L’adresse et les coordonnées seront envoyées à tous les détenteur·ice·s de billets 48 heures avant l’événement. 
-Cantons-de-l’Est
+The address and directions will be sent to all ticket holders 48 hours before the event.
 
-• 1h40 de Montréal 
+Eastern Townships
 
-• 3h00 de Québec 
+* 1 hour 40 minutes from Montreal
+* 3 hours from Quebec City
 
-<h2><span>Le nom L’OSSTIDBURN ?</span></h2> 
+<h2><span>WHERE DOES THE NAME L’OSSTIDBURN COME FROM?</span></h2> 
 
-Le nom de l’événement est en référence à L'Osstidcho, un spectacle anticonformiste et révolutionnaire présenté pour la première fois le 20 juin 1968 au Théâtre de Quat’Sous à Montréal. Le concept était simple, changer les habitudes du théâtre en mariant différentes disciplines. Finalement, le propriétaire du Théâtre de Quat’Sous n’en pouvait plus du chaos et de l’indiscipline des membres de la jeune troupe, pour qui l’art venait du désordre. L’Osstidcho est un spectacle qui laissera une trace indélébile dans l’imaginaire collectif québécois.
+The name of the event is a reference to L’Osstidcho, an anti-conformist and revolutionary show presented for the first time on June 20, 1968 at Théâtre du Quat’Sous in Montreal.  The concept was simple: change the customs of theatrer by  combining different disciplines. In the end, the owner of the Quat’Sous Theatre got fed up with the chaos and unruliness of the members of the young troupe, for whom art came from disorder. L’Osstidcho is a show that will leave an indelible mark on Quebec’s collective imagination.
 
-<h2><span>ON EST OÙ ?</span></h2>
+<h2><span>WHAT IS THIS PLACE?</span></h2>
 
-<h3><span>SUR UNE TERRE AUX ORIGINES MULTIPLES</span></h3> 
+<h3><span>A LAND WITH MANY ORIGINS</span></h3> 
 
-Bien que nous ayons une bonne connaissance de l'histoire récente et coloniale du site de l'événement, nous sommes sensibles au fait que son histoire est plus complexe et plus riche. L'organisation travaille actuellement sur une reconnaissance de territoire pour reconnaître les communautés autochtones locales. Le projet en est encore à ses débuts. Si vous souhaitez participer, veuillez contacter info@losstidburn.com
+Although we have good knowledge of the recent and colonial history of the event site, we are conscious of the fact that its history is much more complex and meaningful than only that. The Organization is currently working to create a land acknowledgement to recognize the local Indigenous communities. The project is still in its early stages. If you would like to help with this project, please contact info@losstidburn.com
 
-<h3><span>SUR LA TERRE À BULL…</span></h3> 
+<h3><span>ON BULL’S LAND…</span></h3> 
 
 
-Gerald V. Bull, né le 9 mars 1928 en Ontario, mort assassiné le 22 mars 1990 à Bruxelles, était un ingénieur canadien, spécialiste en balistique (la science qui a pour objet l’étude du mouvement des projectiles). Il a mené d’importantes recherches sur les super-canons capables de tirer sur de très longues distances ou à de hautes altitudes. En 1971, Gerald Bull décide de fonder une compagnie de recherche en balistique à Highwater près de Mansonville dans les Cantons-de-l'Est, la Space Research Corporation (SRC), afin de poursuivre ses recherches.  
+Gerald V. Bull, born on March 9, 1928 in Ontario, and assassinated on March 22, 1990 in Brussels, was a Canadian engineer specialized in ballistics (the science that studies the movement of projectiles). He conducted extensive research on superguns that could fire over very long distances or high altitudes. In 1971, Gerald Bull founded a ballistics research company—the Space Research Corporation (SRC)—in Highwater near Mansonville in the Eastern Townships, to continue his research. 
 
-Ce fut une époque dorée pour les Cantons-de l’Est. L’entreprise de Gérald Bull, la Space Research, a fasciné les Québécois par ses travaux. On raconte que les gens entendaient les coups de canon jusqu’à Sutton et que régulièrement, les habitant·e·s du coin devaient faire remplacer leurs fenêtres qui avaient éclaté lors d’essais. On surnomma Gerald Bull, Dr Strangelove. 
+It was a golden era for the Eastern Townships. Locals were fascinated by the work of Gerald Bull’s company. It is said that people heard the cannons firing all the way to Sutton and that neighbours regularly had to replace their windows that broke during tests. They nicknamed him Dr. Strangelove.
 
-Le gouvernement canadien a pour sa part fait démanteler tout ce qu’il restait de canons sur la  propriété, mais nous y retrouvons toujours certains vestiges tels qu’une ancienne antenne, une centrale électrique, un trou d’homme ainsi que les fondations de plusieurs bâtiments.
-
+The Canadian government dismantled all the remaining cannons on the property, but some vestiges remain, such as an old antenna, power station, manhole and the foundations of several buildings.
 

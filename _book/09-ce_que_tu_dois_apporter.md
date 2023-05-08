@@ -1,57 +1,61 @@
-# AFFAIRES À APORTER ET À NE PAS APPORTER! {-}
+# STUFF TO BRING AND NOT TO BRING {-}
 
-<h2><span>CE QUE TU DOIS APPORTER</span></h2>
+<h2><span>WHAT YOU SHOULD BRING</span></h2>
 
-**CAMPING & ÉQUIPEMENT** 
+**CAMPING & EQUIPMENT** 
 
-* Râteaux, gants de travail, petite hache, sécateurs pour dégager un espace pour votre campement.  
-* Eau: Aucune source d’eau ne sera disponible sur  place. 
-* Nourriture 
-* Tente & Bâche 
-* Un ou plusieurs sacs de couchage, couvertures, manteaux, etc. (Prévoir assez de trucs chauds pour être confortable lors des nuits fraîches - ça prend plus qu’on pourrait penser!)  
-* Cuisinière, glacière, bol, ustensiles, combustible, casserole et accessoires de cuisine… 
-* Extincteur 
-* Savon et liquide à vaisselle écologiques 
-* Apportez votre « CUP »! Vous ne savez jamais quand un bar sera ouvert 
-* Lumière: lampe frontale, lampe de poche, torche,  EL Wire pour vous ou votre tente. Évitez les  «glowsticks». Ils ne sont ni réutilisables ni écologiques. 
-* Structures pour l'ombre, parasols, ombrelles, tissus; quelque chose pour vous protéger du soleil…  et de la pluie! 
-* Duct tape et cordage 
-* Insectifuge [Anti Moustique] 
-* Crème solaire 
-* Sacs-poubelle et sacs de recyclage 
-* Cendrier portable pour les personnes qui fument 
-* Trousse médicale 
-* Chaise de camping 
-* Accessoires, bannières, signalisation ou décoration qui pourrait rendre l’expérience plus agréable pour vous et pour vos voisin·e·s 
-* Bouchons pour les oreilles 
-* Lingettes nettoyantes 
-* Désinfectant pour les mains
+* Rakes, work gloves, small axe, pruning shears to clear a space for your camp. 
+* Water. There is no water source on site.
+* Food
+* Tent & tarp
+* Sleeping bags, blankets, coats, etc. (Bring enough warm stuff to be comfortable during cool nights -- you’ll need more than you might think!) 
+* Cooker, cooler, bowl, utensils, fuel, saucepan and kitchen accessories
+*Fire extinguisher
+* Eco-friendly soap and dishwashing liquid
+* BRING YOUR OWN CUP! You never know when the bar will be open
+* Light: headlamp, flashlight, EL Wire for you or your tent. Avoid glowsticks — they are neither reusable nor ecological. 
+* Shade structures: parasols, fabrics. You need something to protect yourself from the sun… and the rain!
+* Duct tape and rope
+* Insect repellent
+* Sunscreen
+* Bags for garbage and recycling
+* Portable ashtray for smokers
+* First aid kit
+* Camping chair
+* Accessories, banners, signage or decoration that could make the experience more enjoyable for you and your neighbours
+* Ear plugs
+* Disinfecting wipes
+* Hand sanitizer
 
 
-**VÊTEMENTS**
 
-* Vêtements chauds et moins chauds. Préparez-vous à des journées chaudes et des nuits fraîches 
-* Plusieurs paires de chaussettes, en cas de pluie et de froid 
-* Imperméable, bottes de pluie 
-* Costumes 
+**CLOTHING**
+
+* Clothing for both warm and cool temperatures – Expect hot days and chilly nights
+* Several pairs of socks, in case of rain
+* Raincoat and rainboots
+* Costumes
+
 
 
 **EXTRAS**
 
-* Instruments de musique 
-* Cadeaux à donner à des nouveaux·lles ami·e·s 
-* Maquillage 
-* Accessoires de jonglerie 
-* Votre ouverture d’esprit, votre générosité, votre sens de l’humour, et votre sourire 
+* Musical instruments
+* Gifts to give to new friends
+* Makeup
+* Juggling accessories
+* Your openness, your generosity, your sense of humour, and your smile
 
-<h2><span> CE QUE TU NE DOIS PAS APPORTER </span></h2>  
+
+<h2><span> WHAT YOU SHOULD NOT BRING </span></h2>  
 
 * Lasers
-* Armes à feu 
-* Articles faisant de la MOOP – plumes, confettis,  «glitters», etc. 
-* Articles suremballés – à éviter ou à jeter avant de partir 
-* Feux d’artifice/Fusées 
-* Accessoires en polystyrène/styrofoam 
-* Animal de compagnie 
-* Évitez les récipients de verre de toute sorte, si possible. Optez pour des canettes. 
+* Firearms
+* Items that create MOOP – feathers, confetti, glitter, etc.
+* Overpackaged items: avoid packaging or discard it before you leave home
+* Fireworks/rockets
+* Polystyrene/styrofoam accessories
+* Pets
+* Glass containers of any kind, if possible. Opt for cans.
+
 

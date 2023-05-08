@@ -1,27 +1,25 @@
-# ARRIVÉES {-}
+# ARRIVALS {-}
 
 <h2><span> EARLY ARRIVALS </span></h2> 
 
-* 21 Juin - Mercredi: 10h00 à 01h00 (Lendemain) 
+* 21 June - Wednesday: 10AM to 1AM (next day) 
 
 
-<h2><span> ACCÈS GÉNÉRAL </span></h2> 
+<h2><span> GENERAL ACCESS  </span></h2> 
 
-* 22 Juin - Jeudi: 10h00 à 01h00 (Lendemain) 
-* 23 Juin - Vendredi: 10h00 à 01h00 (Lendemain) 
-* 24 Juin - Samedi: 10h00 à 17h00 
+* 22 June - Thursday: 9AM to 1AM (next day) 
+* 23 June - Friday: 9AM to 1AM (next day)
+* 24 June - Saturday: 9AM to 5PM
 
 
 <h2><span> EXODUS </span></h2> 
 
-* 26 Juin - Lundi: 09h00 à 14h00 
+* 26 June - Monday: 9AM to 2PM
 
 
-Il est fortement conseillé d’arriver de jour, à la clarté. Le site étant dans la forêt, vous allez devoir nettoyer votre espace de campement de branches, roches, feuilles. Apportez des gants de travail et des outils. 
+We strongly recommend arriving during the light of day. The site is located in the woods. You will need to clear your campsite and remove branches, rocks and leaves. Bring working gloves and tools.
 
 
-<h2><span> LAISSE PAS D’TRACE (MOOP SWEEP) </span></h2> 
+<h2><span> LEAVE NO TRACE (MOOP SWEEP)) </span></h2> 
 
-* 26 Juin - Lundi: 14h00 à 18h00 
-
-
+* 26 June - Monday: 2PM to 6PM

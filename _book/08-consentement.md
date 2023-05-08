@@ -1,59 +1,59 @@
-# PRINCIPE DU CONSENTEMENT {-}
+# PRINCIPLES OF CONSENT {-}
 
-1.  <span style="text-decoration:underline">Le consentement concerne tous types d’interactions à deux ou à plusieurs </span>(câlins, discussions, toucher, danse, sexe, s’asseoir à côté de quelqu’un...) 
+1.  <span style="text-decoration:underline">Consent applies to all types of interactions with two or more people </span> (hugging, talking, touching, dancing, sex, sitting near someone...)
 
-
-2. <span style="text-decoration:underline">Unanime, explicite et renouvelable </span>
+2. <span style="text-decoration:underline">Unanimous, explicit and renewable </span>
   
   
-  * Toute interaction (physique ou autre) nécessite le consentement <span style="text-decoration:underline"> EXPLICITE de toutes les  personnes impliquées </span> dans l’échange.  
-* <span style="text-decoration:underline">  Le consentement devrait toujours être VERBAL, PRÉALABLE et RENOUVELABLE. </span> 
-  * Le consentement peut être retiré à tout moment : n’importe quelle interaction peut être  arrêtée à n’importe quel moment par les personnes impliquées, sans justification. 
+  * Any interaction (physical or otherwise) requires <span style="text-decoration:underline">  EXPLICIT consent of all persons  </span> involved in the exchange. 
+  * <span style="text-decoration:underline"> Consent should always be CLEAR, VERBAL, BEFORE action and RENEWABLE. </span> 
+  * Consent can be withdrawn at any time: any interaction can be stopped at any time by those involved, without justification.
 
 
-3. <span style="text-decoration:underline"> À la recherche du OUI enthousiaste </span> 
+3. <span style="text-decoration:underline"> In search of the enthusiastic YES </span> 
   
-  * Chaque personne est invitée à trouver et rester dans un OUI authentique et enthousiaste,  avant et pendant l’interaction. 
-* Si vous n’êtes pas 100% certain·e de vouloir cette interaction, il est peut-être préférable de rester dans un NON.
-* Un NON est une réponse complète et ne demande aucune justification/explication. Si  toutes les personnes le souhaitent, il est possible de négocier pour trouver un OUI ENTHOUSIASTE. 
+* Each person strives to find conditions in an interaction that produce an authentic & enthusiastic YES, before and during the interaction.
+* If you are not 100% sure you want an interaction, it may be better to stay in a NO.
+* A NO is a complete answer and does not require any justification or explanation. When everyone wishes it, it is certainly possible to negotiate to find an ENTHUSIASTIC YES.
 
 
-4.<span style="text-decoration:underline">  La nudité, l’habillement, le costume ou le comportement d’une personne NE CONSTITUENT PAS une invitation à une quelconque interaction. </span> 
+4.<span style="text-decoration:underline"> Nudity, clothing, costume or behaviour DOES NOT constitute an invitation to any interaction. </span> 
   
   
-  5. <span style="text-decoration:underline">  Le consentement doit être LIBRE et CONSCIENT. </span> 
-  Une personne endormie ou sous la contrainte n’est pas consentante. La prise de substance(s)  (alcool, drogues, cannabis…) ou même l’énergie sexuelle et l’intimité physique peuvent également altérer la conscience. Il est donc nécessaire d’être d’autant plus vigilant·e·s si vous  consommez ou êtes en interaction avec une/des personnes dans un état altéré de conscience.  
-
-Toutes les personnes impliquées comprennent à quoi elles s’engagent en acceptant l'interaction: <span style="text-decoration:underline"> le consentement doit être éclairé. </span> 
-
-
-6. <span style="text-decoration:underline"> Responsabilité collective </span> 
-Comme les autres principes, le consentement est la responsabilité de tous·tes. La communauté de L’OsstidBurn s’engage à intégrer ces principes avec bienveillance, et prendre soin de les faire respecter pour soi et les autres, en tant qu’acteur·trice et témoin. Chacun·e est responsable de valider et vérifier le consentement de ses partenaires, de nommer clairement ses OUI et ses NON, et de respecter les limites exprimées à chaque instant.  
+  5. <span style="text-decoration:underline"> Consent must be FREE and CONSCIOUS. </span> 
+  A person who is asleep or under duress is not consenting. Taking substances (alcohol, drugs, cannabis...) or even sexual energy and physical intimacy can also alter consciousness. So you need to be all the more vigilant if you use a psychoactive substance or interact with a person or persons in an altered state of consciousness. 
+  
+All involved clearly understand what they are committing to by accepting the interaction: <span style="text-decoration:underline"> Consent must be informed. </span> 
 
 
-L’adhésion à ces principes assure un espace plus sécuritaire pour tous·te·s à nommer et faire respecter leur NON. 
+6. <span style="text-decoration:underline"> Collective responsibility </span> 
+Like the other principles, consent is everyone’s responsibility. The L’OsstidBurn community is committed to embodying these principles in a caring way, and to ensuring that they are upheld, as an actor and as a witness. Each individual is responsible for validating and verifying the consent of their partners, for clearly naming their YES and NO,  and for respecting expressed limits at all times.
 
 
-**QUE FAIRE SI VOUS ÊTES VICTIME OU TÉMOIN D’UNE VIOLATION DE CONSENTEMENT?**
-
-* Si un·e participant·e semble mettre mal à l’aise les personnes avec qui iel interagit ou dépasse les limites explicitement consenties, n’hésitez pas à l’exprimer ouvertement. 
-* Si vous ne vous sentez pas à l’aise d’agir, approchez les Rangers.  
-* Si vous vous sentez vous-même en danger, quittez  la situation immédiatement, et allez trouver les Rangers. 
-* Nous vous invitons à informer les Rangers de tout comportement déplacé. 
-* L’organisation se réserve le droit d’exclure toute personne au comportement inapproprié. 
-https://losstidburn.com/language/en/sans-oui-cest non/
-• Suite à l’événement, si vous souhaitez nous faire part d’une situation de bris de consentement, n’hésitez pas à nous contacter à <span style="text-decoration:underline">consentement@osstidburn.com </span> 
+Adherence to these principles guarantees a safe space for everyone to name and to assert their NO
 
 
-<h2><span> PHOTOGRAPHIE  </span></h2>
+**WHAT TO DO IF YOU WITNESS OR EXPERIENCE A VIOLATION OF CONSENT?**
 
-Photographier et filmer des participant·e·s sans leur consentement est interdit. Pensez à demander avant de prendre des photos! 
+* If a participant seems to make people uncomfortable or exceeds explicitly agreed limits, feel free to express it openly.
+* If you do not feel comfortable acting, approach the **Rangers**.   
+* If you feel at risk yourself, leave the situation immediately, and go find the **Sentinels or Rangers**.
+* Please inform the **Rangers** of any inappropriate behaviour.
+* The Organization reserves the right to expel any person whose behaviour is inappropriate.
+* After the event, if you’d like to inform us of any breach of consent, you can do so by sending us an email at <span style="text-decoration:underline">consentement@osstidburn.com </span> 
 
 
-Respectez les signes «No photography» ou «Pas de photo». 
+<h2><span> PHOTOGRAPHY </span></h2>
+
+Photographing and filming participants without their consent is prohibited. Remember to ask before taking pictures!
+
+Respect the ‘No photography’ or ‘Pas de photo’ signs.
+
 
 
 <h2><span> PARENTS  </span></h2>
 
-Préparez vos enfants: expliquez-leur à l’avance ce qu’iels pourraient voir ou entendre: nudité, art iconoclaste, langage vulgaire et/ou comportements étranges font partie intégrante de l'événement. 
-Quand vous arrivez à L’OsstidBurn - faites le tour de l’événement avec les enfants et aidez-les à identifier les endroits qui pourraient les aider à se repérer. Visitez le HQ Sécurité. Nos Rangers auront des conseils pour vous. Les enfants pourront aussi s’y retrouver s’iels sont perdu·e·s. 
+PREPARE YOUR KIDS. Let your kids know in advance about the kind of things they might see and hear. Nudity, iconoclastic art, rude language and weird behaviour are all part of the event.
+
+When you get to L’OsstidBurn, walk around with  them and identify landmarks that will help them navigate and be safe. Show them Safety HQ and speak to the Rangers. Children can show up at Safety HQ if they get lost.
+

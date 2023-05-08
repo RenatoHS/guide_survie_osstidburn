@@ -1,50 +1,52 @@
-# BILLETS & ACCÈS {-}
+# TICKETS {-}
 
-Aucun billet ne sera disponible à la porte!
+No tickets will be available on site!
 
-Assurez-vous d’avoir votre billet et que tout le monde dans la voiture ait le sien. 
-
-Tous·tes les participant·e·s doivent avoir un billet à leur nom pour accéder à l’événement, une preuve d’identité.  
-
-Il est important d’avoir une preuve d’identité avec photo correspondant au nom et la date de naissance lors de votre enregistrement pour acheter un billet. Si votre nom légal diffère de celui sur le billet, veuillez nous contacter à l’avance. Notre équipe à la porte aura besoin de vous identifier pour vous laisser entrer sur le site. 
-
-Les participant·e·s de moins de 18 ans recevront un bracelet d’une couleur différente. Ces personnes seront identifiées pour leur interdire le service d'alcool.
-
-<h2><span> ENTRÉE INTERDITE </span></h2> 
-
-En cas d’entrée interdite, la ou les personne·s fautives seront expulsées immédiatement et bannies des événements futurs de L’OsstidBurn.  
-
-Transporter des passager·e·s clandestin·e·s ou aider des personnes à se faufiler est aussi grave que de se faufiler soi-même. Toutes les personnes à bord d’un véhicule transportant des passager·e·s clandestin·e·s  se verront interdire l’entrée, sans remboursement des billets.  
-Soyez respectueux·ses des organisateur·trice·s, ce sont des volontaires pour l’événement tout comme vous l’êtes.
-
-<h2><span> ACCÈS PAR VÉHICULE </span></h2> 
-
-Les derniers mètres du chemin qui mènent à l'entrée du site et au stationnement de L’OsstidBurn sont endommagés. Avancez très lentement. 
-Le sentier boisé menant aux sites de campement étant accidenté, seuls les véhicules 4x4 avec un dégagement d’au moins 12 po du sol pourront y accéder. 
-
-IMPORTANT: Si la chaussée du sentier était jugée impraticable par le propriétaire et/ou DPW (bouette due aux conditions météorologiques), un système de navettes (remorques) sera mis en place pour les oeuvres et les camps placés uniquement et en suivant le même horaire que prévu. 
+* Make sure you and everyone in your vehicle have your tickets.
+* All participants must have a ticket in their name to access the event. 
+* You must have a photo ID with the same name and birth date that you provided when you purchased your ticket. If your legal name differs from the one on the ticket, please contact us beforehand. Our gate team will need to identify you in order to let you into the site.
+* Participants under 18 will be given a different-coloured wristband so they won’t be served alcohol.
 
 
-ACCÈS AU SENTIER PAR VÉHICULE 4X4 
-Mercredi: 10h00 à 19h00 
-Jeudi: Aucun véhicule 
-Vendredi: Aucun véhicule 
-Samedi: Aucun véhicule 
-Dimanche: 09h00 à 14h00 
-Lundi: 09h00 à 14h00 
+<h2><span> PROHIBITED ENTRY </span></h2> 
 
-<h2><span> VOUS N’AVEZ PAS DE 4X4?  </span></h2> 
+Anyone who attempts to enter without a ticket will be expelled immediately and banned from future L’OsstidBurn events.
 
-Lorsque vous arriverez sur le site de L’OsstidBurn, vous devrez laisser votre véhicule au stationnement et transporter tous vos effets personnels par vos propres moyens. Les sentiers sont impraticables pour tout véhicule routier standard.
- 
-Il y a environ 15 minutes de marche d’un bout à l’autre du site le long du sentier. Arrivez préparé·e·s!
- 
-Prévoyez: diables, chariots, cordes, etc. pour  le transport de votre matériel. Le stationnement est à environ 800m du site du campement. 
+Carrying stowaways or helping people sneak in is as serious as sneaking in yourself. All passengers in a vehicle carrying stowaways will be prohibited entry without reimbursement of tickets. 
+
+Be respectful of the organizers. They are volunteers for the event, just like you are.
 
 
-Le site de L'OsstidBurn a une capacité limitée pour accueillir des véhicules. L'équipe de Stationnement fait des miracles à chaque année pour vous orienter une fois sur place.
+<h2><span> VEHICLE ACCESS </span></h2> 
 
-Si vous venez en voiture,  <span style="text-decoration:underline">**IL EST OBLIGATOIRE d'avoir votre passe de stationnement (voiture ou VR). Vous devez avoir une passe de stationnement pour chaque voiture.**</span>
+The final meters of the road leading to the entrance to the L’OsstidBurn site are quite rough. Drive very slowly.
+
+Since the trail to the camping sites is quite rugged, only 4x4 vehicles with at least 12 inches of ground clearance will be allowed access.
+
+IMPORTANT: If the owner and/or the DPW consider the trail to be impassable (muddy due to weather conditions), a shuttle system (trailers) will be set up only for artworks and placed camps, in accordance with the planned schedule. 
+
+
+ACCESS TO THE TRAIL BY 4X4 VEHICLE
+
+Tuesday: 9AM to 7PM \
+Wednesday: 9AM to 7PM \
+Thursday: No vehicles \
+Friday: No vehicles \
+Saturday: No vehicles \
+Sunday: No vehicles \
+Monday: 9AM to 2PM \
+
+<h2><span> DON’T HAVE A 4X4? </span></h2> 
+
+When you arrive at the L’OsstidBurn site, you must leave your vehicle in the parking lot and transport all your personal belongings by your own means. The trails are impassable for any standard road vehicle.
+
+It’s about a 15-minute walk from one end of the site to the other along the trail – come prepared!
+
+Bring hand trucks, wagons, ropes, etc. to transport your equipment. Parking is about 800m from the camping area.
+
+The L'OsstidBurn site has a limited capacity to accommodate cars.  The parking team works miracles every year to guide you when you arrive.
+
+If you drive to l’OsstidBurn,  <span style="text-decoration:underline">**IT IS MANDATORY to have a parking pass (car or RV). You need one parking pass for each vehicle.**</span>
  
 Stationnement & Bus pour L'OsstidBurn 2022 Billets | Eventbrite
 

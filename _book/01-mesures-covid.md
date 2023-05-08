@@ -1,13 +1,11 @@
 # MESURES COVID {-}
 
-Depuis plus de 3 ans, nous traversons une période sans précédent. Nous sommes tenu·e·s de respecter les règles en vigueur de la santé publique. 
+We’ve been going through an unprecedented period over the past 3 years and a bit. We’re required to comply with current public health rules.
 
+Although these rules have become much less strict as both federal and provincial governments have lifted isolation mandates, we ask everyone to use common sense, pay attention to possible symptoms and test and isolate themselves if necessary.
 
-Bien que ces règles se soient considérablement allégées et que les gouvernements provinciaux et fédéral n’imposent plus l’obligation de quarantaine, on demande le bon sens de chaque personne d’être attentive à ses symptômes et de procéder à un test et de s’isoler, au besoin.
-L’hygiène des mains demeure fondamentale : dans le contexte d’un événement en camping, il est parfois plus difficile de garder ses réflexes habituels. Des stations de lavage des mains (gel hydroalcoolique) seront à votre disposition à différents endroits. Nous vous encourageons fortement à avoir du gel hydroalcoolique avec vous et de procéder régulièrement à un lavage des mains à l’eau et au savon. 
+Hand hygiene remains fundamental: in the context of a camping event, it can be trickier to keep up your usual good habits. Hand washing stations (hydroalcoholic gel) will be available at various locations. We strongly encourage you to carry hand sanitizer with you and wash your hands regularly with soap and water.
 
+For more information on current public health recommendations: https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/basic-health-instructions
 
-Pour plus d’information sur les mesures actuellement suggérées par la santé publique : https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-sanitaires-de-base
-
-
-En cas de questionnement à ce sujet, veuillez communiquer avec securite@losstidburn.com
+If you have any questions, contact securite@losstidburn.com

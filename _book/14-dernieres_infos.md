@@ -1,39 +1,34 @@
-# OBJETS TROUVÉS, EXODUS ET CONSIDÉRATIONS FINALES {-}
+# LOST & FOUNDS, EXODUS AND FINAL CONSIDERATIONS {-}
 
-<h2><span>OBJETS TROUVÉS</span></h2>
+<h2><span>LOST & FOUNDS</span></h2>
 
-Cette année, la station de Lost & Found se situera ‘’HQ Sécurité’’. Adressez-vous aux équipes présentes sur place afin d’y déposer tout objet trouvé ou retrouver “votre précieux”. 
-
+This year, the Lost & Found station will be at Safety HQ. That’s where you can drop off objects you find or recover your preciousssss.
 
 <h2><span>EXODUS</span></h2>
 
-Repartez avec tout ce que vous avez apporté! 
+PACK OUT WHAT YOU PACK IN!!
+
+All participants (except LNT volunteers) must leave the property by 2PM, June 26th. Considering the high volume of traffic on the path during exodus, a schedule for vehicles will be set up with time slots reserved for entering and exiting the path. Please take this into consideration when planning your departure. The Leave No Trace session will run from 2PM to 6PM.
 
 
-Lundi 26 juin à 14h00 : tous·es les participant·e·s  (à l’exception des volontaires du Leave No Trace) doivent avoir quitté les lieux. Compte tenu du fort volume de trafic sur le sentier lors de l’exode, un horaire sera établi pour les véhicules avec des plages pour entrer et sortir du sentier. Veuillez le consulter pour planifier votre départ. La session de Leave No Trace aura lieu de 14h à 18h. 
+Take time to do a MOOP sweep of your campsite and other areas you frequented before leaving.
 
+Every piece of waste must be picked up.
 
-Prenez le temps de vérifier votre emplacement et les lieux que vous avez fréquentés avant de quitter.  
+Everyone in line!
 
+Stay one meter apart.
 
-Tout déchet doit être ramassé. 
-
-
-Mettez-vous tous.tes en ligne! 
-
-
-Laissez un mètre d’espace entre vous. 
-
-
-Avancez et ramassez tout ce que vous voyez! MOOP OUT!
+Walk forward and pick up everything you see! MOOP OUT!
 
 **MOOP OUT!**
 
-<h2><span> FIN. </span></h2>
+<h2><span> THE END </span></h2>
 
-Merci d’avoir lu ce guide. 
-Plus il sera lu, meilleure sera l’expérience pour  tout le monde à L’OsstidBurn.
+Thank you for reading this guide.
+
+The more it’s read, the better everyone’s experience will be at L’OsstidBurn.
 
 --- 
 
-Nous sommes tous·tes responsables de ce que sera cet événement! Nous ne savons pas ce qui se passera à L’OsstidBurn, c’est la beauté de l’événement et de sa communauté! 
+We are all responsible for what this event is going to be! We do not know what will happen at L’OsstidBurn – that’s the beauty of the event and the community that creates it.

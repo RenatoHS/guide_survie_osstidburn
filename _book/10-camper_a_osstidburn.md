@@ -1,68 +1,67 @@
-# CAMPING, GENERATRICES, SON ET AUTRES INFOS {-}
+# CAMPING, GENERATORS, SOUND AND OTHER INFORMATION {-}
 
-<h2><span>CAMPER À L’OSSTIDBURN </span></h2> 
-
-
-Les camps thématiques auront des zones de camping clairement identifiées. Si vous ne faites pas partie d’un camp thématique, installez-vous dans une zone de libre-camping. 
-
-Il y aura des camps sonores à L’OsstidBurn qui joueront du son amplifié au cours de la nuit. Prenez en compte au moment de vous installer. Si vous avez le sommeil léger, il est possible de s'installer plus haut, près de la plaine afin de passer des nuits plus calmes. 
+<h2><span>CAMPING AT L’OSSTIDBURN</span></h2> 
 
 
-Nous sommes à quelques centaines de mètres de la  frontière américaine. Évitez de vous éloigner de ce  côté. Pour votre liberté, respectez les limites du  terrain. Nous ne voulons pas vous perdre aux mains de troopers américains ;)  
+Theme camps will be given clearly marked camping areas. If you’re not affiliated with a Theme camp, please camp in an open-camping area.
+
+There will be sound camps at L’OsstidBurn that will play amplified sound throughout the night. Please take this into account when choosing your location. If you are a light sleeper, it is possible to find quieter spots at the top (closer to the Plana).
+
+We’re only a few hundred meters away from the American border. Don’t wander too far away. For your own personal safety and freedom, stay within the limits of the site. We don’t want to go on a mission to retrieve you from U.S. customs ;)
+
+Don’t go out by yourself at night. There are bears in the area. Note: Bears don’t like amplified noises, so they should keep their distance.
+
+Help each other do tick checks regularly.
 
 
-La nuit, promenez-vous à deux. Il y a des ours dans le coin. Note: Les ours n’aiment pas le son amplifié, ne vous inquiétez pas trop. 
 
-Aidez-vous les un·e·s les autres pour faire des «tick checks» régulièrement.
-
-
-<h2><span> GÉNÉRATRICES </span></h2>
+<h2><span> GENERATORS </span></h2>
 
 
-Soyez responsables lorsque vous utilisez des génératrices afin d’éviter de contaminer le sol et l’eau du site. Les fuites et renversements sont dangereux à la fois pour les participant·e·s et pour la forêt. Les feux d’essence sont extrêmement dangereux et difficiles à éteindre et augmentent drastiquement le risque de feux de forêt. Si vous avez des questions concernant l’usage de votre génératrice dans la forêt, veuillez contacter les Rangers ou l’équipe de FAST. 
+Please be responsible when using generators and gasoline to avoid contaminating the ground and water. Leaks and spills are dangerous for participants and the forest. Gasoline fires are extremely hazardous and difficult to put out, and drastically increase the risk of forest fires. If you have questions about using your generator safely in the forest, please contact Rangers or FAST.
 
-* Toute essence pour génératrice doit être entreposée à plus de 3 mètres (10 pieds) de la génératrice, et 15 mètres (50 pieds) de tout feu de camp ou autre flamme ouverte. 
-* Ne jamais installer de génératrice dans une tente utilisée pour dormir ou tout contenant scellé. 
-* En cas de déversement d’essence, contactez les Rangers immédiatement. 
-* Ne laissez pas votre génératrice rouler inutilement. Si vous n’avez plus besoin d’électricité, veuillez arrêter la génératrice. 
-* N’éteignez pas de génératrice qui ne vous appartient  pas sauf en cas d’urgence ou de danger immédiat. Tentez plutôt de trouver son ou sa propriétaire si elle pose problème ou vous incommode. 
-* Nettoyez toutes les feuilles et brindilles dans un espace de 1.5 mètres (5 pieds) autour de votre génératrice. 
-* Gardez en tout temps un extincteur d’incendie en lieu visible et à moins de 5 mètres (16 pieds) de votre génératrice. 
-* Les rallonges électriques enroulées peuvent chauffer et s’enflammer lorsqu’elles transportent un courant élevé. Ne les laissez pas à proximité de votre carburant ou de votre génératrice. 
+* All gas for generators should be stored in the shade at least 3m (10 ft) from your generator and 15m (50 ft) from any fire pit/burn barrel/open flame.  
+* Never run a generator in a sleeping tent or other enclosed space.
+* In the event of a gasoline spill, contact the Rangers immediately.
+* Do not let your generator run needlessly. If you don’t need power, turn it off.
+* Do not turn off a generator that is not yours except in case of emergency or immediate danger. Try instead to find its owner if it poses a problem or bothers you.
+* Clear all leaves and twigs from within a 1.5-meter (5 ft) area around your generator.
+* Keep a fire extinguisher in a visible location within 5 meters (16 ft) of the generator at all times. 
+* Coiled extension cords can heat up and even catch fire when they carry a large load. Do not leave extension cord coils close to your gasoline or generator.
 
 
-<h2><span> POLITIQUE DE SON
-«GANGRÈNE PAS DES AUTRES»  </span></h2>  
 
-La politique complète de SonCoeur (Sound Core) est disponible sur le site de L’OsstidBurn: 
+<h2><span> SOUND POLICY 
+
+The SonCoeur (Sound Core) policy guide is available on the L’OsstidBurn website:
 https://losstidburn.org/a-propos/politiques/ 
 
-L’équipe de SonCoeur (Sound Core) croit en la capacité des opérateur·trice·s de systèmes de son à s’auto réguler et nous en appelons à leur bon jugement et leur capacité à s’adapter aux diverses situations que représente un burn. 
+The SonCoeur team believes in the sound system operators’ ability to self-regulate and we appeal to their best judgment and ability to adapt to the various situations that a burn represents.
 
-Il n’y aura pas de «police du son» et de patrouille pour s’assurer que les règles seront respectées. Par contre, les règles sont assez claires et précisent que n’importe quel·le participant·e est en droit de consulter un camp (et son sonomètre) afin de vérifier son niveau sonore. 
+There will be no “sound police” or patrol to enforce the rules. That being said, the rules are quite clear and specify that any participant is entitled to consult a camp (and its sound level meter) in order to check noise level.
+ 
 
-* Tous les systèmes de son de catégorie 1+  (voir le guide) doivent s’enregistrer avant  l’événement. 
-* Limite en tout temps de 100 décibels à 5m (pondération dBC). 
-Période de silence (sans musique amplifiée ni génératrices) entre 6 et 10 am le vendredi, samedi, dimanche et lundi (de 6h au début du GTFO). 
-* Un·e opérateur·trice doit être à proximité pendant le fonctionnement de son système de son. En aucun cas un système amplifié ne devrait être laissé fonctionnel sans personne réveillée autour (il peut y avoir exception pour une installation d’art à un volume raisonnable). 
-* Une situation exceptionnelle peut demander des mesures exceptionnelles.
-
-
-Cette politique est sujette à changement au courant de l’événement - on cherche à établir une bonne relation avec la ville et les voisin·e·s alors soyez coopératif·ve·s si un·e membre de SonCoeur vous demande de diminuer le niveau sonore et surtout ne montez pas le volume 20 minutes plus tard. 
+* All category 1+ sound systems (check the guide) must register before the event.
+* Limit at all times is 100 decibels at 5m (dBC weighting).
+* Quiet hours (without amplified music and generators) between 6AM and 10AM on Friday, Saturday, Sunday and Monday (from 6AM until GTFO).
+* An operator must be nearby while their sound system is running. Under no circumstances should an amplified system be left in operation * without anyone awake around (some exceptions could be made for an art installation).
+* An exceptional situation may require exceptional measures.
 
 
-Après deux avertissements, vous devrez couper le son pour le reste de l’événement. 
-Nous rappelons que les participant·e·s ont toujours le droit de communiquer poliment leur opinion au sujet du niveau sonore d’un soundcamp. Un sound camp à la liberté de prendre en compte ou non le commentaire, en autant que les règles de son aient été respectées. Faisons de notre mieux pour nous mettre à la place de l’autre et ne pas causer de migraine inutile (que ce soit avec du son ou des conflits). 
+This policy is subject to change. We are looking to establish a good relationship with the neighbours and the Township, so please cooperate if we ask you to turn it down (and especially do not turn it back up afterwards!!!)
+
+After two warnings, you will have to cut your sound for the rest of the event.
+
+Remember, participants always have the right to politely express their opinion about the noise level of a soundcamp. The soundcamp is free to agree or not (if the rules are correctly followed). Let’s do our best to put ourselves in the other person’s shoes and not cause any unnecessary headaches (whether caused by sound or conflict).
+
+<h2><span> TOILETS / PORTA-POTTIES </span></h2>  
+
+Take care of them and keep them clean for the next person. 
+
+**WHAT GOES IN THE TOILET**
+
+* What comes out of your sweet body 
+* Toilet paper (single-ply)
 
 
-<h2><span> TOILETTE / PORTA POTTIES </span></h2>  
-
-Prenez-en soin, gardez-les propres pour les suivant·e·s.  
-
-**CE QUI VA DANS LES TOILETTES**
-
-* Ce qui sort de votre beau body  
-* Papier de toilette (1 épaisseur) 
-
-À ne pas mettre dans les Porta-Potties: tampons, serviettes hygiéniques, essuie-mains, couches, mégots de cigarettes ou tout autre déchet. Apportez un sac avec vous pour en disposer.  
-
+Do not put any of the following in the Porta-Potties: tampons, sanitary napkins, hand towels, diapers, cigarette butts or any other waste. Bring a bag with you to dispose of such items.

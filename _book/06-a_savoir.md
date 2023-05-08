@@ -1,35 +1,32 @@
-# À SAVOIR - TRÈS IMPORTANT {-}
+# PLEASE NOTE - CRAZY IMPORTANT {-}
 
-**EAU**\
-Il n’y aura pas d’accès à de l’eau potable. Vous devez amener votre eau pour votre consommation. Nous conseillons 3L par personne et par jour.  
+**WATER**\
+There will be no access to drinking water. You must bring your own water for consumption. We suggest 3L per person per day.
 
-**BAIGNADE**  \
-La baignade est strictement interdite une fois la nuit tombée!  
-Aucun lavage de vaisselle ou lavage de corps dans le ruisseau, pas de savon dans le ruisseau, même s’il est bio. 
-
-
-**VOLONTARIAT** \
-Tout à L’OsstidBurn est organisé et géré par des volontaires. Le volontariat, c’est une belle façon de contribuer et de participer à l’événement. Il existe plusieurs façons de vous impliquer: Accueil, Premiers Soins, Rangers, Périmètre du Feu, Département public de la Wouérie (DPW), etc. 
+**SWIMMING**  \
+Absolutely no swimming after dark! 
+It is forbidden to wash your dishes or yourself in the stream. Even if your soap is biodegradable, don’t do it. Keep the stream pristine.
 
 
-https://participation.losstidburn.org
+**VOLUNTEERING** \
+Everything at L’OsstidBurn is organized and run by volunteers. Volunteering is a great way to contribute and participate in the event. There are many ways to get involved: Gate, First Aid, Rangers, Fire Perimeter, Department of Public Works (DPW) etc.
+
+https://participation.losstidburn.org 
+
+**TICKS** \
+The Eastern Townships is a hotspot for infected ticks that can transmit Lyme disease. See this site for further information: 
+
+https://www.quebec.ca/en/health/health-issues/a-z/lyme-disease/
+
+**PORTABLE ASHTRAYS** \
+SMOKERS! Don’t toss your butts in the forest – use a portable ashtray.
+
+**FIRE ARTS** \
+Any flame effect or fire poofer must have been placed on the site by the organization beforehand.  If you or your camp plans to install a fire work, you must apply for a specific placement. Before lighting, you must have your work checked by a member of FAST (Fire Art Safety Team).
+
+**EXITS / ENTRIES** \
+If you leave the site, you can’t re-enter unless there’s an urgent need to do so. Remember, there’s no drinking water or electricity on site!
 
 
-**LES TIQUES** \
-Les Cantons-de-l’Est font partie des zones particulièrement à risque pour la présence des tiques infectées pouvant transmettre la maladie de lyme. Consultez ce site pour plus d'informations: https://www.quebec.ca/sante/problemes-de-sante/ a-z/maladie-de-lyme 
-
-
-**CENDRIERS DE POCHE** \
-ATTENTION AUX FUMEUR·EUSE.S! Ne jetez pas vos mégots dans la forêt – utilisez un cendrier portatif. 
-
-
-**ARTS DE FEU** \
-Toute œuvre de feu (flame effect ou fire poofer) doit avoir été positionnée sur le site par l’organisation préalablement.  Si vous ou votre camp comptez installer une œuvre de feu, vous devez faire une demande de placement spécifique. Avant l’allumage, il faut faire vérifier son œuvre par un membre de FAST (Feu & Art  Sécuritaires en Tabouère). 
-
-
-**SORTIES / RENTRÉES** \
-Aucune réadmission n’est autorisée lorsque vous sortez du site, sauf pour urgence. Nous vous rappelons qu’aucune eau potable, ni électricité ne sont disponibles sur le site! 
-
-
-**FEU DE CAMPS** \
-AUCUN FEU DE CAMPS PERMIS! Référez-vous à la  section «Burn Barrels: Règles et modalités». 
+**CAMPFIRES** \
+NO CAMPFIRES ALLOWED! Refer to the "Burn Barrels: Rules & Regulations"
