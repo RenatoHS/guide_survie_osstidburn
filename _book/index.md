@@ -22,6 +22,8 @@ bookdown::bs4_book:
 
 # LE GUIDE QUE TU DOIS ABSOLUMENT LIRE {-}
 
+<img src="www/logo.png"  width=100% height=50%>
+
 <h2><span> AVANT-PROPOS </span></h2> 
 
 Tout à L’OsstidBurn est organisé et géré par des volontaires.  Le volontariat, c’est une belle façon de contribuer et de participer à l’événement. Il existe plusieurs façons de s’impliquer: Accueil, Premiers Soins, Rangers, Sanctuaire, Périmètre du Feu, Département public de la  
