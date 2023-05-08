@@ -1,10 +1,10 @@
 # L’OSSTIDBURN ?? {-}
 
-<h2><span>QUESSÉ?</span></h2> 
+<h2><span>QUESSÉ ?</span></h2> 
 
 L’OsstidBurn est un Burn régional, c'est-à-dire un  événement d’art participatif organisé par des Burners locaux pour apporter la culture et les principes de Burning Man au sein de leurs communautés.
 
-<h2><span>MISSION?</span></h2>
+<h2><span>MISSION ?</span></h2>
 
 La mission de L’OsstidBurn est de promouvoir l’art et l’engagement participatif. Inspiré par  les principes de Burning Man, L’OsstidBurn invite chaque participant·e à exprimer sa créativité de manière libre et radicale. 
 
@@ -23,6 +23,7 @@ L’OsstidBurn est reconnu par Burning Man comme un événement régional offici
 <h2><span> OÙ ? </span></h2>
 
 L’adresse et les coordonnées seront envoyées à tous les détenteur·ice·s de billets 48 heures avant l’événement. 
+
 Cantons-de-l’Est
 
 • 1h40 de Montréal 

@@ -34,7 +34,7 @@ Samedi: Aucun véhicule \
 Dimanche: 09h00 à 14h00 \
 Lundi: 09h00 à 14h00 \
 
-<h2><span> VOUS N’AVEZ PAS DE 4X4?  </span></h2> 
+<h2><span> VOUS N’AVEZ PAS DE 4X4 ?  </span></h2> 
 
 Lorsque vous arriverez sur le site de L’OsstidBurn, vous devrez laisser votre véhicule au stationnement et transporter tous vos effets personnels par vos propres moyens. Les sentiers sont impraticables pour tout véhicule routier standard.
  
