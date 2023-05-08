@@ -1,4 +1,4 @@
-# MESURES COVID {-}
+#  COVID MESURES {-}
 
 We’ve been going through an unprecedented period over the past 3 years and a bit. We’re required to comply with current public health rules.
 
