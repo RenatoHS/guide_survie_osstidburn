@@ -1,6 +1,7 @@
 --- 
 title: "Guide de Survie Édition 2023"
 site: bookdown::bookdown_site
+author: "Équipe OsstidBurn"
 documentclass: book
 bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
