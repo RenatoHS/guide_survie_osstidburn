@@ -1,6 +1,7 @@
 --- 
 title: "Survival Guide 2023 edition"
 site: bookdown::bookdown_site
+author: "l'OsstidBurn Team"
 documentclass: book
 bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
@@ -39,6 +40,7 @@ https://participation.losstidburn.org
 
 Then, don’t forget to update your information!
 
+**Pour accéder à la version française de ce guide clickez ->>[ICI](https:/guide-survie-osstidburn-fr.netlify.app/)<<-**
 
 ```{r, eval=FALSE, include = FALSE}
 bookdown::render_book()
