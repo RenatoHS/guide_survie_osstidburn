@@ -4,10 +4,9 @@ Aucun billet ne sera disponible à la porte!
 
 Assurez-vous d’avoir votre billet et que tout le monde dans la voiture ait le sien. 
 
-Tous·tes les participant·e·s doivent avoir une preuve d’identité et un billet à leur nom pour accéder à l’événement.
+Tous·tes les participant·e·s doivent avoir un billet à leur nom pour accéder à l’événement, une preuve d’identité.  
 
-Il est important d’avoir une preuve d’identité avec photo correspondant au nom et la date de naissance inscrite lors de votre inscription pour un billet. Notre équipe à la porte se basera sur cette pièce d’identité pour vous identifier et vous laisser entrer sur le site
-Si votre nom légal diffère de celui sur le billet, veuillez nous contacter à l’avance. Notre équipe à la porte aura besoin de vous identifier pour vous laisser entrer sur le site. 
+Il est important d’avoir une preuve d’identité avec photo correspondant au nom et la date de naissance lors de votre enregistrement pour acheter un billet. Si votre nom légal diffère de celui sur le billet, veuillez nous contacter à l’avance. Notre équipe à la porte aura besoin de vous identifier pour vous laisser entrer sur le site. 
 
 Les participant·e·s de moins de 18 ans recevront un bracelet d’une couleur différente. Ces personnes seront identifiées pour leur interdire le service d'alcool.
 
@@ -32,7 +31,7 @@ Mercredi: 10h00 à 19h00 \
 Jeudi: Aucun véhicule \
 Vendredi: Aucun véhicule \
 Samedi: Aucun véhicule \
-Dimanche: Aucun véhicule \
+Dimanche: 09h00 à 14h00 \
 Lundi: 09h00 à 14h00 \
 
 <h2><span> VOUS N’AVEZ PAS DE 4X4 ?  </span></h2> 
