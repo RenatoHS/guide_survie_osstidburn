@@ -32,6 +32,6 @@ To avoid fire spread, do not perform fire performance outside this safe zone.
 
 **FIRE JAM**
 
-Except for Conclave, there will be no fire jam area during the 2022 edition because we could not get any insurance for that. If you wish to create and manage your own fire jam area and you have the necessary insurance, please contact us:
+Except for Conclave, there will be no fire jam area during the 2023 edition because we could not get any insurance for that. If you wish to create and manage your own fire jam area and you have the necessary insurance, please contact us:
 
 participation@losstidburn.com
