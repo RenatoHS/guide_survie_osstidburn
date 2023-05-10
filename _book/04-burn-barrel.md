@@ -1,4 +1,4 @@
-# BURN BARREL {-}
+# BURN BARRELS {-}
 
 <h2><span>RÈGLES ET MODALITÉS D’USAGE</span></h2> 
 
