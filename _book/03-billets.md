@@ -1,10 +1,12 @@
-# TICKETS {-}
+# TICKETS & ACCESS {-}
 
 No tickets will be available on site!
 
 * Make sure you and everyone in your vehicle have your tickets.
 * All participants must have a ticket in their name to access the event. 
-* You must have a photo ID with the same name and birth date that you provided when you purchased your ticket. If your legal name differs from the one on the ticket, please contact us beforehand. Our gate team will need to identify you in order to let you into the site.
+* You must have a photo ID with the same name and birth date that you provided when you purchased your ticket. Our gate team will need to identify you in order to let you into the site. 
+* If your chosen name differs from your legal name, inform our volunteers at the entrance so that they know how to address you correctly. For instance you can put a post-it on your ID with your chosen name. 
+
 * Participants under 18 will be given a different-coloured wristband so they won’t be served alcohol.
 
 
