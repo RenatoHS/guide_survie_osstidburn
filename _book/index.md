@@ -27,13 +27,11 @@ bookdown::bs4_book:
 
 <h2><span> AVANT-PROPOS </span></h2> 
 
-Tout à L’OsstidBurn est organisé et géré par des volontaires.  Le volontariat, c’est une belle façon de contribuer et de participer à l’événement. Il existe plusieurs façons de s’impliquer: Accueil, Premiers Soins, Rangers, Sanctuaire, Périmètre du Feu, Département public de la  
-Wouérie (DPW), etc. 
+Tout à L’OsstidBurn est organisé et géré par des volontaires.  Le volontariat, c’est une belle façon de contribuer et de participer à l’événement. Il existe plusieurs façons de s’impliquer: Accueil, Premiers Soins, Rangers, Sanctuaire, Périmètre du Feu, Département public de la Wouérie (DPW), etc. 
 
 
 Toutes les personnes participant à L’OsstidBurn sont invitées à combler un minimum de deux postes durant l’événement. À l’achat de votre billet, vous avez reçu le lien vers la plateforme de volontariat (ci-dessous). Allez choisir vos quarts dès maintenant si ce n’est pas déjà fait! 
-Assurez-vous d’avoir un billet avant de vous y inscrire; s’inscrire ne donne pas accès à  
-un billet. ;-)  
+Assurez-vous d’avoir un billet avant de vous y inscrire; s’inscrire ne donne pas accès à un billet. ;-)  
 
 https://participation.losstidburn.org
 

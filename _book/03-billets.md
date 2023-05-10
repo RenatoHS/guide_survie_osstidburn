@@ -2,15 +2,15 @@
 
 Aucun billet ne sera disponible à la porte!
 
-Assurez-vous d’avoir votre billet et que tout le monde dans la voiture ait le sien. 
+* Assurez-vous d’avoir votre billet et que tout le monde dans la voiture ait le sien. 
 
-Tous·tes les participant·e·s doivent avoir une preuve d’identité et un billet à leur nom pour accéder à l’événement.
+* Tous·tes les participant·e·s doivent avoir une preuve d’identité et un billet à leur nom pour accéder à l’événement.
 
-Il est important d’avoir une preuve d’identité avec photo correspondant au nom et la date de naissance inscrite lors de votre inscription pour un billet. Notre équipe à la porte se basera sur cette pièce d’identité pour vous identifier et vous laisser entrer sur le site
-Si votre nom usuel (choisi) diffère de votre nom légal, informez nos volontaires à l’entrée afin qu’iels sachent comment s'adresser à vous correctement (par exemple, vous pouvez mettre un post-it sur votre pièce d’identité avec votre nom choisi).
+* Il est important d’avoir une preuve d’identité avec photo correspondant au nom et la date de naissance inscrite lors de votre inscription pour un billet. Notre équipe à la porte se basera sur cette pièce d’identité pour vous identifier et vous laisser entrer sur le site
 
+* Si votre nom choisi diffère de votre nom légal, informez nos volontaires à l’entrée afin qu’iels sachent comment s'adresser à vous correctement (par exemple, vous pouvez mettre un post-it sur votre pièce d’identité avec votre nom choisi).
 
-Les participant·e·s de moins de 18 ans recevront un bracelet d’une couleur différente. Ces personnes seront identifiées pour leur interdire le service d'alcool.
+* Les participant·e·s de moins de 18 ans recevront un bracelet d’une couleur différente. Ces personnes seront identifiées pour leur interdire le service d'alcool.
 
 <h2><span> ENTRÉE INTERDITE </span></h2> 
 

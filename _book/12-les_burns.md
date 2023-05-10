@@ -16,9 +16,9 @@ https://participation.losstidburn.org
 * Dans le cas d’une interdiction de feu lors de l’événement, il n’y aura pas de Burn. L’Effigie et le Temple sont des œuvres participatives. Si vous le désirez, rendez-vous sur la Plana durant la semaine pour aider les équipes à créer les structures.  
 
 
-<h2><span> OEUVRE DE FEU (FLAME EFFECT) </h2></span>
+<h2><span> OEUVRE DE FEU </h2></span>
 
-Toute installation de feu (Flame effect) doit être pré-enregistrée avant l’évènement. Elle devra aussi être inspectée et approuvée avant son activation par l’équipe de FAST, Feu & Art Sécuritaires en Tabouère.
+Toute installation de feu doit être pré-enregistrée avant l’évènement. Elle devra aussi être inspectée et approuvée avant son activation par l’équipe de FAST, Feu & Art Sécuritaires en Tabouère.
 
 <h2><span> ARTISTE DE FEU </h2></span>
 
@@ -38,6 +38,6 @@ En raison d’un risque de propagation de feu, ne jonglez pas avec du feu ailleu
 
 **ESPACE JAM DE FEU**
 
-En dehors du Conclave, il n’y a pas d’espace Jam de Feu prévu pour l’édition 2022 car nous ne possédons pas d’assurances à cet effet. Si vous désirez créer et gérer votre propre espace et que vous possédez des assurances, écrivez-nous à : 
+En dehors du Conclave, il n’y a pas d’espace Jam de Feu prévu pour l’édition 2023 car nous ne possédons pas d’assurances à cet effet. Si vous désirez créer et gérer votre propre espace et que vous possédez des assurances, écrivez-nous à : 
 
 participation@losstidburn.com 

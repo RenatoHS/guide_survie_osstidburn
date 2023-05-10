@@ -1,12 +1,13 @@
 # ARRIVÉES {-}
 
-<h2><span> EARLY ARRIVALS </span></h2> 
+<h2><span> "EARLY ARRIVALS" </span></h2> 
 
-* 21 Juin - Mercredi: 10h00 à 01h00 (Lendemain) 
+* 20 Juin - Mardi: 10h00 à 01h00 (Lendemain) 
 
 
 <h2><span> ACCÈS GÉNÉRAL </span></h2> 
 
+* 21 Juin - Mercredi: 10h00 à 01h00 (Lendemain)
 * 22 Juin - Jeudi: 10h00 à 01h00 (Lendemain) 
 * 23 Juin - Vendredi: 10h00 à 01h00 (Lendemain) 
 * 24 Juin - Samedi: 10h00 à 17h00 
