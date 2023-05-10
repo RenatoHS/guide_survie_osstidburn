@@ -32,7 +32,7 @@ Soyez responsables lorsque vous utilisez des génératrices afin d’éviter de 
 
 
 <h2><span> POLITIQUE DE SON
-«GANGRÈNE PAS DES AUTRES»  </span></h2>  
+«GANGRÈNE PAS LES AUTRES»  </span></h2>  
 
 La politique complète de SonCoeur (Sound Core) est disponible sur le site de L’OsstidBurn: 
 https://losstidburn.org/a-propos/politiques/ 
