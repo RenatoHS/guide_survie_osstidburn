@@ -1,7 +1,7 @@
 # BURNING MAN : 10 principles {-} 
 
-THESE PRINCIPLES AREN’T COMMANDMENTS OR RULES. THEY’RE IDEALS THAT OFFER GUIDELINES TO REINVENT THE WORLD AND OURSELVES.
-PARTICIPATION CAN RADICALLY CHANGE YOUR PERCEPTION OF THE SURROUNDING ENVIRONMENT AND MAY PERMANENTLY ALTER THE WAY YOU INTERACT WITH IT.
+**These principles aren't commandments or rules. They're ideals that offer guidelines to reinvent the world and ourselves.**
+**Participation in this event can radically change your perception of the surrounding environment and may permanently alter the way you interact with it.**
 
 <h2><span> CIVIC RESPONSIBILITY   </span></h2>
 Everyone must behave in a civic and respectful manner and uphold the 10 principles that govern the event.

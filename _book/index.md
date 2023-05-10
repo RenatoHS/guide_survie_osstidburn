@@ -40,7 +40,7 @@ https://participation.losstidburn.org
 
 Then, don’t forget to update your information!
 
-**Pour accéder à la version française de ce guide clickez ->>[ICI](https:/guide-survie-osstidburn-fr.netlify.app/)<<-**
+**Pour accéder à la version française de ce guide clickez ->>[ICI](https://guide-survie-osstidburn-fr.netlify.app/)<<-**
 
 
 

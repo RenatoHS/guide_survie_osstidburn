@@ -13,11 +13,11 @@ https://participation.losstidburn.org
 * If there’s a fire ban during the event, there will be no Burn. The Effigy and Temple are collective works. If you want to participate, head over to the Plana during the week to help the teams build these structures.
 
 
-<h2><span> OEUVRE DE FEU (FLAME EFFECT) </h2></span>
+<h2><span> FLAME EFFECT </h2></span>
 
 All flame effects must be pre-registered prior to the event. It must also be inspected and approved before activation by the FAST (Fire Art Safety Team).
 
-<h2><span> ARTISTE DE FEU </h2></span>
+<h2><span> FIRE PERFORMANCES </h2></span>
 
 
 **CONCLAVE**  
@@ -30,7 +30,7 @@ A mandatory meeting for all Conclave participants will take place in the afterno
 
 To avoid fire spread, do not perform fire performance outside this safe zone.
 
-**ESPACE JAM DE FEU**
+**FIRE JAM**
 
 Except for Conclave, there will be no fire jam area during the 2022 edition because we could not get any insurance for that. If you wish to create and manage your own fire jam area and you have the necessary insurance, please contact us:
 

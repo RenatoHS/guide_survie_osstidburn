@@ -31,7 +31,7 @@ Please be responsible when using generators and gasoline to avoid contaminating 
 
 
 
-<h2><span> SOUND POLICY 
+<h2><span> SOUND POLICY </span></h2>
 
 The SonCoeur (Sound Core) policy guide is available on the L’OsstidBurn website:
 https://losstidburn.org/a-propos/politiques/ 
