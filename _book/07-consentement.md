@@ -41,7 +41,6 @@ L’adhésion à ces principes assure un espace plus sécuritaire pour tous·te�
 * Si vous vous sentez vous-même en danger, quittez  la situation immédiatement, et allez trouver les Rangers. 
 * Nous vous invitons à informer les Rangers de tout comportement déplacé. 
 * L’organisation se réserve le droit d’exclure toute personne au comportement inapproprié. 
-https://losstidburn.com/language/en/sans-oui-cest non/
 * Suite à l’événement, si vous souhaitez nous faire part d’une situation de bris de consentement, n’hésitez pas à nous contacter à <span style="text-decoration:underline">consentement@osstidburn.com </span> 
 
 
