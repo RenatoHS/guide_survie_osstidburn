@@ -52,7 +52,7 @@ If you drive to l’OsstidBurn,  <span style="text-decoration:underline">**IT IS
 
 Do you have free space in your car? We suggest carpooling.
 It's good for the environment and it reduces the number of cars in the site.
-Clink on the [OsstidBurn carpool link](https://www.groupcarpool.com/t/qtayhw) to set up a carpool.
+Click on the [OsstidBurn carpool link](https://www.groupcarpool.com/t/qtayhw) to set up a carpool.
 
  
 Stationnement & Bus pour L'OsstidBurn 2022 Billets | Eventbrite **not working, will be updated soon**
