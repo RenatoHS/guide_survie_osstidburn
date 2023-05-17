@@ -48,7 +48,11 @@ Prévoyez: diables, chariots, cordes, etc. pour  le transport de votre matériel
 Le site de L'OsstidBurn a une capacité limitée pour accueillir des véhicules. L'équipe de Stationnement fait des miracles à chaque année pour vous orienter une fois sur place.
 
 Si vous venez en voiture,  <span style="text-decoration:underline">**IL EST OBLIGATOIRE d'avoir votre passe de stationnement (voiture ou VR). Vous devez avoir une passe de stationnement pour chaque voiture.**</span>
+
+Vous avez de la place disponible dans votre voiture? Encouragez le covoiturage.
+C’est bon pour l’environnement et ça permet de réduire le nombre de voiture sur le site 
+Voici le [lien de coiturage d'OsstidBurn](https://www.groupcarpool.com/t/qtayhw) pour en organiser un. 
  
-Stationnement & Bus pour L'OsstidBurn 2022 Billets | Eventbrite
+Stationnement & Bus pour L'OsstidBurn 2022 Billets | Eventbrite **va être mis à jour bientôt**
 
 
