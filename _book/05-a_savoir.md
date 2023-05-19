@@ -10,7 +10,7 @@ Aucun lavage de vaisselle ou lavage de corps dans le ruisseau, pas de savon dans
 
 **VOLONTARIAT** \
 Tout à L’OsstidBurn est organisé et géré par des volontaires. Le volontariat, c’est une belle façon de contribuer et de participer à l’événement. Il existe plusieurs façons de vous impliquer: Accueil, Premiers Soins, Rangers, Périmètre du Feu, Département public de la Wouérie (DPW), etc. 
-
+Vous devez avoir acheté un billet pour accéder à la plateforme d’inscription!
 
 https://participation.losstidburn.org
 
