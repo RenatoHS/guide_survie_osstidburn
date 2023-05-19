@@ -10,6 +10,7 @@ It is forbidden to wash your dishes or yourself in the stream. Even if your soap
 
 **VOLUNTEERING** \
 Everything at L’OsstidBurn is organized and run by volunteers. Volunteering is a great way to contribute and participate in the event. There are many ways to get involved: Gate, First Aid, Rangers, Fire Perimeter, Department of Public Works (DPW) etc.
+You must have purchased a ticket to access the registration platform!
 
 https://participation.losstidburn.org 
 
