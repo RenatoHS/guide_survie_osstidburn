@@ -22,7 +22,6 @@ Pour de tels appareils:
 * Un·e opérateur·trice sobre doit en tout temps être présent·e lorsque l’appareil est en fonction. 
 * Positionnez l’appareil dans un espace dégagé et assurez-vous de la stabilité de l’appareil  lorsque déployé. 
 * Nettoyez toutes feuilles et brindilles dans un espace de 1.5 mètres autour de l’appareil et assurez-vous que l’espace soit suffisamment dégagé en haut de l’appareil. 
-* Feux de camp & risque de feu de forêt 
 * Assurez-vous que tout autre combustible  (propane, essence, etc.) soit à plus de 10  mètres de l’appareil en fonction. 
 * Gardez en tout temps un extincteur d’incendie en lieu visible et à moins de 5 mètres de l’appareil. 
 
