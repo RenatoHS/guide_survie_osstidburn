@@ -1,4 +1,4 @@
-# PRINCIPLES OF CONSENT {-}
+# CONSENT {-}
 
 1.  <span style="text-decoration:underline">Consent applies to all types of interactions with two or more people </span> (hugging, talking, touching, dancing, sex, sitting near someone...)
 
