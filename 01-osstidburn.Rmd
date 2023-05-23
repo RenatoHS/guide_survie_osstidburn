@@ -4,6 +4,9 @@
 
 L'OsstidBurn is a regional Burn, which is a participative art event organized by local Burners to bring Burning Man culture and principles to their local communities.
 
+The website for the event is the following:
+https://losstidburn.org/
+
 <h2><span>MISSION?</span></h2>
 
 L’OsstidBurn’s mission is to promote engagement in art and participation. Inspired by the 10 principles of Burning Man, L’OsstidBurn encourages participants to express their creativity freely and radically.
