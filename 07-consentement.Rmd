@@ -1,4 +1,4 @@
-# PRINCIPE DU CONSENTEMENT {-}
+# CONSENTEMENT {-}
 
 1.  <span style="text-decoration:underline">Le consentement concerne tous types d’interactions à deux ou à plusieurs </span>(câlins, discussions, toucher, danse, sexe, s’asseoir à côté de quelqu’un...) 
 

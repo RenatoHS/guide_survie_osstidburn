@@ -48,7 +48,7 @@
 
 * Lasers
 * Armes à feu 
-* Articles faisant de la MOOP – plumes, confettis,  «glitters», etc. 
+* Articles faisant de la MOOP – plumes, confettis,  paillettes, etc. 
 * Articles suremballés – à éviter ou à jeter avant de partir 
 * Feux d’artifice/Fusées 
 * Accessoires en polystyrène/styrofoam 
