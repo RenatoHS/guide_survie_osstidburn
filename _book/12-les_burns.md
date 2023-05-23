@@ -1,4 +1,4 @@
-# LES BURNS {-}
+# BURNS {-}
 
 <h2><span>EFFIGIE & TEMPLE</span></h2> 
 

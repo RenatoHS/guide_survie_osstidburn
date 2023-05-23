@@ -1,4 +1,4 @@
-# OBJETS TROUVÉS, EXODUS ET CONSIDÉRATIONS FINALES {-}
+# EXODUS {-}
 
 <h2><span>OBJETS TROUVÉS</span></h2>
 

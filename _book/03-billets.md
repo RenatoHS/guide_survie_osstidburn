@@ -51,7 +51,7 @@ Si vous venez en voiture,  <span style="text-decoration:underline">**IL EST OBLI
 
 Vous avez de la place disponible dans votre voiture? Encouragez le covoiturage.
 C’est bon pour l’environnement et ça permet de réduire le nombre de voiture sur le site 
-Voici le [lien de coiturage d'OsstidBurn](https://www.groupcarpool.com/t/qtayhw) pour en organiser un. 
+Voici le [lien de covoiturage de l'OsstidBurn](https://www.groupcarpool.com/t/qtayhw) pour en organiser un. 
  
 Stationnement & Bus pour L'OsstidBurn 2022 Billets | Eventbrite **va être mis à jour bientôt**
 

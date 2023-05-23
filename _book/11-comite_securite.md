@@ -1,4 +1,4 @@
-# COMITÉ SÉCURITÉ  RANGERS, SANCTUAIRE ET PREMIERS SOINS {-}
+# SÉCURITÉ {-}
 
 
 Nous sommes des Burners, nous prenons soin de notre communauté. Nous faisons de la médiation, offrons de l’aide à la résolution de conflit, et nous agissons en cas d’urgence.Si vous avez besoin d’aide, vous pouvez nous trouver à la centrale “HQ Sécurité”. Vous trouverez l'emplacement sur la carte. 
