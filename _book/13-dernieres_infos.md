@@ -1,4 +1,4 @@
-# LOST & FOUNDS, EXODUS AND FINAL CONSIDERATIONS {-}
+# EXODUS {-}
 
 <h2><span>LOST & FOUNDS</span></h2>
 

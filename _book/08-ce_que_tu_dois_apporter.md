@@ -1,4 +1,4 @@
-# STUFF TO BRING AND NOT TO BRING! {-}
+# BRING AND NOT TO BRING! {-}
 
 <h2><span>WHAT YOU SHOULD BRING</span></h2>
 
@@ -10,7 +10,7 @@
 * Tent & tarp
 * Sleeping bags, blankets, coats, etc. (Bring enough warm stuff to be comfortable during cool nights -- you’ll need more than you might think!) 
 * Cooker, cooler, bowl, utensils, fuel, saucepan and kitchen accessories
-*Fire extinguisher
+* Fire extinguisher
 * Eco-friendly soap and dishwashing liquid
 * BRING YOUR OWN CUP! You never know when the bar will be open
 * Light: headlamp, flashlight, EL Wire for you or your tent. Avoid glowsticks — they are neither reusable nor ecological. 
@@ -44,7 +44,7 @@
 * Gifts to give to new friends
 * Makeup
 * Juggling accessories
-* Your openness, your generosity, your sense of humour, and your smile
+* Your openness, your generosity, your sense of humor, and your smile
 
 
 <h2><span> WHAT YOU SHOULD NOT BRING </span></h2>  

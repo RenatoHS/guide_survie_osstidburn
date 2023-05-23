@@ -1,4 +1,4 @@
-# SECURITY COMMITTEE RANGERS, SANCTUARY AND FIRST AID {-}
+# SECURITY {-}
 
 We are Burners, we care for our community. We mediate, offer conflict resolution assistance, and act in emergencies. 
 
