@@ -5,7 +5,7 @@
 **CAMPING & EQUIPMENT** 
 
 * Rakes, work gloves, small axe, pruning shears to clear a space for your camp. 
-* Water. There is no water source on site.
+* Water. There is no water source on site.  We suggest 3L per person per day.
 * Food
 * Tent & tarp
 * Sleeping bags, blankets, coats, etc. (Bring enough warm stuff to be comfortable during cool nights -- you’ll need more than you might think!) 
