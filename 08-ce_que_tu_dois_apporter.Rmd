@@ -5,7 +5,7 @@
 **CAMPING & ÉQUIPEMENT** 
 
 * Râteaux, gants de travail, petite hache, sécateurs pour dégager un espace pour votre campement.  
-* Eau: Aucune source d’eau ne sera disponible sur  place. 
+* Eau: Aucune source d’eau ne sera disponible sur  place. Nous conseillons 3L par personne et par jour.  
 * Nourriture 
 * Tente & Bâche 
 * Un ou plusieurs sacs de couchage, couvertures, manteaux, etc. (Prévoir assez de trucs chauds pour être confortable lors des nuits fraîches - ça prend plus qu’on pourrait penser!)  
