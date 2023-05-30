@@ -1,5 +1,9 @@
 # BURNS {-}
 
+
+<img src="www/picture_burn.jpg"  width=100% height=50%>
+*crédits : Andrew Miller - https://www.awesomephotography.ca/*
+
 <h2><span>EFFIGIE & TEMPLE</span></h2> 
 
 
