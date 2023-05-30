@@ -1,5 +1,8 @@
 # BURNS {-}
 
+<img src="www/picture_burn.jpg"  width=100% height=50%>
+*credits : Andrew Miller - https://www.awesomephotography.ca/*
+
 <h2><span>EFFIGY & TEMPLE</span></h2> 
 
 The Effigy burn is on Saturday at sundown.
