@@ -38,7 +38,7 @@ https://participation.losstidburn.org
 Ensuite, n’oubliez pas de mettre à jour vos informations! 
 
 
-**To access the English version of this guide click ->>[HERE](https://survival-guide-osstidburn-en.netlify.app/)<<-**
+**To access the English version of this guide click ->>[HERE](https://survival.losstidburn.org)<<-**
 
 
 
