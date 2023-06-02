@@ -29,7 +29,7 @@ https://losstidburn.org/en/leave-no-trace/
 
 This guide will answer most of your LNT questions. If you still have questions after reading it, please feel free to contact the L'OsstidBurn community on its Facebook page, or contact us at: 
 
-lnt@losstidburn.com
+lnt@losstidburn.org
 
 **FINAL MOOP SWEEP**
 

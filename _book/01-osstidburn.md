@@ -2,10 +2,11 @@
 
 <h2><span>WHAT’S THAT?</span></h2> 
 
-L'OsstidBurn is a regional Burn, which is a participative art event organized by local Burners to bring Burning Man culture and principles to their local communities.
+L'OsstidBurn is a regional Burn, which is a participative art event organized by local Burners to bring Burning Man culture and principles to their local communities.The website for the event is the following: https://losstidburn.org/
 
-The website for the event is the following:
-https://losstidburn.org/
+
+See https://regionals.burningman.org for a list of all official regional burns.
+
 
 <h2><span>MISSION?</span></h2>
 
@@ -40,7 +41,7 @@ The name of the event is a reference to L’Osstidcho, an anti-conformist and re
 
 <h3><span>A LAND WITH MANY ORIGINS</span></h3> 
 
-Although we have good knowledge of the recent and colonial history of the event site, we are conscious of the fact that its history is much more complex and meaningful than only that. The Organization is currently working to create a land acknowledgement to recognize the local Indigenous communities. The project is still in its early stages. If you would like to help with this project, please contact info@losstidburn.com
+Although we have good knowledge of the recent and colonial history of the event site, we are conscious of the fact that its history is much more complex and meaningful than only that. The Organization is currently working to create a land acknowledgement to recognize the local Indigenous communities. The project is still in its early stages. If you would like to help with this project, please contact info@losstidburn.org
 
 <h3><span>ON BULL’S LAND…</span></h3> 
 
