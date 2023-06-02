@@ -31,7 +31,7 @@ Toute installation de feu doit être pré-enregistrée avant l’évènement. El
 
 Les œuvres de feu et les performances de manipulation de feu sont les bienvenues lors du Conclave qui aura lieu juste avant la mise à feu de l’Effigie. Pour participer, écrivez-nous : 
 
-participation@losstidburn.com 
+https://participation.losstidburn.org 
 
 
 Une rencontre aura lieu durant l’après-midi avec les participant·e·s au Conclave pour le cours de sécurité afin que tous·tes soient couvert·e·s par nos assurances. Vous devrez ensuite vous rendre sur place 1h avant le spectacle. Une  équipe de sécurité sera présente tout au long des performances de feu. L’organisation fournira tout le matériel de sécurité nécessaire à ce type de prestations. 
@@ -44,4 +44,4 @@ En raison d’un risque de propagation de feu, ne jonglez pas avec du feu ailleu
 
 En dehors du Conclave, il n’y a pas d’espace Jam de Feu prévu pour l’édition 2023 car nous ne possédons pas d’assurances à cet effet. Si vous désirez créer et gérer votre propre espace et que vous possédez des assurances, écrivez-nous à : 
 
-participation@losstidburn.com 
+https://participation.losstidburn.org 

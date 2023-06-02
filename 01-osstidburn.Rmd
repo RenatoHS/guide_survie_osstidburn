@@ -2,10 +2,9 @@
 
 <h2><span>QUESSÉ ?</span></h2> 
 
-L’OsstidBurn est un Burn régional, c'est-à-dire un  événement d’art participatif organisé par des Burners locaux pour apporter la culture et les principes de Burning Man au sein de leurs communautés.
+L’OsstidBurn est un Burn régional, c'est-à-dire un  événement d’art participatif organisé par des Burners locaux pour apporter la culture et les principes de Burning Man au sein de leurs communautés. Le site web de l'événenement est le suivant : https://losstidburn.org/
 
-Le site web de l'événenement est le suivant : 
-https://losstidburn.org/
+Pour une liste des burns régionuax reconnues veuillez accéder ce lien: https://regionals.burningman.org
 
 <h2><span>MISSION ?</span></h2>
 
@@ -41,7 +40,7 @@ Le nom de l’événement est en référence à L'Osstidcho, un spectacle antico
 
 <h3><span>SUR UNE TERRE AUX ORIGINES MULTIPLES</span></h3> 
 
-Bien que nous ayons une bonne connaissance de l'histoire récente et coloniale du site de l'événement, nous sommes sensibles au fait que son histoire est plus complexe et plus riche. L'organisation travaille actuellement sur une reconnaissance de territoire pour reconnaître les communautés autochtones locales. Le projet en est encore à ses débuts. Si vous souhaitez participer, veuillez contacter info@losstidburn.com
+Bien que nous ayons une bonne connaissance de l'histoire récente et coloniale du site de l'événement, nous sommes sensibles au fait que son histoire est plus complexe et plus riche. L'organisation travaille actuellement sur une reconnaissance de territoire pour reconnaître les communautés autochtones locales. Le projet en est encore à ses débuts. Si vous souhaitez participer, veuillez contacter info@losstidburn.org
 
 <h3><span>SUR LA TERRE À BULL…</span></h3> 
 
