@@ -2,13 +2,15 @@
 
 Aucun billet ne sera disponible à la porte!
 
-Assurez-vous d’avoir votre billet et que tout le monde dans la voiture ait le sien. 
+* Assurez-vous d’avoir votre billet et que tout le monde dans la voiture ait le sien. 
 
-Tous·tes les participant·e·s doivent avoir un billet à leur nom pour accéder à l’événement, une preuve d’identité.  
+* Tous·tes les participant·e·s doivent avoir une preuve d’identité et un billet à leur nom pour accéder à l’événement.
 
-Il est important d’avoir une preuve d’identité avec photo correspondant au nom et la date de naissance lors de votre enregistrement pour acheter un billet. Si votre nom légal diffère de celui sur le billet, veuillez nous contacter à l’avance. Notre équipe à la porte aura besoin de vous identifier pour vous laisser entrer sur le site. 
+* Il est important d’avoir une preuve d’identité avec photo correspondant au nom et la date de naissance inscrite lors de votre inscription pour un billet. Notre équipe à la porte se basera sur cette pièce d’identité pour vous identifier et vous laisser entrer sur le site
 
-Les participant·e·s de moins de 18 ans recevront un bracelet d’une couleur différente. Ces personnes seront identifiées pour leur interdire le service d'alcool.
+* Si votre nom choisi diffère de votre nom légal, informez nos volontaires à l’entrée afin qu’iels sachent comment s'adresser à vous correctement (par exemple, vous pouvez mettre un post-it sur votre pièce d’identité avec votre nom choisi).
+
+* Les participant·e·s de moins de 18 ans recevront un bracelet d’une couleur différente. Ces personnes seront identifiées pour leur interdire le service d'alcool.
 
 <h2><span> ENTRÉE INTERDITE </span></h2> 
 
@@ -27,11 +29,11 @@ IMPORTANT: Si la chaussée du sentier était jugée impraticable par le proprié
 
 ACCÈS AU SENTIER PAR VÉHICULE 4X4 
 
-Mercredi: 10h00 à 19h00 \
-Jeudi: Aucun véhicule \
+Mercredi: 9h00 à 19h00 \
+Jeudi: 10h00 à 19h00 \
 Vendredi: Aucun véhicule \
 Samedi: Aucun véhicule \
-Dimanche: 09h00 à 14h00 \
+Dimanche: Aucun véhicule \
 Lundi: 09h00 à 14h00 \
 
 <h2><span> VOUS N’AVEZ PAS DE 4X4 ?  </span></h2> 
@@ -46,7 +48,12 @@ Prévoyez: diables, chariots, cordes, etc. pour  le transport de votre matériel
 Le site de L'OsstidBurn a une capacité limitée pour accueillir des véhicules. L'équipe de Stationnement fait des miracles à chaque année pour vous orienter une fois sur place.
 
 Si vous venez en voiture,  <span style="text-decoration:underline">**IL EST OBLIGATOIRE d'avoir votre passe de stationnement (voiture ou VR). Vous devez avoir une passe de stationnement pour chaque voiture.**</span>
+
+Pour obtenir un passe de stationnement, ou un **ticket pour le bus d'Osstidburn**, veuillez accéder le site web : https://participation.losstidburn.org/
+
+Vous avez de la place disponible dans votre voiture? Encouragez le covoiturage.
+C’est bon pour l’environnement et ça permet de réduire le nombre de voiture sur le site 
+Voici le [lien de covoiturage de l'OsstidBurn](https://www.groupcarpool.com/t/qtayhw) pour en organiser un. 
  
-Stationnement & Bus pour L'OsstidBurn 2022 Billets | Eventbrite
 
 

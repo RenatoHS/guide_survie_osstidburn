@@ -1,4 +1,4 @@
-# CAMPING, GENERATRICES, SON ET AUTRES INFOS {-}
+# CAMPING ET AUTRES INFOS {-}
 
 <h2><span>CAMPER À L’OSSTIDBURN </span></h2> 
 
@@ -32,10 +32,10 @@ Soyez responsables lorsque vous utilisez des génératrices afin d’éviter de 
 
 
 <h2><span> POLITIQUE DE SON
-«GANGRÈNE PAS DES AUTRES»  </span></h2>  
+«GANGRÈNE PAS LES AUTRES»  </span></h2>  
 
 La politique complète de SonCoeur (Sound Core) est disponible sur le site de L’OsstidBurn: 
-https://losstidburn.org/a-propos/politiques/ 
+https://losstidburn.org/rapports-politiques/
 
 L’équipe de SonCoeur (Sound Core) croit en la capacité des opérateur·trice·s de systèmes de son à s’auto réguler et nous en appelons à leur bon jugement et leur capacité à s’adapter aux diverses situations que représente un burn. 
 
