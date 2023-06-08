@@ -50,6 +50,8 @@ The L'OsstidBurn site has a limited capacity to accommodate cars.  The parking t
 
 If you drive to l’OsstidBurn,  <span style="text-decoration:underline">**IT IS MANDATORY to have a parking pass (car or RV). You need one parking pass for each vehicle.**</span>
 
+To obtain a parking pass, or a **ticket for the Osstidburn bus**, please go to : https://participation.losstidburn.org/
+
 Do you have free space in your car? We suggest carpooling.
 It's good for the environment and it reduces the number of cars in the site.
 Click on the [OsstidBurn carpool link](https://www.groupcarpool.com/t/qtayhw) to set up a carpool.
