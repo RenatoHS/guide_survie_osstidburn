@@ -1,4 +1,7 @@
-# THE BURNS {-}
+# BURNS {-}
+
+<img src="www/picture_burn.jpg"  width=100% height=50%>
+*credits : Andrew Miller - https://www.awesomephotography.ca/*
 
 <h2><span>EFFIGY & TEMPLE</span></h2> 
 
@@ -13,25 +16,25 @@ https://participation.losstidburn.org
 * If there’s a fire ban during the event, there will be no Burn. The Effigy and Temple are collective works. If you want to participate, head over to the Plana during the week to help the teams build these structures.
 
 
-<h2><span> OEUVRE DE FEU (FLAME EFFECT) </h2></span>
+<h2><span> FLAME EFFECT </h2></span>
 
 All flame effects must be pre-registered prior to the event. It must also be inspected and approved before activation by the FAST (Fire Art Safety Team).
 
-<h2><span> ARTISTE DE FEU </h2></span>
+<h2><span> FIRE PERFORMANCES </h2></span>
 
 
 **CONCLAVE**  
 
 Fire art and fire performances are more than welcome during the Conclave, which will happen right before the Effigy burn. If you wish to participate, please contact us.
 
-participation@losstidburn.com
+participation@losstidburn.org
 
 A mandatory meeting for all Conclave participants will take place in the afternoon (3pm-5pm) before the Burn for a security class to make sure everyone is covered by our insurance. They will then meet again 1 hour before the show. A security team will be present during the entire fire ceremony. The L’OsstidBurn Organization will provide all the necessary security equipment.
 
 To avoid fire spread, do not perform fire performance outside this safe zone.
 
-**ESPACE JAM DE FEU**
+**FIRE JAM**
 
-Except for Conclave, there will be no fire jam area during the 2022 edition because we could not get any insurance for that. If you wish to create and manage your own fire jam area and you have the necessary insurance, please contact us:
+Except for Conclave, there will be no fire jam area during the 2023 edition because we could not get any insurance for that. If you wish to create and manage your own fire jam area and you have the necessary insurance, please contact us:
 
-participation@losstidburn.com
+participation@losstidburn.org

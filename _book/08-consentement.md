@@ -1,4 +1,4 @@
-# PRINCIPLES OF CONSENT {-}
+# CONSENT {-}
 
 1.  <span style="text-decoration:underline">Consent applies to all types of interactions with two or more people </span> (hugging, talking, touching, dancing, sex, sitting near someone...)
 
@@ -40,7 +40,7 @@ Adherence to these principles guarantees a safe space for everyone to name and t
 * If you feel at risk yourself, leave the situation immediately, and go find the **Sentinels or Rangers**.
 * Please inform the **Rangers** of any inappropriate behaviour.
 * The Organization reserves the right to expel any person whose behaviour is inappropriate.
-* After the event, if you’d like to inform us of any breach of consent, you can do so by sending us an email at <span style="text-decoration:underline">consentement@osstidburn.com </span> 
+* After the event, if you’d like to inform us of any breach of consent, you can do so by sending us an email at <span style="text-decoration:underline">consentement@losstidburn.org </span> 
 
 
 <h2><span> PHOTOGRAPHY </span></h2>

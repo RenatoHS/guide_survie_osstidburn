@@ -1,10 +1,12 @@
-# TICKETS {-}
+# TICKETS & ACCESS {-}
 
 No tickets will be available on site!
 
 * Make sure you and everyone in your vehicle have your tickets.
 * All participants must have a ticket in their name to access the event. 
-* You must have a photo ID with the same name and birth date that you provided when you purchased your ticket. If your legal name differs from the one on the ticket, please contact us beforehand. Our gate team will need to identify you in order to let you into the site.
+* You must have a photo ID with the same name and birth date that you provided when you purchased your ticket. Our gate team will need to identify you in order to let you into the site. 
+* If your chosen name differs from your legal name, inform our volunteers at the entrance so that they know how to address you correctly. For instance you can put a post-it on your ID with your chosen name. 
+
 * Participants under 18 will be given a different-coloured wristband so they won’t be served alcohol.
 
 
@@ -28,9 +30,9 @@ IMPORTANT: If the owner and/or the DPW consider the trail to be impassable (mudd
 
 ACCESS TO THE TRAIL BY 4X4 VEHICLE
 
-Tuesday: 9AM to 7PM \
+
 Wednesday: 9AM to 7PM \
-Thursday: No vehicles \
+Thursday: 10AM to 7PM vehicles \
 Friday: No vehicles \
 Saturday: No vehicles \
 Sunday: No vehicles \
@@ -47,7 +49,11 @@ Bring hand trucks, wagons, ropes, etc. to transport your equipment. Parking is a
 The L'OsstidBurn site has a limited capacity to accommodate cars.  The parking team works miracles every year to guide you when you arrive.
 
 If you drive to l’OsstidBurn,  <span style="text-decoration:underline">**IT IS MANDATORY to have a parking pass (car or RV). You need one parking pass for each vehicle.**</span>
- 
-Stationnement & Bus pour L'OsstidBurn 2022 Billets | Eventbrite
 
+Do you have free space in your car? We suggest carpooling.
+It's good for the environment and it reduces the number of cars in the site.
+Click on the [OsstidBurn carpool link](https://www.groupcarpool.com/t/qtayhw) to set up a carpool.
+
+ 
+Stationnement & Bus pour L'OsstidBurn 2023 Billets | Eventbrite **not working, will be updated soon**
 

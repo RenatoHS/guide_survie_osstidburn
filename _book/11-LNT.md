@@ -1,10 +1,10 @@
-# LNT  {-}
+# LNT {-}
 
 
 <h2><span> LEAVE NO TRACE (LNT) </span></h2> 
 
 
-Our community respects the environment. We are committed to leaving no physical trace of our activities wherever we gather. We clean up after ourselves and endeavour, whenever possible, to leave such places in a better state than when we found them. You must carry out all your personal effects and your waste after the event. There will be no garbage container at the exit. Bring garbage bags and equipment to manage all your waste.
+Our community respects the environment. We are committed to leaving no physical trace of our activities wherever we gather. We clean up after ourselves and endeavour, whenever possible, to leave such places in a better state than when we found them. You must carry out all your personal effects and your waste after the event. There will be no garbage container at the exit. Bring garbage bags and equipment to manage all your waste. We ask you to use the toilets and not urinate on the forest, specially not near the stream. 
 
 In addition, site cleanliness is a shared responsibility and site maintenance is everyone’s business. Remember to have a small bag with you at all times to collect any trash you see on the ground, even if you didn’t drop it there. We also strongly urge you to participate in the site cleanup (MOOP SWEEP) at the end of the event, in addition to your camp cleanup. Consult the LNT guide for further information on the subject.
 
@@ -29,7 +29,7 @@ https://losstidburn.org/en/leave-no-trace/
 
 This guide will answer most of your LNT questions. If you still have questions after reading it, please feel free to contact the L'OsstidBurn community on its Facebook page, or contact us at: 
 
-lnt@losstidburn.com
+lnt@losstidburn.org
 
 **FINAL MOOP SWEEP**
 
