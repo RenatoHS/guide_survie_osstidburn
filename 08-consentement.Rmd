@@ -43,6 +43,7 @@ Adherence to these principles guarantees a safe space for everyone to name and t
 * After the event, if you’d like to inform us of any breach of consent, you can do so by sending us an email at <span style="text-decoration:underline">consentement@losstidburn.org </span> 
 
 
+
 <h2><span> PHOTOGRAPHY </span></h2>
 
 Photographing and filming participants without their consent is prohibited. Remember to ask before taking pictures!

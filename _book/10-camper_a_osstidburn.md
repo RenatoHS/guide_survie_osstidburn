@@ -40,7 +40,7 @@ The SonCoeur team believes in the sound system operators’ ability to self-regu
 
 There will be no “sound police” or patrol to enforce the rules. That being said, the rules are quite clear and specify that any participant is entitled to consult a camp (and its sound level meter) in order to check noise level.
  
-
+ 
 * All category 1+ sound systems (check the guide) must register before the event.
 * Limit at all times is 100 decibels at 5m (dBC weighting).
 * Quiet hours (without amplified music and generators) between 6AM and 10AM on Friday, Saturday, Sunday and Monday (from 6AM until GTFO).
