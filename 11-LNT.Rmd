@@ -13,7 +13,7 @@ De plus, la propreté du site est une responsabilité partagée et l'entretien d
 **QU'EST-CE QUE LA MOOP ?**
 
 MOOP est un acronyme pour «Matter Out Of Place», un terme qui réfère à tout ce qui ne provient pas à l’origine de la terre sur laquelle l’événement a lieu. 
-Mégots de cigarette, bouchons de bouteille, «glowsticks», feux d’artifice, plumes, «glitters», confettis, morceaux brisés de bois, plastique, costume, métal ou verre…
+Mégots de cigarette, bouchons de bouteille, «glowsticks», feux d’artifice, plumes, paillettes, confettis, morceaux brisés de bois, plastique, costume, métal ou verre…
 Les matières organiques, même si biodégradables, sont également de la MOOP. Si tout le monde jetait son cœur de pomme dans le bois, le site deviendrait rapidement un dépotoir et pourrait attirer des animaux. Notre impact sur l’environnement doit être le plus infime possible.
 Contrairement aux festivals grand public, il n’y a aucune installation pour les déchets ou le recyclage sur le site d’un événement LNT (Leave No Trace). Tout ce qui est amené sur le site de L’OsstidBurn doit repartir avec vous, incluant vos déchets. Assurez-vous d’en disposer de façon responsable après l’événement.
 
@@ -25,7 +25,7 @@ https://losstidburn.org/laisse-pas-dtrace/
 
 Ce guide répondra à la plupart de vos questions en matière de LNT. Si toutefois vous aviez d’autres interrogations, n'hésitez pas à contacter la communauté de L'OsstidBurn via sa page Facebook afin de trouver les réponses dont vous avez besoin, ou écrivez-nous.
 
-lnt@losstidburn.com 
+lnt@losstidburn.org 
 
 **MOOP SWEEP DE FIN D'ÉVÉNEMENT**
 
@@ -39,4 +39,4 @@ Une MOOP Map est créée après chaque édition de L’OsstidBurn, à partir des
 
 Ces données sont ensuite étudiées par le comité LNT, puis utilisées lors de la préparation des éditions futures afin d’octroyer les placements aux camps ou artistes.
 
-**_La plaine, les sites de parking, le chemin, le bois et la rivière sont des espaces communs. Il est de votre responsabilité en tant que participant.e de veiller à la propreté de ces espaces, au même titre que votre campement._**
+**La plaine, les sites de parking, le chemin, le bois et la rivière sont des espaces communs. Il est de votre responsabilité en tant que participant.e de veiller à la propreté de ces espaces, au même titre que votre campement.**
