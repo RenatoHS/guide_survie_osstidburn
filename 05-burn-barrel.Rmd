@@ -2,12 +2,11 @@
 
 <h2><span> RULES & REGULATIONS </span></h2> 
 
-A “burn barrel” (or other authorized fire device) is a device for safely starting a fire and spreading its heat, while avoiding becoming a fire spreader. To comply with L’OsstidBurn requirements, it must meet specific criteria, i.e. have legs, have a clearance of 15 centimeters (6 inches) from the ground, and be covered by a grate with holes smaller than ½ inch (1cm) to prevent embers from escaping. In addition, before operating a burn barrel or other authorized fire device, the ground must be swept clear of all leaves and twigs in a perimeter around the device that is equivalent to its height. In other words, a burn barrel that is 1 meter (3 feet) high should have a clear perimeter around it of 1 meter (3 feet).
+A “burn barrel” (or other authorized fire device) is a device for safely starting a fire and spreading its heat, while avoiding becoming a fire spreader. To comply with L’OsstidBurn requirements, it must meet specific criteria, i.e. have legs, have a clearance of 15 centimeters (6 inches) from the ground, and be covered by a grate with holes smaller than ½ inch (1cm) to prevent embers from escaping. In addition, before operating a burn barrel or other authorized fire device, the ground must be swept clear of all leaves and twigs in a perimeter around the device that is equivalent to its height. In other words, a burn barrel that is 1 meter (3 feet) high should have a clear perimeter around it of 1 meter (3 feet). Each burn barrel must constantly have a full 5 Gallon water bucket nearby to be able to put it out when lit.
 
 Do not dig or start your own campfire/fire pit. Use only the designated fire pits/burn barrels, and share the warmth and the company! Burn only dead wood, dry leaves and twigs from the forest in these fires. It is strictly forbidden to cut wood onsite. Do not burn any plastic, treated or painted wood, or other items.
 
-Each camp can bring and take care of its own burn barrel. To do so, you must first make an official request to the FAST committee by filling out this form: 
-(coming soon!)
+Each camp can bring and take care of its own burn barrel. To do so, you must first make an **official request to the FAST committee by contacting them at fast@losstidburn.org**
 
 During the event, BEFORE LIGHTING, all fire devices must be verified and authorized on site by a FAST member.
 Camping stoves are permitted for cooking, but no ground fires are allowed in the camping areas. Ensure that you have a fire extinguisher in a visible location near your kitchen area.
