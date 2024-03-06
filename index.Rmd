@@ -1,5 +1,5 @@
 --- 
-title: "Survival Guide 2023 edition"
+title: "Survival Guide 2024 edition"
 site: bookdown::bookdown_site
 author: "l'OsstidBurn Team"
 documentclass: book
