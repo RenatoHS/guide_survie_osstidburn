@@ -58,3 +58,4 @@ PREPARE YOUR KIDS. Let your kids know in advance about the kind of things they m
 
 When you get to L’OsstidBurn, walk around with  them and identify landmarks that will help them navigate and be safe. Show them Safety HQ and speak to the Rangers. Children can show up at Safety HQ if they get lost.
 
+The members of the consent committee for the 2024 edition are Roxanne Hallal, Chandra Schecter, Antonia Simpson, Meddy Brai, Matthew Higginbotham, Victoire Pognon et Anna VDK.
