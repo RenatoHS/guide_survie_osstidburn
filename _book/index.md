@@ -1,5 +1,5 @@
 --- 
-title: "Survival Guide 2023 edition"
+title: "Survival Guide 2024 edition"
 site: bookdown::bookdown_site
 author: "l'OsstidBurn Team"
 documentclass: book
@@ -15,7 +15,7 @@ bookdown::bs4_book:
   config:
     toc:
       before: |
-        <a href="https://www.example.com/"><img src="www/logo.png" width="280"></a>
+        <a href="https://www.example.com/"><img src="www/logo_2024.png" width="280"></a>
         <li><a href="./">An example Resource</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
@@ -23,7 +23,7 @@ bookdown::bs4_book:
 
 # THE GUIDE THAT YOU MUST READ {-}
 
-<img src="www/logo.png"  width=100% height=50%>
+<img src="www/logo_2024_EDITED.png"  width=100% height=50%>
 
 <h2><span> FOREWORD </span></h2> 
 
