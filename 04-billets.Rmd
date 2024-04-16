@@ -29,7 +29,7 @@ IMPORTANT: Si la chaussée du sentier était jugée impraticable par le proprié
 
 ACCÈS AU SENTIER PAR VÉHICULE 4X4 
 
-Mercredi: 9h00 à 19h00 \
+Mercredi: 9h00 à 19h00 **Early Arrivals** \
 Jeudi: 10h00 à 19h00 \
 Vendredi: Aucun véhicule \
 Samedi: Aucun véhicule \
