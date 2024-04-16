@@ -56,3 +56,7 @@ Respectez les signes «No photography» ou «Pas de photo».
 
 Préparez vos enfants: expliquez-leur à l’avance ce qu’iels pourraient voir ou entendre: nudité, art iconoclaste, langage vulgaire et/ou comportements étranges font partie intégrante de l'événement. 
 Quand vous arrivez à L’OsstidBurn - faites le tour de l’événement avec les enfants et aidez-les à identifier les endroits qui pourraient les aider à se repérer. Visitez le HQ Sécurité. Nos Rangers auront des conseils pour vous. Les enfants pourront aussi s’y retrouver s’iels sont perdu·e·s. 
+
+
+Les membres du comité consentement 2024 sont Roxanne Hallal, Chandra Schecter, Antonia Simpson, Meddy Brai, Matthew Higginbotham, Victoire Pognon et Anna VDK.
+
