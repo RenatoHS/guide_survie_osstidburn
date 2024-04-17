@@ -10,7 +10,7 @@ Cette année, la station de Lost & Found se situera ‘’HQ Sécurité’’. A
 Repartez avec tout ce que vous avez apporté! 
 
 
-Lundi 26 juin à 14h00 : tous·es les participant·e·s  (à l’exception des volontaires du Leave No Trace) doivent avoir quitté les lieux. Compte tenu du fort volume de trafic sur le sentier lors de l’exode, un horaire sera établi pour les véhicules avec des plages pour entrer et sortir du sentier. Veuillez le consulter pour planifier votre départ. La session de Leave No Trace aura lieu de 14h à 18h. 
+Lundi 24 juin à 14h00 : tous·es les participant·e·s  (à l’exception des volontaires du Leave No Trace) doivent avoir quitté les lieux. Compte tenu du fort volume de trafic sur le sentier lors de l’exode, un horaire sera établi pour les véhicules avec des plages pour entrer et sortir du sentier. Veuillez le consulter pour planifier votre départ. La session de Leave No Trace aura lieu de 14h à 18h. 
 
 
 Prenez le temps de vérifier votre emplacement et les lieux que vous avez fréquentés avant de quitter.  
