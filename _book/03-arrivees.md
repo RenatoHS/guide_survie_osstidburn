@@ -4,7 +4,7 @@ We strongly recommend arriving during the light of day. The site is located in t
 
 <h2><span> EARLY ARRIVALS </span></h2> 
 
-* 21 June - Wednesday: 9AM to 12AM (midnight) 
+* 21 June - Wednesday: 10AM to 11PM  
 
 <h2><span> GENERAL ACCESS </span></h2> 
 
