@@ -21,7 +21,7 @@ L’OsstidBurn has been recognized by Burning Man as an official regional event 
 <h2><span>WHEN?</span></h2>
 
 
-June 21 (Wednesday) – 26 (Monday), 2023
+June 19 (Wednesday) – 24 (Monday), 2024
 
 
 <h2><span>WHERE? </span></h2>
