@@ -8,7 +8,7 @@ This year, the Lost & Found station will be at Safety HQ. That’s where you can
 
 PACK OUT WHAT YOU PACK IN!!
 
-All participants (except LNT volunteers) must leave the property by 2PM, June 26th. Considering the high volume of traffic on the path during exodus, a schedule for vehicles will be set up with time slots reserved for entering and exiting the path. Please take this into consideration when planning your departure. The Leave No Trace session will run from 2PM to 6PM.
+All participants (except LNT volunteers) must leave the property by 2PM, June 24th. Considering the high volume of traffic on the path during exodus, a schedule for vehicles will be set up with time slots reserved for entering and exiting the path. Please take this into consideration when planning your departure. The Leave No Trace session will run from 2PM to 6PM.
 
 
 Take time to do a MOOP sweep of your campsite and other areas you frequented before leaving.

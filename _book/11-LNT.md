@@ -35,7 +35,7 @@ lnt@losstidburn.org
 
 The LNT committee ensures that the site is in as good or better condition than when we arrived.
 
-A complete clean up of the site will take place on Monday, June 26th from 2pm to 6pm and we need your help! To participate, please check the volunteer platform.
+A complete clean up of the site will take place on Monday, June 24th from 2pm to 6pm and we need your help! To participate, please check the volunteer platform.
 
 https://participation.losstidburn.org/
 
