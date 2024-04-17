@@ -4,20 +4,20 @@ We strongly recommend arriving during the light of day. The site is located in t
 
 <h2><span> EARLY ARRIVALS </span></h2> 
 
-* 21 June - Wednesday: 10AM to 11PM  
+* 19 June - Wednesday: 10AM to 11PM  
 
 <h2><span> GENERAL ACCESS </span></h2> 
 
-* 22 June - Thursday: 9AM to 12AM (midnight)
-* 23 June - Friday: 9AM to 12AM (midnight)
-* 24 June - Saturday: 9AM to 5PM
+* 20 June - Thursday: 9AM to 12AM (midnight)
+* 21 June - Friday: 9AM to 12AM (midnight)
+* 22 June - Saturday: 9AM to 5PM
 
 <h2><span> EXODUS </span></h2> 
 
-* 26 June - Monday: 9AM to 2PM
+* 24 June - Monday: 9AM to 2PM
 
 <h2><span> LEAVE NO TRACE (MOOP SWEEP) </span></h2> 
 
-* 26 June - Monday: 2PM to 6PM
+* 24 June - Monday: 2PM to 6PM
 
 

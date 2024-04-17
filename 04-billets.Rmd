@@ -31,7 +31,7 @@ IMPORTANT: If the owner and/or the DPW consider the trail to be impassable (mudd
 ACCESS TO THE TRAIL BY 4X4 VEHICLE
 
 
-Wednesday: 10AM to 7PM \
+Wednesday: 10AM to 7PM (**Early Arrivals only**)\
 Thursday: 9AM to 7PM vehicles \
 Friday: No vehicles \
 Saturday: No vehicles \
