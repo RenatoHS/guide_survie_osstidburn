@@ -4,7 +4,7 @@ Il est fortement conseillé d’arriver de jour, à la clarté. Le site étant d
 
 <h2><span> "EARLY ARRIVALS" </span></h2> 
 
-* 19 Juin - Mercredi: 10h00 à 24h00 
+* 19 Juin - Mercredi: 10h00 à 23h00 
 
 <h2><span> ACCÈS GÉNÉRAL </span></h2> 
 
