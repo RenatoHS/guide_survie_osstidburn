@@ -53,7 +53,7 @@ Pour obtenir un passe de stationnement, ou un **ticket pour le bus d'Osstidburn*
 
 Vous avez de la place disponible dans votre voiture? Encouragez le covoiturage.
 C’est bon pour l’environnement et ça permet de réduire le nombre de voiture sur le site 
-Voici le [lien de covoiturage de l'OsstidBurn](https://www.groupcarpool.com/t/qtayhw) pour en organiser un. 
+Voici le [lien de covoiturage de l'OsstidBurn 2024](https://www.groupcarpool.com/t/sebigc) pour en organiser un. 
  
 
 
