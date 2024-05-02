@@ -8,7 +8,7 @@ bibliography: [book.bib, packages.bib]
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
   Survival Guide of l'OsstidBurn.
-biblio-style: apalike
+biblio-style: apalikerend
 csl: chicago-fullnote-bibliography.csl
 bookdown::bs4_book:
   css: style.css
