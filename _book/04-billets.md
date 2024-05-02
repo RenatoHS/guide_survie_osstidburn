@@ -54,8 +54,5 @@ To obtain a parking pass, or a **ticket for the Osstidburn bus**, please go to :
 
 Do you have free space in your car? We suggest carpooling.
 It's good for the environment and it reduces the number of cars in the site.
-Click on the [OsstidBurn carpool link](https://www.groupcarpool.com/t/qtayhw) to set up a carpool.
-
- 
-Stationnement & Bus pour L'OsstidBurn 2023 Billets | Eventbrite **not working, will be updated soon**
+Click on the [l'OsstidBurn 2024 carpool link](https://www.groupcarpool.com/t/sebigc) to set up a carpool.
 
