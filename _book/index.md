@@ -15,7 +15,7 @@ bookdown::bs4_book:
   config:
     toc:
       before: |
-        <a href="https://www.example.com/"><img src="www/logo.png" width="280"></a>
+        <a href="https://www.example.com/"><img src="www/logo_2024_EDITED.png" width="280"></a>
         <li><a href="./">An example Resource</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
@@ -23,7 +23,7 @@ bookdown::bs4_book:
 
 # LE GUIDE QUE TU DOIS ABSOLUMENT LIRE {-}
 
-<img src="www/logo.png"  width=100% height=50%>
+<img src="www/logo_2024_EDITED.png"  width=100% height=50%>
 
 <h2><span> AVANT-PROPOS </span></h2> 
 
