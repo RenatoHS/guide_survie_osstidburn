@@ -1,5 +1,5 @@
 --- 
-title: "Guide de Survie Édition 2023"
+title: "Guide de Survie Édition 2024"
 site: bookdown::bookdown_site
 author: "Équipe OsstidBurn"
 documentclass: book
@@ -7,7 +7,7 @@ bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
-  Guide de Survie pour l'OsstidBurn 2023
+  Guide de Survie pour l'OsstidBurn 2024
 biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 bookdown::bs4_book:

@@ -30,7 +30,7 @@ lnt@losstidburn.org
 **MOOP SWEEP DE FIN D'ÉVÉNEMENT**
 
 Le comité LNT veille à ce que le bois demeure en bon état, voire dans un meilleur état que lorsque nous sommes arrivé·e·s. 
-Une session de nettoyage global du site aura lieu de 14h à 18h le lundi 26 juin. Pour vous inscrire à cette session, dirigez-vous vers la plateforme d’inscription des volontaires.
+Une session de nettoyage global du site aura lieu de 14h à 18h le lundi 24 juin. Pour vous inscrire à cette session, dirigez-vous vers la plateforme d’inscription des volontaires.
 https://participation.losstidburn.org/
 
 <h2><span>MOOP MAP</span></h2>
