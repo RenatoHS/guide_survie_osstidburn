@@ -13,7 +13,7 @@ If you want to take part in the Effigy or Temple Burn perimeter, please sign up 
 
 https://participation.losstidburn.org
 
-* If there’s a fire ban during the event, there will be no Burn. The Effigy and Temple are collective works. If you want to participate, head over to the Plana during the week to help the teams build these structures.
+* If there’s a fire ban during the event, there will be no Burn. The Effigy and Temple are collective works. If you want to participate, head over to the Playa during the week to help the teams build these structures.
 
 
 <h2><span> FLAME EFFECT </h2></span>

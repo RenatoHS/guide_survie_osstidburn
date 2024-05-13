@@ -16,7 +16,7 @@ MOOP is an acronym for “Matter Out of Place”, which is a convenient way of r
 
 It can be anything: cigarette butts, bottle caps, glowsticks, fireworks, feathers, broken bits of wood, plastic, metal or broken glass.
 
-Organic matter, even if it’s biodegradable, is also MOOP. If everyone started throwing away apple cores or banana peels in the wood, the place would soon become a dump and attract animals. Our environmental impact must be as small as possible.
+Organic matter, even if it’s biodegradable, is also MOOP. If everyone started throwing away apple cores or banana peels in the woods, the place would soon become a dump and attract animals. Our environmental impact must be as small as possible.
 
 Unlike mainstream festivals, LNT events do not provide facilities for garbage or recycling on the site. Each participant must assume responsibility for their environmental impact. Everything brought to L’OsstidBurn must leave with you, including your waste. Be sure to dispose of it responsibly after the event.
 

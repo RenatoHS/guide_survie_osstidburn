@@ -35,7 +35,7 @@ Eastern Townships
 
 <h2><span>WHERE DOES THE NAME L’OSSTIDBURN COME FROM?</span></h2> 
 
-The name of the event is a reference to L’Osstidcho, an anti-conformist and revolutionary show presented for the first time on June 20, 1968 at Théâtre du Quat’Sous in Montreal.  The concept was simple: change the customs of theatrer by  combining different disciplines. In the end, the owner of the Quat’Sous Theatre got fed up with the chaos and unruliness of the members of the young troupe, for whom art came from disorder. L’Osstidcho is a show that will leave an indelible mark on Quebec’s collective imagination.
+The name of the event is a reference to L’Osstidcho, an anti-conformist and revolutionary show presented for the first time on June 20, 1968 at Théâtre du Quat’Sous in Montreal.  The concept was simple: change the customs of theater by  combining different disciplines. In the end, the owner of the Quat’Sous Theatre got fed up with the chaos and unruliness of the members of the young troupe, for whom art came from disorder. L’Osstidcho is a show that will leave an indelible mark on Quebec’s collective imagination.
 
 <h2><span>WHAT IS THIS PLACE?</span></h2>
 
