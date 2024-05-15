@@ -10,7 +10,7 @@ Rangers are volunteer sober participants that are here to help you in case of pr
 
 <h2><span>Sanctuary</span></h2> 
 
-The Sanctuary is a safe(r) space for participants who are going through a difficult experience and find themselves in need of support or a time-out. Volunteers will be on site to chat, keep company and generally offer a comforting presence. The sanctuary is meant to be a place to relax and ground yourself; it is cozy, well lit, warm and dry, with snacks and tea available. Harm reduction tools and supplies (such as condoms, dental dams, gloves, etc...), as well as information on drug use and safer sex, will be readily available at all times. The sanctuary offers activities, discussions and workshops on consent, cultural appropriation and safer drug use.
+The Sanctuary is a safe(r) space for participants who are going through a difficult experience and find themselves in need of support or a time-out. Volunteers will be on site to chat, keep company and generally offer a comforting presence. The sanctuary is meant to be a place to relax and ground yourself; it is cozy, well lit, warm and dry, with cushions and blankets as well as snacks and tea available. Harm reduction tools and supplies (such as condoms, dental dams, gloves, etc...), as well as information on drug use and safer sex, will be readily available at all times. The sanctuary offers activities, discussions and workshops on consent, cultural appropriation and safer drug use.
 
 <h2><span>And...</span></h2> 
 
