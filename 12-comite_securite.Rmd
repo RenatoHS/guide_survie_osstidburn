@@ -4,9 +4,13 @@ We are Burners, we care for our community. We mediate, offer conflict resolution
 
 If you need help, you can find us at Safety HQ. You can find the location on the map.
 
-<h2><span>RANGERS</span></h2> 
+<h2><span>RANGERS & FIRST AID</span></h2> 
 
-Rangers are volunteer sober participants that are here to help you in case of problems or emergencies. You can usually spot them wearing a forest green shirt and/or a green light. They patrol in groups of two and are equipped with radios so they can communicate more quickly with other teams if needed. The First Aid volunteers are on call and can be reached by radio, especially via the Rangers. If you feel caught in an uncomfortable situation, the Rangers and First Aid will be there to support you. Sanctuary volunteers can also accommodate you and provide you with a more secure, well-lit and weatherproof space.
+Rangers are volunteer sober participants that are here to help you in case of problems or emergencies. You can usually spot them wearing a forest green vest and/or a green light. They patrol in groups of two and are equipped with radios so they can communicate more quickly with other teams if needed. 
+
+The First Aid team can be easily recognized by their blue jackets adorned with a cross. They can be reached by radio or otherwise met patrolling l'osstidburn. 
+
+If you feel caught in an uncomfortable situation, the Rangers and First Aid team will be there to support you. Sanctuary volunteers can also accommodate you and provide you with a more secure, well-lit and weatherproof space.
 
 <h2><span>SANCTUARY</span></h2> 
 
