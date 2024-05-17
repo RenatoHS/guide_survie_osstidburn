@@ -8,7 +8,7 @@ Nous sommes des Burners, nous prenons soin de notre communauté. Nous faisons de
 
 Les Rangers sont des participants volontaires sobres qui sont là pour vous aider en cas de problème ou d'urgence. Vous pouvez les reconnaître portant un gilet vert forêt et/ou une lumière verte. Ils patrouillent par groupe de deux et sont équipé·e·s de radio afin de pouvoir communiquer plus rapidement avec les autres équipes en cas de besoin. 
 
-Pour les Premiers Soins, ils sont repérables de loin à leurs gilets bleus et leurs sacs à dos marqués d'une croix. Les premiers soins sont “on call”, joignables par radio et tu peux aussi les croiser dans l'OsstidBurn. 
+Les Premiers Soins sont repérables de loin à leurs gilets bleus et leurs sacs à dos marqués d'une croix. Les premiers soins sont “on call”, joignables par radio et tu peux aussi les croiser dans l'OsstidBurn. 
 
 Si vous vous sentez pris·e dans une situation inconfortable, les Rangers et les Premiers Soins seront là pour vous soutenir. Les bénévoles du sanctuaire peuvent aussi vous accueillir et vous fournir un espace plus sécurisé, éclairé et résistant aux intempéries. 
 
