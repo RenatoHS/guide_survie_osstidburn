@@ -12,7 +12,7 @@ Les Rangers sont des participants volontaires sobres qui sont là pour vous aide
 
 Le Sanctuaire est un endroit calme et sécuritaire pour les participant·e·s vivant une expérience difficile et qui ressentent le besoin d’être supporté·e·s durant ce moment. Jour et nuit, les volontaires sont là pour répondre aux questions éventuelles, tenir compagnie ou tout simplement pour avoir de bons échanges! Le sanctuaire est un espace fournissant un environnement relaxant. L’espace sera rempli de coussins et de couvertures douces. Il sera sec, chaud, à l’ombre et lumineux. Il y aura des collations et du thé chaud. Du matériel de réduction des risques (ex: préservatifs, digues dentaires, gants, etc.) sera en libre-service à tout moment, ainsi que de l’information de toutes sortes sur les drogues et la sexualité.
 
-<h2><span>Et...</span></h2>
+<h2><span>ET...</span></h2>
 
 S’il vous plaît, faites preuve de prudence. Prenez soin de vos ami·e·s et de vous-même. Buvez de l’eau, mangez. Et amusez-vous! 
 
