@@ -43,7 +43,7 @@ Il n’y aura pas de «police du son» et de patrouille pour s’assurer que les
 
 * Tous les systèmes de son de catégorie 1+  (voir le guide) doivent s’enregistrer avant  l’événement. 
 * Limite en tout temps de 100 décibels à 5m (pondération dBC). 
-Période de silence (sans musique amplifiée ni génératrices) entre 6 et 10 am le vendredi, samedi, dimanche et lundi (de 6h au début du GTFO). 
+* La période de silence (sans musique amplifiée ni génératrices) est entre 6h et midi le jeudi, vendredi, samedi, dimanche et lundi (de 6h au début du GTFO). 
 * Un·e opérateur·trice doit être à proximité pendant le fonctionnement de son système de son. En aucun cas un système amplifié ne devrait être laissé fonctionnel sans personne réveillée autour (il peut y avoir exception pour une installation d’art à un volume raisonnable). 
 * Une situation exceptionnelle peut demander des mesures exceptionnelles.
 
