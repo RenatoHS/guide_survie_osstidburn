@@ -43,7 +43,7 @@ There will be no “sound police” or patrol to enforce the rules. That being s
  
 * All category 1+ sound systems (check the guide) must register before the event.
 * Limit at all times is 100 decibels at 5m (dBC weighting).
-* Quiet hours (without amplified music and generators) between 6AM and 10AM on Friday, Saturday, Sunday and Monday (from 6AM until GTFO).
+* Quiet hours (without amplified music and generators) between 6AM and noon on Thursday, Friday, Saturday, Sunday and Monday (from 6AM until GTFO).
 * An operator must be nearby while their sound system is running. Under no circumstances should an amplified system be left in operation * without anyone awake around (some exceptions could be made for an art installation).
 * An exceptional situation may require exceptional measures.
 
