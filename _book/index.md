@@ -1,5 +1,5 @@
 --- 
-title: "Survival Guide 2024 edition"
+title: "Survival Guide 2025 edition"
 site: bookdown::bookdown_site
 author: "l'OsstidBurn Team"
 documentclass: book
@@ -27,7 +27,9 @@ bookdown::bs4_book:
 
 <h2><span> FOREWORD </span></h2> 
 
-Everything at L’OsstidBurn is organized and run by volunteers.  
+L'OsstidBurn is not a festival, it is part of a global cultural movement spearheaded by Burning Man, which manifests itself structured around [10 core Principles] (https://survival.losstidburn.org/burning-man-10-principes) that guide burners (a.k.a you) into the Burning Man experience.
+
+More importantly, everything at L’OsstidBurn is organized and run by volunteers.  
 
 Volunteering is a great way to contribute and participate in the event. There are many ways  to get involved: Gate, First Aid, Rangers, Sanctuary, Fire Perimeter, Department of  Public Works (DPW), etc.
 
