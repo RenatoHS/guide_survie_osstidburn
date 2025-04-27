@@ -1,5 +1,5 @@
 --- 
-title: "Guide de Survie Édition 2024"
+title: "Guide de Survie Édition 2025"
 site: bookdown::bookdown_site
 author: "Équipe OsstidBurn"
 documentclass: book
@@ -26,6 +26,8 @@ bookdown::bs4_book:
 <img src="www/logo_2024_EDITED.png"  width=100% height=50%>
 
 <h2><span> AVANT-PROPOS </span></h2> 
+
+L'OsstidBurn n'est pas un festival. C'est un événement qui fait parti d'une culture global fondé et dirigé par Burning Man, qui est structuré au tour de [10 principes fondamentaux] (https://https://losstidburn.org/10-principes/) qui guident les burners (alias toi) dans l'éxperience Burning man.
 
 Tout à L’OsstidBurn est organisé et géré par des volontaires.  Le volontariat, c’est une belle façon de contribuer et de participer à l’événement. Il existe plusieurs façons de s’impliquer: Accueil, Premiers Soins, Rangers, Sanctuaire, Périmètre du Feu, Département public de la Wouérie (DPW), etc. 
 

@@ -6,18 +6,18 @@ L’OsstidBurn est un Burn régional, c'est-à-dire un événement d’art parti
 
 Pour une liste des burns régionuax reconnues veuillez accéder ce lien: https://regionals.burningman.org
 
+L’OsstidBurn est reconnu par Burning Man comme un événement régional officiel depuis sa création en 2016. 
+
 <h2><span>MISSION ?</span></h2>
 
 La mission de L’OsstidBurn est de promouvoir l’art et l’engagement participatif. Inspiré par  les principes de Burning Man, L’OsstidBurn invite chaque participant·e à exprimer sa créativité de manière libre et radicale. 
 
 La communauté plutôt éclectique de L’OsstidBurn est composée d’individus de tous genres: artistes, scientifiques, ingénieur·e·s, chamans, plombier·e·s, cuisinièr·e·s, philosophes, infirmièr·e·s,  comptables… Tous·tes se rencontrent pour créer une zone temporaire d’expression de soi. Iels y peignent, soudent, sculptent, mettent des affaires  en feu, écrivent du code, cuisinent avec beaucoup d’huile et biodansent parfois… Bref, iels y fabriquent des trucs interactifs surprenants! 
 
-L’OsstidBurn est reconnu par Burning Man comme un événement régional officiel depuis sa création en 2016. 
-
 <h2><span>QUAND ?</span></h2>
 
 
-19 (Mercredi) au 24 (Lundi) juin 2024
+19 (Jeudi) au 24 (Mardi) Juin 2025
 
 
 <h2><span> OÙ ? </span></h2>

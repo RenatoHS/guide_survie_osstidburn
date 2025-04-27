@@ -29,12 +29,12 @@ IMPORTANT: Si la chaussée du sentier était jugée impraticable par le proprié
 
 ACCÈS AU SENTIER PAR VÉHICULE 4X4 
 
-Mercredi: 10h00 à 19h00 **(Early Arrivals seulement)** \
-Jeudi: 09h00 à 19h00 \
-Vendredi: Aucun véhicule \
+Jeudi: 10h00 à 19h00 **(Early Arrivals seulement)** \
+Vendredi: 09h00 à 19h00 \
 Samedi: Aucun véhicule \
 Dimanche: Aucun véhicule \
-Lundi: 09h00 à 14h00 \
+Lundi: Aucun véhicule \
+Mardi: 09h00 à 14h00 \
 
 <h2><span> VOUS N’AVEZ PAS DE 4X4 ?  </span></h2> 
 
@@ -53,7 +53,7 @@ Pour obtenir un passe de stationnement, ou un **ticket pour le bus d'Osstidburn*
 
 Vous avez de la place disponible dans votre voiture? Encouragez le covoiturage.
 C’est bon pour l’environnement et ça permet de réduire le nombre de voiture sur le site 
-Voici le [lien de covoiturage de l'OsstidBurn 2024](https://www.groupcarpool.com/t/sebigc) pour en organiser un. 
+Voici le [lien de covoiturage de l'OsstidBurn 2025](https://www.groupcarpool.com/t/25kbzo) pour en organiser un. 
  
 
 
