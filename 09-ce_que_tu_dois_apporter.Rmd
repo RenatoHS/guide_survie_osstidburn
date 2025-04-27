@@ -5,9 +5,10 @@
 **CAMPING & EQUIPMENT** 
 
 * Rakes, work gloves, small axe, pruning shears to clear a space for your camp. 
-* Water. There is no water source on site.  We suggest 3L per person per day.
+* Water. There is no water source on site.  We suggest 2L per person per day.
 * Food
-* Tent & tarp
+* Tent 
+* Tarps (It often rains during the dates of the event)
 * Sleeping bags, blankets, coats, etc. (Bring enough warm stuff to be comfortable during cool nights -- you’ll need more than you might think!) 
 * Cooker, cooler, bowl, utensils, fuel, saucepan and kitchen accessories
 * Fire extinguisher
@@ -33,7 +34,7 @@
 
 * Clothing for both warm and cool temperatures – Expect hot days and chilly nights
 * Several pairs of socks, in case of rain
-* Raincoat and rainboots
+* Raincoat and rain boots
 * Costumes
 
 
@@ -52,7 +53,7 @@
 * Lasers
 * Firearms
 * Items that create MOOP – feathers, confetti, glitter, etc.
-* Overpackaged items: avoid packaging or discard it before you leave home
+* Over packaged items: avoid packaging or discard it before you leave home
 * Fireworks/rockets
 * Polystyrene/styrofoam accessories
 * Pets

@@ -1,12 +1,11 @@
 # PLEASE NOTE - CRAZY IMPORTANT {-}
 
 **WATER**\
-There will be no access to drinking water. You must bring your own water for consumption. We suggest 3L per person per day.
+There will be no access to drinking water. You must bring your own water for consumption. We suggest 2L per person per day.
 
 **SWIMMING**  \
 Absolutely no swimming after dark! 
 It is forbidden to wash your dishes or yourself in the stream. Even if your soap is biodegradable, don’t do it. Keep the stream pristine.
-
 
 **VOLUNTEERING** \
 Everything at L’OsstidBurn is organized and run by volunteers. Volunteering is a great way to contribute and participate in the event. There are many ways to get involved: Gate, First Aid, Rangers, Fire Perimeter, Department of Public Works (DPW) etc.

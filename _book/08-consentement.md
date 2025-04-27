@@ -58,4 +58,6 @@ PREPARE YOUR KIDS. Let your kids know in advance about the kind of things they m
 
 When you get to L’OsstidBurn, walk around with  them and identify landmarks that will help them navigate and be safe. Show them Safety HQ and speak to the Rangers. Children can show up at Safety HQ if they get lost.
 
-The members of the consent committee for the 2024 edition are Roxanne Hallal, Chandra Schecter, Antonia Simpson, Meddy Brai, Matthew Higginbotham, Victoire Pognon et Anna VDK.
+Consent education is organized by the newly created Conduct committee. If you have any questions regarding consent, please send an email to the following address:     <span style="text-decoration:underline">conduct@lossitdburn.org</span>
+
+The members of the Conduct committee for the 2025 edition are Antonia Simpson, Meddy Brai, Elizabeth, Camille and Cleo.

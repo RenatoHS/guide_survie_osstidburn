@@ -31,12 +31,12 @@ IMPORTANT: If the owner and/or the DPW consider the trail to be impassable (mudd
 ACCESS TO THE TRAIL BY 4X4 VEHICLE
 
 
-Wednesday: 10AM to 7PM (**Early Arrivals only**)\
-Thursday: 9AM to 7PM vehicles \
-Friday: No vehicles \
+Thursday: 10AM to 7PM (**Early Arrivals only**)\
+Friday: 9AM to 7PM vehicles \
 Saturday: No vehicles \
 Sunday: No vehicles \
-Monday: 9AM to 2PM \
+Monday: No vehicles \
+Tuesday: 9AM to 2PM \
 
 <h2><span> DON’T HAVE A 4X4? </span></h2> 
 
@@ -54,5 +54,5 @@ To obtain a parking pass, or a **ticket for the Osstidburn bus**, please go to :
 
 Do you have free space in your car? We suggest carpooling.
 It's good for the environment and it reduces the number of cars in the site.
-Click on the [l'OsstidBurn 2024 carpool link](https://www.groupcarpool.com/t/sebigc) to set up a carpool.
+Click on the [l'OsstidBurn 2025 carpool link](https://www.groupcarpool.com/t/25kbzo) to set up a carpool.
 

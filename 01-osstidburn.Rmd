@@ -7,6 +7,7 @@ L'OsstidBurn is a regional Burn, which is a participative art event organized by
 
 See https://regionals.burningman.org for a list of all official regional burns.
 
+L’OsstidBurn has been recognized by Burning Man as an official regional event since its inception in 2016.
 
 <h2><span>MISSION?</span></h2>
 
@@ -14,14 +15,10 @@ L’OsstidBurn’s mission is to promote engagement in art and participation. In
 
 The eclectic L’OsstidBurn community is made up of people from all walks of life: artists, scientists, engineers, shamans, nurses, chefs, plumbers, philosophers, accountants, etc. Everyone converges to co-create a temporary zone  of self-expression. Participants paint, weld, sculpt, burn things, write code, cook with a lot of oil and sometimes practice biodanza... In short, they create remarkable interactive experiences.
 
-
-L’OsstidBurn has been recognized by Burning Man as an official regional event since its inception in 2016.
-
-
 <h2><span>WHEN?</span></h2>
 
 
-June 19 (Wednesday) – 24 (Monday), 2024
+June 19 (Thursday) – 24 (Tuesday), 2025
 
 
 <h2><span>WHERE? </span></h2>
