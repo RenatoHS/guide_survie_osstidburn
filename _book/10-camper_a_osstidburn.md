@@ -34,10 +34,10 @@ Soyez responsables lorsque vous utilisez des génératrices afin d’éviter de 
 <h2><span> POLITIQUE DE SON
 «GANGRÈNE PAS LES AUTRES»  </span></h2>  
 
-La politique complète de SonCoeur (Sound Core) est disponible sur le site de L’OsstidBurn: 
+La politique complète de SonCoeur est disponible sur le site de L’OsstidBurn: 
 https://losstidburn.org/rapports-politiques/
 
-L’équipe de SonCoeur (Sound Core) croit en la capacité des opérateur·trice·s de systèmes de son à s’auto réguler et nous en appelons à leur bon jugement et leur capacité à s’adapter aux diverses situations que représente un burn. 
+L’équipe de SonCoeur croit en la capacité des opérateur·trice·s de systèmes de son à s’auto réguler et nous en appelons à leur bon jugement et leur capacité à s’adapter aux diverses situations que représente un burn. 
 
 Il n’y aura pas de «police du son» et de patrouille pour s’assurer que les règles seront respectées. Par contre, les règles sont assez claires et précisent que n’importe quel·le participant·e est en droit de consulter un camp (et son sonomètre) afin de vérifier son niveau sonore. 
 

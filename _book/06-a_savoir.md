@@ -1,7 +1,7 @@
 # À SAVOIR - TRÈS IMPORTANT {-}
 
 **EAU**\
-Il n’y aura pas d’accès à de l’eau potable. Vous devez amener votre eau pour votre consommation. Nous conseillons 3L par personne et par jour.  
+Il n’y aura pas d’accès à de l’eau potable. Vous devez amener votre eau pour votre consommation. Nous conseillons 2L par personne et par jour.  
 
 **BAIGNADE**  \
 La baignade est strictement interdite une fois la nuit tombée!  
