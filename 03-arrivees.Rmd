@@ -18,6 +18,6 @@ Il est fortement conseillé d’arriver de jour, à la clarté. Le site étant d
 
 <h2><span> LAISSE PAS D’TRACE (MOOP SWEEP) </span></h2> 
 
-* 24 Juin - Mardi: 14h00 à 18h00 
+* 24 Juin - Mardi: 14h00 à 18h30
 
 
