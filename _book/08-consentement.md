@@ -57,7 +57,8 @@ Respectez les signes «No photography» ou «Pas de photo».
 Préparez vos enfants: expliquez-leur à l’avance ce qu’iels pourraient voir ou entendre: nudité, art iconoclaste, langage vulgaire et/ou comportements étranges font partie intégrante de l'événement. 
 Quand vous arrivez à L’OsstidBurn - faites le tour de l’événement avec les enfants et aidez-les à identifier les endroits qui pourraient les aider à se repérer. Visitez le HQ Sécurité. Nos Rangers auront des conseils pour vous. Les enfants pourront aussi s’y retrouver s’iels sont perdu·e·s. 
 
-L'éducation sur le consentement est mené par le nouveau comité Conduite. Toute question liée au consentement doit être adressé au courriel suivant: conduite@losstidburn.org 
+L'éducation sur le consentement est mené par le Comité Conduite.
+Toute question liée au consentement doit être adressé au courriel suivant: conduite@losstidburn.org 
 
 Les membres du nouveau comité Conduite 2025 sont: Antonia Simpson, Meddy Brai, Elizabeth, Camille et Cléo.
 
