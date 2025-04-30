@@ -27,7 +27,7 @@ bookdown::bs4_book:
 
 <h2><span> FOREWORD </span></h2> 
 
-L'OsstidBurn is not a festival, it is part of a global cultural movement spearheaded by Burning Man, which manifests itself structured around [10 core Principles] (https://survival.losstidburn.org/burning-man-10-principes) that guide burners (a.k.a you) into the Burning Man experience.
+L'OsstidBurn is not a festival, it is part of a global cultural movement spearheaded by Burning Man, which manifests itself structured around [10 core Principles](https://survival.losstidburn.org/burning-man-10-principes) that guide burners (a.k.a you) into the Burning Man experience.
 
 More importantly, everything at L’OsstidBurn is organized and run by volunteers.  
 
