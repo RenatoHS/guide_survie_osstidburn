@@ -33,17 +33,17 @@ Please be responsible when using generators and gasoline to avoid contaminating 
 
 <h2><span> SOUND POLICY </span></h2>
 
-The SonCoeur (Sound Core) policy guide is available on the L’OsstidBurn website:
+The Sound Core policy guide is available on the L’OsstidBurn website:
 https://losstidburn.org/en/reports-and-policies/
 
-The SonCoeur team believes in the sound system operators’ ability to self-regulate and we appeal to their best judgment and ability to adapt to the various situations that a burn represents.
+The Sound Core team believes in the sound system operators’ ability to self-regulate and we appeal to their best judgment and ability to adapt to the various situations that a burn represents.
 
 There will be no “sound police” or patrol to enforce the rules. That being said, the rules are quite clear and specify that any participant is entitled to consult a camp (and its sound level meter) in order to check noise level.
  
  
 * All category 1+ sound systems (check the guide) must register before the event.
 * Limit at all times is 100 decibels at 5m (dBC weighting).
-* Quiet hours (without amplified music and generators) are between 6AM and noon on Thursday, Friday, Saturday, Sunday and Monday (from 6AM until GTFO).
+* Quiet hours (without amplified music and generators) are between 6AM and noon on Friday, Saturday, Sunday, Monday and Tuesday (from 6AM until GTFO).
 * An operator must be nearby while their sound system is running. Under no circumstances should an amplified system be left in operation * without anyone awake around (some exceptions could be made for an art installation).
 * An exceptional situation may require exceptional measures.
 

@@ -5,9 +5,9 @@
 
 <h2><span>EFFIGY & TEMPLE</span></h2> 
 
-The Effigy burn is on Saturday at sundown.
+The Effigy burn is on Sunday at sundown.
 
-The Temple is an intentional space of co-creation. A team of volunteers has built a monument to serve as an open canvas for our appeasement and collective release. During the event L’OsstidBurners can write messages, leave mementos, spend quiet time, engage in ceremony or whatever it is that has significance for them to commemorate things they would like to let go of. If that’s not your thing, that’s fine. Please respect this space and the personal and important items inside. If you stay until the very end of the event, you’ll have the privilege of experiencing the Temple Burn, where we as a community observe the transformative act of burning away all we are ready to leave behind. The Temple burn is on Sunday at sundown.
+The Temple is an intentional space of co-creation. A team of volunteers has built a monument to serve as an open canvas for our appeasement and collective release. During the event L’OsstidBurners can write messages, leave mementos, spend quiet time, engage in ceremony or whatever it is that has significance for them to commemorate things they would like to let go of. If that’s not your thing, that’s fine. Please respect this space and the personal and important items inside. If you stay until the very end of the event, you’ll have the privilege of experiencing the Temple Burn, where we as a community observe the transformative act of burning away all we are ready to leave behind. The Temple burn is on Monday at sundown.
 
 If you want to take part in the Effigy or Temple Burn perimeter, please sign up on the volunteering platform: 
 
@@ -35,6 +35,6 @@ To avoid fire spread, do not perform fire performance outside this safe zone.
 
 **FIRE JAM**
 
-Except for Conclave, there will be no fire jam area during the 2024 edition because we could not get any insurance for that. If you wish to create and manage your own fire jam area and you have the necessary insurance, please contact us:
+Except for Conclave, there will be no fire jam area during the 2025 edition because we could not get any insurance for that. If you wish to create and manage your own fire jam area and you have the necessary insurance, please contact us:
 
 participation@losstidburn.org
