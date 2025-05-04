@@ -4,7 +4,7 @@
 
 L’OsstidBurn est un Burn régional, c'est-à-dire un événement d’art participatif organisé par des Burners locaux pour apporter la culture et les principes de Burning Man au sein de leurs communautés. Le site web de l'événenement est le suivant : https://losstidburn.org/
 
-Pour une liste des burns régionuax reconnues veuillez accéder ce lien: https://regionals.burningman.org
+Pour une liste des burns régionaux reconnues veuillez accéder ce lien: https://regionals.burningman.org
 
 L’OsstidBurn est reconnu par Burning Man comme un événement régional officiel depuis sa création en 2016. 
 

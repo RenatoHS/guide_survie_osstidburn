@@ -1,4 +1,4 @@
-# EXODUS {-}
+# DERNIÈRES INFOS {-}
 
 <h2><span>OBJETS TROUVÉS</span></h2>
 

@@ -1,7 +1,7 @@
 # BURNING MAN :: 10 principes {-} 
 
 **Ces principes ne sont ni des commandements, ni des règlements. Ils suggèrent une ligne de conduite qui permet une organisation communautaire distincte.**
-**Une participation à un tel événement pourrai changer votre perception du monde qui vous entoure et éventuellement influencer votre façon d'interagir avec celui-ci.**
+**Une participation à un tel événement pourrait changer votre perception du monde qui vous entoure et éventuellement influencer votre façon d'interagir avec celui-ci.**
 
 
 <h2><span> RESPONSABILITÉ CIVILE  </span></h2>

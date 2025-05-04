@@ -4,7 +4,7 @@
 <h2><span> LAISSE PAS D'TRACE (LNT) </span></h2> 
 
 
-Notre communauté respecte l'environnement. Nous nous engageons à ne laisser aucune trace physique de nos activités. Nous nettoyons derrière nous et nous nous efforçons, dans la mesure du possible, de laisser les lieux dans un meilleur état que lorsque nous sommes arrivé·e·s. Vous devez ramener tous vos effets personnels et vos déchets après l'événement. Il n'y aura pas de conteneur de vidange à la sortie de l'événement. Il est important de prévoir d'apporter des sacs à ordures et du matériel pour gérer tous vos déchets. On vous demande d'utiliser les toilettes et de ne pas uriner par terre, surtout pas à coté de la rivière!
+Notre communauté respecte l'environnement. Nous nous engageons à ne laisser aucune trace physique de nos activités. Nous nettoyons derrière nous et nous nous efforçons, dans la mesure du possible, de laisser les lieux dans un meilleur état que lorsque nous sommes arrivé·e·s. Vous devez ramener tous vos effets personnels et vos déchets après l'événement. Il n'y aura pas de conteneur de vidange à la sortie de l'événement. Il est important de prévoir d'apporter des sacs à ordures et du matériel pour gérer tous vos déchets. On vous demande d'utiliser les toilettes et de ne pas uriner par terre, surtout pas à côté de la rivière!
 
 
 De plus, la propreté du site est une responsabilité partagée et l'entretien du site est l'affaire de tous·tes. N'oubliez pas d'avoir un petit sac avec vous en tout temps pour ramasser les déchets que vous voyez par terre, même s'ils ne sont pas les votre. Il est également fortement conseillé de participer à la session de nettoyage (MOOP SWEEP) à la fin de l'événement, en plus de celle que vous devez faire à votre camp. Veuillez consulter le guide LNT pour plus d'informations à ce sujet.
@@ -30,7 +30,7 @@ lnt@losstidburn.org
 **MOOP SWEEP DE FIN D'ÉVÉNEMENT**
 
 Le comité LNT veille à ce que le bois demeure en bon état, voire dans un meilleur état que lorsque nous sommes arrivé·e·s. 
-Une session de nettoyage global du site aura lieu de 14h à 18h30 le Mardi 24 juin. Pour vous inscrire à cette session, dirigez-vous vers la plateforme d’inscription des volontaires.
+Une session de nettoyage global du site aura lieu de 14h à 18h30 le mardi 24 juin. Pour vous inscrire à cette session, dirigez-vous vers la plateforme d’inscription des volontaires.
 https://participation.losstidburn.org/
 
 <h2><span>MOOP MAP</span></h2>

@@ -13,7 +13,7 @@ Nous sommes à quelques centaines de mètres de la  frontière américaine. Évi
 
 La nuit, promenez-vous à deux. Il y a des ours dans le coin. Note: Les ours n’aiment pas le son amplifié, ne vous inquiétez pas trop. 
 
-Aidez-vous les un·e·s les autres pour faire des «tick checks» régulièrement.
+Aidez-vous les un·e·s les autres pour faire des «tique checks» régulièrement.
 
 
 <h2><span> GÉNÉRATRICES </span></h2>
@@ -39,7 +39,7 @@ https://losstidburn.org/rapports-politiques/
 
 L’équipe de SonCoeur croit en la capacité des opérateur·trice·s de systèmes de son à s’auto réguler et nous en appelons à leur bon jugement et leur capacité à s’adapter aux diverses situations que représente un burn. 
 
-Il n’y aura pas de «police du son» et de patrouille pour s’assurer que les règles seront respectées. Par contre, les règles sont assez claires et précisent que n’importe quel·le participant·e est en droit de consulter un camp (et son sonomètre) afin de vérifier son niveau sonore. 
+Il n’y aura pas de «police du son» et de patrouille pour s’assurer que les règles seront respectées. Par contre, les règles sont assez claires et précisent que n’importe quel·e participant·e est en droit de consulter un camp (et son sonomètre) afin de vérifier son niveau sonore. 
 
 * Tous les systèmes de son de catégorie 1+  (voir le guide) doivent s’enregistrer avant  l’événement. 
 * Limite en tout temps de 100 décibels à 5m (pondération dBC). 

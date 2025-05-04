@@ -21,7 +21,7 @@ Soyez respectueux·ses des organisateur·trice·s, ce sont des volontaires pour 
 
 <h2><span> ACCÈS PAR VÉHICULE </span></h2> 
 
-Les derniers mètres du chemin qui mènent à l'entrée du site et au stationnement de L’OsstidBurn sont endommagés. Avancez très lentement. 
+Les derniers mètres du chemin qui mènent à l'entrée du site et au parking de L’OsstidBurn sont endommagés. Avancez très lentement. 
 Le sentier boisé menant aux sites de campement étant accidenté, seuls les véhicules 4x4 avec un dégagement d’au moins 12 po du sol pourront y accéder. 
 
 IMPORTANT: Si la chaussée du sentier était jugée impraticable par le propriétaire et/ou DPW (bouette due aux conditions météorologiques), un système de navettes (remorques) sera mis en place pour les oeuvres et les camps placés uniquement et en suivant le même horaire que prévu. 
@@ -45,11 +45,11 @@ Il y a environ 15 minutes de marche d’un bout à l’autre du site le long du 
 Prévoyez: diables, chariots, cordes, etc. pour  le transport de votre matériel. Le stationnement est à environ 800m du site du campement. 
 
 
-Le site de L'OsstidBurn a une capacité limitée pour accueillir des véhicules. L'équipe de Stationnement fait des miracles à chaque année pour vous orienter une fois sur place.
+Le site de L'OsstidBurn a une capacité limitée pour accueillir des véhicules. L'équipe du Stationnement fait des miracles à chaque année pour vous orienter une fois sur place.
 
-Si vous venez en voiture,  <span style="text-decoration:underline">**IL EST OBLIGATOIRE d'avoir votre passe de stationnement (voiture ou VR). Vous devez avoir une passe de stationnement pour chaque voiture.**</span>
+Si vous venez en voiture,  <span style="text-decoration:underline">**IL EST OBLIGATOIRE d'avoir votre pass de stationnement (voiture ou VR). Vous devez avoir une passe de stationnement pour chaque voiture.**</span>
 
-Pour obtenir un passe de stationnement, ou un **ticket pour le bus d'Osstidburn**, veuillez accéder le site web : https://participation.losstidburn.org/
+Pour obtenir un pass de stationnement, ou un **ticket pour le bus d'Osstidburn**, veuillez accéder le site web : https://participation.losstidburn.org/
 
 Vous avez de la place disponible dans votre voiture? Encouragez le covoiturage.
 C’est bon pour l’environnement et ça permet de réduire le nombre de voiture sur le site 

@@ -27,7 +27,7 @@ bookdown::bs4_book:
 
 <h2><span> AVANT-PROPOS </span></h2> 
 
-L'OsstidBurn n'est pas un festival. C'est un événement qui fait parti d'une culture global fondée et dirigée par Burning Man, un rassemblement structuré au tour de [10 principes fondamentaux](https://https://losstidburn.org/10-principes/) qui guident les burners (alias toi) dans l'éxperience de Burning man.
+L'OsstidBurn n'est pas un festival. C'est un événement qui fait partie d'une culture globale fondée et dirigée par Burning Man, un rassemblement structuré autour de [10 principes fondamentaux](https://https://losstidburn.org/10-principes/) qui guident les burners (alias toi) dans l'expérience de Burning man.
 
 Tout à L’OsstidBurn est organisé et géré par des volontaires.  Le volontariat, c’est une belle façon de contribuer et de participer à l’événement. Il existe plusieurs façons de s’impliquer: Accueil, Premiers Soins, Rangers, Sanctuaire, Périmètre du Feu, Département public de la Wouérie (DPW), etc. 
 
