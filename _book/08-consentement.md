@@ -41,8 +41,30 @@ L’adhésion à ces principes assure un espace plus sécuritaire pour tous·te�
 * Si vous vous sentez vous-même en danger, quittez  la situation immédiatement, et allez trouver les Rangers. 
 * Nous vous invitons à informer les Rangers de tout comportement déplacé. 
 * L’organisation se réserve le droit d’exclure toute personne au comportement inapproprié. 
-* Suite à l’événement, si vous souhaitez nous faire part d’une situation de bris de consentement, n’hésitez pas à nous contacter à <span style="text-decoration:underline">consentement@losstidburn.org </span> 
+* Suite à l’événement, si vous souhaitez nous faire part d’une situation de bris de consentement, n’hésitez pas à contacter le comité Conduite à <span style="text-decoration:underline">conduite@losstidburn.org </span>
 
+
+<h2><span> COMITÉ CONDUITE  </span></h2>
+
+
+Le Comité Conduite n’est pas un nouveau comité, mais l’évolution naturelle du Comité Consentement. Ce changement de nom reflète mieux l’élargissement de notre mission, en phase avec les besoins d’une communauté en pleine croissance, et permet de clarifier notre rôle.
+
+Notre mandat principal reste centré sur le consentement : sensibilisation, gestion des plaintes, mise en place de mesures appropriées, ainsi que l’accompagnement des camps qui en font la demande.
+
+Notre champ d’action s’élargit. Le Comité Conduite est également là pour soutenir la communauté face à des situations telles que l’intimidation, le harcèlement, la discrimination, l’abus de pouvoir ou le dossage.
+
+Nous sommes disponibles pour appuyer les comités, les camps ou les participant·e·s qui rencontrent des difficultés interpersonnelles ou organisationnelles.
+Notre rôle est préventif autant que réactif : être présent·e·s avant que les situations ne dégénèrent, pour favoriser un environnement de burn sain, respectueux et sécuritaire pour tou·te·s.
+
+Pour joindre le Comité Conduite, vous pouvez écrire à conduite@losstidburn.org. Ce courriel est reçu par Camille C., Elizabeth V., Antonia S., Cléo G. et Meddy B..
+Si l’une de ces personnes est impliquée dans la situation ou si, pour toute autre raison, vous préférez qu’elle ne voie pas votre message, vous pouvez contacter directement au moins deux personnes du comité à leur adresse individuelle :
+
+* camille@losstidburn.org
+* cleo@losstidburn.org
+* elizabeth@losstidburn.org
+* antonia@losstidburn.org
+
+À noter : l’adresse consentement@losstidburn.org reste active pour le moment. Elle est accessible uniquement par Elizabeth V. et Antonia S., afin d'assurer la continuité de traitement des messages envoyés à l’ancien comité.
 
 <h2><span> PHOTOGRAPHIE  </span></h2>
 
@@ -57,8 +79,4 @@ Respectez les signes «No photography» ou «Pas de photo».
 Préparez vos enfants: expliquez-leur à l’avance ce qu’iels pourraient voir ou entendre: nudité, art iconoclaste, langage vulgaire et/ou comportements étranges font partie intégrante de l'événement. 
 Quand vous arrivez à L’OsstidBurn - faites le tour de l’événement avec les enfants et aidez-les à identifier les endroits qui pourraient les aider à se repérer. Visitez le HQ Sécurité. Nos Rangers auront des conseils pour vous. Les enfants pourront aussi s’y retrouver s’iels sont perdu·e·s. 
 
-L'éducation sur le consentement est supervisée par le Comité Conduite.
-Toute question liée au consentement doit être adressé au courriel suivant: conduite@losstidburn.org 
-
-Les membres du comité Conduite de l’Osstidburn 2025 sont: Antonia Simpson, Meddy Brai, Elizabeth, Camille et Cléo.
 
