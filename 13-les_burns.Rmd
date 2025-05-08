@@ -42,6 +42,6 @@ En raison d’un risque de propagation de feu, ne jonglez pas avec du feu ailleu
 
 **ESPACE JAM DE FEU**
 
-En dehors du Conclave, il n’y a pas d’espace Jam de Feu prévu pendant l'événement. Cependant, Vous êtes libres de flow sans flames où vous désiré avec vous ami.es. 
+En dehors du Conclave, il n’y aura pas d’espace Jam de Feu prévu pendant l'événement. Cependant, vous êtes libres de flow **SANS FLAMMES** où vous désirez avec vous ami.es. 
 
 
