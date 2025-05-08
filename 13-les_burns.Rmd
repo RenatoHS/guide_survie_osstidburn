@@ -35,4 +35,4 @@ To avoid fire spread, do not perform fire performance outside this safe zone.
 
 **FIRE JAM**
 
-"Except for during Conclave, there will be no authorized fire jam area. You are free to flow without flames anywhere with your friends!"
+Except for during Conclave, there will be no authorized fire jam area. However, you are free to flow **WITHOUT FLAMES** anywhere with your friends!
