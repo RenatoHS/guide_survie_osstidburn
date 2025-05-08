@@ -30,3 +30,7 @@ If you leave the site, you can’t re-enter unless there’s an urgent need to d
 
 **CAMPFIRES** \
 NO CAMPFIRES ALLOWED! Refer to the "Burn Barrels: Rules & Regulations"
+
+**MONEY** \
+The purchase or sale of anything is not permitted during the event. The Burn's economy is based on gifting.
+Refer to the "BURNING MAN :: 10 Principles" section for a better understanding. Ice bags are the only exception to this rule, but they must be ordered in advance on the OsstidBurn website.
