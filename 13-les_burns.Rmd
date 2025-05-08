@@ -42,6 +42,6 @@ En raison d’un risque de propagation de feu, ne jonglez pas avec du feu ailleu
 
 **ESPACE JAM DE FEU**
 
-En dehors du Conclave, il n’y a pas d’espace Jam de Feu prévu pour l’édition 2025 car nous ne possédons pas d’assurances à cet effet. Si vous désirez créer et gérer votre propre espace et que vous possédez des assurances, écrivez-nous à : 
+En dehors du Conclave, il n’y a pas d’espace Jam de Feu prévu pendant l'événement. Cependant, Vous êtes libres de flow sans flames où vous désiré avec vous ami.es. 
 
-participation@losstidburn.org
+
