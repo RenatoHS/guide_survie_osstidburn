@@ -40,9 +40,27 @@ Adherence to these principles guarantees a safe space for everyone to name and t
 * If you feel at risk yourself, leave the situation immediately, and go find the **Sentinels or Rangers**.
 * Please inform the **Rangers** of any inappropriate behaviour.
 * The Organization reserves the right to expel any person whose behaviour is inappropriate.
-* After the event, if you’d like to inform us of any breach of consent, you can do so by sending us an email at <span style="text-decoration:underline">consentement@losstidburn.org </span> 
+* After the event, if you’d like to inform us of any breach of consent, you can do so by sending us an email at <span style="text-decoration:underline">conduct@losstidburn.org </span> 
+
+<h2><span> CONDUCT COMMITTEE  </span></h2>
+
+The Conduct Committee is not a new committee, but the natural evolution of the Consent Committee. This name change better reflects the expansion of our mission, in alignment with the needs of a growing community, and helps clarify our role.
+
+Our primary mandate remains centered on consent: raising awareness, handling complaints, implementing appropriate measures, and supporting camps that request assistance.However, our scope is expanding. The Conduct Committee is also here to support the community in situations such as bullying, harassment, discrimination, abuse of power, or dosing.
+
+We are available to support committees, camps, or participants facing interpersonal or organizational challenges.
+Our role is both preventive and responsive: to be present before situations escalate, and to help foster a healthy, respectful, and safe burn environment for everyone.
+
+To reach the Conduct Committee, you can email conduct@losstidburn.org. This email is received by Camille C., Elizabeth V., Antonia S., Cléo G., and Meddy B.
+If one of these individuals is involved in the situation, or if for any reason you would prefer they not see your message, you may contact at least two members of the committee directly at their individual addresses:
+
+* camille@losstidburn.org
+* cleo@losstidburn.org
+* elizabeth@losstidburn.org
+* antonia@losstidburn.org
 
 
+Please note: The address consent@losstidburn.org remains active for now. It is accessible only by Elizabeth V. and Antonia S., to ensure continuity in handling messages sent to the former committee.
 
 <h2><span> PHOTOGRAPHY </span></h2>
 
@@ -50,14 +68,9 @@ Photographing and filming participants without their consent is prohibited. Reme
 
 Respect the ‘No photography’ or ‘Pas de photo’ signs.
 
-
-
 <h2><span> PARENTS  </span></h2>
 
 PREPARE YOUR KIDS. Let your kids know in advance about the kind of things they might see and hear. Nudity, iconoclastic art, rude language and weird behaviour are all part of the event.
 
 When you get to L’OsstidBurn, walk around with  them and identify landmarks that will help them navigate and be safe. Show them Safety HQ and speak to the Rangers. Children can show up at Safety HQ if they get lost.
 
-Consent education is organized by the newly created Conduct committee. If you have any questions regarding consent, please send an email to the following address:     <span style="text-decoration:underline">conduct@lossitdburn.org</span>
-
-The members of the Conduct committee for the 2025 edition are Antonia Simpson, Meddy Brai, Elizabeth, Camille and Cleo.

@@ -8,7 +8,7 @@
 * Water. There is no water source on site.  We suggest 2L per person per day.
 * Food
 * Tent 
-* Tarps (It often rains during the dates of the event)
+* Tarps (It often rains during this period of the year)
 * Sleeping bags, blankets, coats, etc. (Bring enough warm stuff to be comfortable during cool nights -- you’ll need more than you might think!) 
 * Cooker, cooler, bowl, utensils, fuel, saucepan and kitchen accessories
 * Fire extinguisher

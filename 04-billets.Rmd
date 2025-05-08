@@ -31,12 +31,14 @@ IMPORTANT: If the owner and/or the DPW consider the trail to be impassable (mudd
 ACCESS TO THE TRAIL BY 4X4 VEHICLE
 
 
-Thursday: 10AM to 7PM (**Early Arrivals only**)\
-Friday: 9AM to 7PM vehicles \
+Thursday: 5AM to 8:30PM (**Early Arrivals only**)\
+Friday: 5AM to 8:30PM vehicles \
 Saturday: No vehicles \
 Sunday: No vehicles \
 Monday: No vehicles \
-Tuesday: 9AM to 2PM \
+Tuesday: 5AM to 2PM \
+
+Please note that only 4-wheel-drive vehicles with 12 inches of ground clearance may be permitted on the trail, depending on terrain conditions. The ASS department determines which vehicles are allowed on the path. Thank you for respecting their decision regarding your vehicle.
 
 <h2><span> DON’T HAVE A 4X4? </span></h2> 
 
