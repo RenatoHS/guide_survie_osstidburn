@@ -29,12 +29,14 @@ IMPORTANT: Si la chaussée du sentier était jugée impraticable par le proprié
 
 ACCÈS AU SENTIER PAR VÉHICULE 4X4 
 
-Jeudi: 10h00 à 19h00 **(Early Arrivals seulement)** \
-Vendredi: 09h00 à 19h00 \
+Jeudi: 05h00 à 20h30 **(Early Arrivals seulement)** \
+Vendredi: 05h00 à 20h30 \
 Samedi: Aucun véhicule \
 Dimanche: Aucun véhicule \
 Lundi: Aucun véhicule \
-Mardi: 09h00 à 14h00 \
+Mardi: 05h00 à 14h00 \
+
+À noter que seuls les véhicules 4 roues motrices avec un dégagement de 12 pouces auront la possibilité d'être autorisés sur le sentier si les conditions du terrain le permettent. **C'est le département ASS qui fait les calls pour quel véhicule peut emprunter le chemin. Merci de respecter la décisioni prise pour votre véhicule.**
 
 <h2><span> VOUS N’AVEZ PAS DE 4X4 ?  </span></h2> 
 

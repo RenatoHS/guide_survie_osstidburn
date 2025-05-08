@@ -33,3 +33,6 @@ Aucune réadmission n’est autorisée lorsque vous sortez du site, sauf pour ur
 
 **FEU DE CAMPS** \
 AUCUN FEU DE CAMPS PERMIS! Référez-vous à la  section «Burn Barrels: Règles et modalités». 
+
+**ARGENT** 
+À l'exception de sac de glaces qui doivent être commandés en avance, rien n'est vendu pendant l'événement. L'achat ou vente de quoi que ce soit n'est pas permis. L'économie du burn est centrée sur le don (voir section des principes).
