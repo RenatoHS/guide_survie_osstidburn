@@ -16,7 +16,8 @@ Aucun billet ne sera disponible à la porte!
 
 En cas d’entrée interdite, la ou les personne·s fautives seront expulsées immédiatement et bannies des événements futurs de L’OsstidBurn.  
 
-Transporter des passager·e·s clandestin·e·s ou aider des personnes à se faufiler est aussi grave que de se faufiler soi-même. Toutes les personnes à bord d’un véhicule transportant des passager·e·s clandestin·e·s  se verront interdire l’entrée, sans remboursement des billets.  
+Transporter des passager·e·s clandestin·e·s ou aider des personnes à se faufiler est aussi grave que de se faufiler soi-même. Toutes les personnes à bord d’un véhicule transportant des passager·e·s clandestin·e·s  se verront interdire l’entrée, sans remboursement des billets.  `
+
 Soyez respectueux·ses des organisateur·trice·s, ce sont des volontaires pour l’événement tout comme vous l’êtes.
 
 <h2><span> ACCÈS PAR VÉHICULE </span></h2> 
@@ -24,7 +25,7 @@ Soyez respectueux·ses des organisateur·trice·s, ce sont des volontaires pour 
 Les derniers mètres du chemin qui mènent à l'entrée du site et au parking de L’OsstidBurn sont endommagés. Avancez très lentement. 
 Le sentier boisé menant aux sites de campement étant accidenté, seuls les véhicules 4x4 avec un dégagement d’au moins 12 po du sol pourront y accéder. 
 
-IMPORTANT: Si la chaussée du sentier était jugée impraticable par le propriétaire et/ou DPW (bouette due aux conditions météorologiques), un système de navettes (remorques) sera mis en place pour les oeuvres et les camps placés uniquement et en suivant le même horaire que prévu. 
+IMPORTANT: Si la chaussée du sentier était jugée impraticable par le propriétaire et/ou DPW (bouette due aux conditions météorologiques), un système de navettes sera mis en place pour transporter les remorques des gens à l'aide de VTT. Les véhicules 4x4 équipés de pneus tout terrain (Mud Tires) pourraient être tolérés si les conditions le permettent.
 
 
 ACCÈS AU SENTIER PAR VÉHICULE 4X4 
