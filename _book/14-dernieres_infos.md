@@ -12,6 +12,8 @@ Repartez avec tout ce que vous avez apporté!
 
 Mardi 24 juin à 14h00 : tous·es les participant·e·s  (à l’exception des volontaires du Leave No Trace) doivent avoir quitté les lieux. Compte tenu du fort volume de trafic sur le sentier lors de l’exode, un horaire sera établi pour les véhicules avec des plages pour entrer et sortir du sentier. Veuillez le consulter pour planifier votre départ. La session de Leave No Trace aura lieu de 14h à 18h30. 
 
+Tout comme pendant l'arrivée, seuls les véhicules 4 roues motrices avec un dégagement de 12 pouces auront la possibilité d'être autorisés sur le sentier si les conditions du terrain le permettent.
+
 
 Prenez le temps de vérifier votre emplacement et les lieux que vous avez fréquentés avant de quitter.  
 
