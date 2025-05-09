@@ -7,3 +7,6 @@ We have new neighbours. Yes, real estate development has also affected the Towns
 * No music, sound systems, events or gatherings, including parties, will be tolerated on the plana (the clearing) or in the parking lot.
 * Drive slowly in the Township of Potton. In order to reduce noise pollution from car traffic, arrive during Gate opening hours, respect the speed limit and avoid excessive noise (e.g. techno at full volume).
 * Respect the signs delimiting the site, otherwise you'll be asked to move your tent. We're surrounded by private property.
+* **NO parking on the road **.  You should have a parking pass to enter the site. Otherwise, carpool with someone that has a parking pass, or come with the OsstidBus.
+* Help local shops, Spend your money with a big smile ! In the village there is a great bakery, coffee roaster, depaneur-hardware store in town.
+* Leave no trace, **DO Not dump your garbage in the containers in the village**, bring it home.  
