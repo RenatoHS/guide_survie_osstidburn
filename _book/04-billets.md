@@ -38,7 +38,7 @@ Sunday: No vehicles \
 Monday: No vehicles \
 Tuesday: 5AM to 2PM \
 
-Please note that only 4-wheel-drive vehicles with 12 inches of ground clearance may be permitted on the trail, depending on terrain conditions. The ASS department determines which vehicles are allowed on the path. Thank you for respecting their decision regarding your vehicle.
+Please note that only 4-wheel-drive vehicles with 12 inches of ground clearance may be permitted on the trail, depending on terrain conditions. **The ASS department determines which vehicles are allowed on the path. Thank you for respecting their decision regarding your vehicle.**
 
 <h2><span> DON’T HAVE A 4X4? </span></h2> 
 
