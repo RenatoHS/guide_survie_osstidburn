@@ -2,9 +2,9 @@
 
 <h2><span>QUESSÉ ?</span></h2> 
 
-L’OsstidBurn est un Burn régional, c'est-à-dire un événement d’art participatif organisé par des Burners locaux pour apporter la culture et les principes de Burning Man au sein de leurs communautés. Le site web de l'événenement est le suivant : https://losstidburn.org/
+L’OsstidBurn est un Burn régional, c'est-à-dire un événement d’art participatif organisé par des Burners locaux, qui vise à faire vivre la culture et les principes de Burning Man au sein de leurs communautés.     Le site web de l'événenement est le suivant : https://losstidburn.org/
 
-Pour une liste des burns régionaux reconnues veuillez accéder ce lien: https://regionals.burningman.org
+Liste complète des Burns régionaux reconnus  :  https://regionals.burningman.org
 
 L’OsstidBurn est reconnu par Burning Man comme un événement régional officiel depuis sa création en 2016. 
 
@@ -17,7 +17,7 @@ La communauté plutôt éclectique de L’OsstidBurn est composée d’individus
 <h2><span>QUAND ?</span></h2>
 
 
-19 (Jeudi) au 24 (Mardi) Juin 2025
+Du jeudi 19 juin au mardi 24 juin 2025.
 
 
 <h2><span> OÙ ? </span></h2>
@@ -32,21 +32,28 @@ Cantons-de-l’Est
 
 <h2><span>Le nom L’OSSTIDBURN ?</span></h2> 
 
-Le nom de l’événement est en référence à L'Osstidcho, un spectacle anticonformiste et révolutionnaire présenté pour la première fois le 20 juin 1968 au Théâtre de Quat’Sous à Montréal. Le concept était simple, changer les habitudes du théâtre en mariant différentes disciplines. Finalement, le propriétaire du Théâtre de Quat’Sous n’en pouvait plus du chaos et de l’indiscipline des membres de la jeune troupe, pour qui l’art venait du désordre. L’Osstidcho est un spectacle qui laissera une trace indélébile dans l’imaginaire collectif québécois.
+Le nom l’Osstidburn est un clin d'œil à l'Osstidcho, un spectacle anticonformiste et révolutionnaire présenté pour la première fois le 20 juin 1968 au Théâtre de Quat’Sous à Montréal. 
+Mariant différentes disciplines, ce show incarnait une volonté de changer les habitudes du théâtre. Finalement, le propriétaire du Théâtre de Quat’Sous n’en pouvait plus du chaos et de l’indiscipline des membres de la jeune troupe, pour qui l’art venait du désordre. L’Osstidcho est un spectacle qui laissera une trace indélébile dans l’imaginaire collectif québécois.
+
 
 <h2><span>ON EST OÙ ?</span></h2>
 
 <h3><span>SUR UNE TERRE AUX ORIGINES MULTIPLES</span></h3> 
 
-Bien que nous ayons une bonne connaissance de l'histoire récente et coloniale du site de l'événement, nous sommes sensibles au fait que son histoire est plus complexe et plus riche. L'organisation travaille actuellement sur une reconnaissance de territoire pour reconnaître les communautés autochtones locales. Le projet en est encore à ses débuts. Si vous souhaitez participer, veuillez contacter info@losstidburn.org
+Bien que nous ayons une bonne connaissance de l'histoire récente et coloniale du site de l'événement, nous sommes sensibles au fait que son histoire est plus complexe et plus riche. L'organisation travaille actuellement sur une reconnaissance de territoire pour reconnaître les communautés autochtones locales. Le projet en est encore à ses débuts. 
+Si vous souhaitez participer, veuillez contacter info@losstidburn.org
 
 <h3><span>SUR LA TERRE À BULL…</span></h3> 
 
 
-Gerald V. Bull, né le 9 mars 1928 en Ontario, mort assassiné le 22 mars 1990 à Bruxelles, était un ingénieur canadien, spécialiste en balistique (la science qui a pour objet l’étude du mouvement des projectiles). Il a mené d’importantes recherches sur les super-canons capables de tirer sur de très longues distances ou à de hautes altitudes. En 1971, Gerald Bull décide de fonder une compagnie de recherche en balistique à Highwater près de Mansonville dans les Cantons-de-l'Est, la Space Research Corporation (SRC), afin de poursuivre ses recherches.  
 
-Ce fut une époque dorée pour les Cantons-de l’Est. L’entreprise de Gérald Bull, la Space Research, a fasciné les Québécois par ses travaux. On raconte que les gens entendaient les coups de canon jusqu’à Sutton et que régulièrement, les habitant·e·s du coin devaient faire remplacer leurs fenêtres qui avaient éclaté lors d’essais. On surnomma Gerald Bull, Dr Strangelove. 
+Gerald V. Bull, né le 9 mars 1928 en Ontario, mort assassiné le 22 mars 1990 à Bruxelles, était un ingénieur canadien en balistique (la science qui a pour objet l’étude du mouvement des projectiles). 
+Il a mené d’importantes recherches sur les super-canons capables de tirer sur de très longues distances ou à de hautes altitudes. 
+En 1971, Gerald Bull décide de fonder une compagnie de recherche en balistique à Highwater près de Mansonville dans les Cantons-de-l'Est, la Space Research Corporation (SRC), afin de poursuivre ses recherches.  
 
-Le gouvernement canadien a pour sa part fait démanteler tout ce qu’il restait de canons sur la  propriété, mais nous y retrouvons toujours certains vestiges tels qu’une ancienne antenne, une centrale électrique, un trou d’homme ainsi que les fondations de plusieurs bâtiments.
+Ce fut une époque dorée pour les Cantons-de l’Est. L’entreprise de Gérald Bull, la Space Research, a fasciné les Québécois par ses travaux. On raconte que les gens entendaient les coups de canon jusqu’à Sutton et que régulièrement, les habitant·es du coin devaient faire remplacer leurs fenêtres qui avaient éclaté lors d’essais. 
 
+On le surnommait "Dr. Strangelove". 
+
+Le gouvernement canadien a pour sa part fait démanteler tout ce qu’il restait de canons sur la  propriété, mais on peut encore voir des vestiges tels qu’une ancienne antenne, une centrale électrique, un trou d’homme ainsi que les fondations de plusieurs bâtiments.
 
