@@ -4,28 +4,36 @@
 <h2><span> LAISSE PAS D'TRACE (LNT) </span></h2> 
 
 
-Notre communauté respecte l'environnement. Nous nous engageons à ne laisser aucune trace physique de nos activités. Nous nettoyons derrière nous et nous nous efforçons, dans la mesure du possible, de laisser les lieux dans un meilleur état que lorsque nous sommes arrivé·e·s. Vous devez ramener tous vos effets personnels et vos déchets après l'événement. Il n'y aura pas de conteneur de vidange à la sortie de l'événement. Il est important de prévoir d'apporter des sacs à ordures et du matériel pour gérer tous vos déchets. On vous demande d'utiliser les toilettes et de ne pas uriner par terre, surtout pas à côté de la rivière!
+À L’OsstidBurn, on respecte le terrain qui nous accueille. On vient, on vit, on repart **sans laisser d’trace**. Même mieux : on essaie de **laisser l’endroit en meilleur état** encore qu’à notre arrivée.
+
+Il n’y aura **aucun conteneur à vidange** sur place et à la sortie de l'événement.
+
+Alors **ramène tout ce que tu apportes**, déchets inclus (oui, même le trognon de pomme).
+
+Pense à prendre **des sacs à ordures solides**, des contenants pour tes restes, et du matos pour gérer ton bordel.
+
+Et pitié : **pas de pipi sauvage**, surtout pas à côté de la rivière !
 
 
-De plus, la propreté du site est une responsabilité partagée et l'entretien du site est l'affaire de tous·tes. N'oubliez pas d'avoir un petit sac avec vous en tout temps pour ramasser les déchets que vous voyez par terre, même s'ils ne sont pas les votre. Il est également fortement conseillé de participer à la session de nettoyage (MOOP SWEEP) à la fin de l'événement, en plus de celle que vous devez faire à votre camp. Veuillez consulter le guide LNT pour plus d'informations à ce sujet.
+RESPONSABILITÉ COLLECTIVE
 
+La propreté du site et son entretien sont l’affaire de tout le monde.
+**Emporte toujours un petit sac sur toi** pour ramasser les déchets que tu croises, même s’ils sont pas à toi.
+Et surtout, participe au **MOOP SWEEP de fin d’événement**, en plus de celle que vous devez faire à votre camp : c’est un moment collectif, joyeux, gratifiant (et peut-être boueux).
 
-**QU'EST-CE QUE LA MOOP ?**
+**LA MOOP? QUESSÉ**
 
-MOOP est un acronyme pour «Matter Out Of Place», un terme qui réfère à tout ce qui ne provient pas à l’origine de la terre sur laquelle l’événement a lieu. 
+MOOP est un acronyme pour ‘’Matter Out Of Place’’, un terme qui réfère à tout ce qui ne provient pas à l’origine de la terre sur laquelle l’événement a lieu. 
 Mégots de cigarette, bouchons de bouteille, «glowsticks», feux d’artifice, plumes, paillettes, confettis, morceaux brisés de bois, plastique, costume, métal ou verre…
 Les matières organiques, même si biodégradables, sont également de la MOOP. Si tout le monde jetait son cœur de pomme dans le bois, le site deviendrait rapidement un dépotoir et pourrait attirer des animaux. Notre impact sur l’environnement doit être le plus infime possible.
-Contrairement aux festivals grand public, il n’y a aucune installation pour les déchets ou le recyclage sur le site d’un événement LNT (Leave No Trace). Tout ce qui est amené sur le site de L’OsstidBurn doit repartir avec vous, incluant vos déchets. Assurez-vous d’en disposer de façon responsable après l’événement.
+Contrairement aux festivals grand public, il n’y a aucune installation pour les déchets ou le recyclage sur le site d’un événement LNT. Tout ce qui est amené sur le site de L’OsstidBurn doit repartir avec vous, incluant vos déchets. Assurez-vous d’en disposer de façon responsable après l’événement.
+
 
 <h2><span>GUIDE DES BONNES PRATIQUES LNT </span></h2>
 
-Pendant vos préparatifs, il est impératif de consulter et de lire attentivement le guide des bonnes pratiques LNT directement sur notre site internet, dans la section Préparations -> Laisse Pas d'Trace.
+Pendant vos préparatifs, il est impératif de consulter et de lire attentivement le guide des bonnes pratiques LNT : https://losstidburn.org/laisse-pas-dtrace/ 
 
-https://losstidburn.org/laisse-pas-dtrace/
-
-Ce guide répondra à la plupart de vos questions en matière de LNT. Si toutefois vous aviez d’autres interrogations, n'hésitez pas à contacter la communauté de L'OsstidBurn via sa page Facebook afin de trouver les réponses dont vous avez besoin, ou écrivez-nous.
-
-lnt@losstidburn.org 
+Ce guide répondra à la plupart de vos questions en matière de LNT. Si toutefois vous aviez d’autres interrogations, n'hésitez pas à contacter la communauté de L'OsstidBurn via sa page Facebook afin de trouver les réponses dont vous avez besoin, ou écrivez-nous : lnt@losstidburn.org 
 
 **MOOP SWEEP DE FIN D'ÉVÉNEMENT**
 

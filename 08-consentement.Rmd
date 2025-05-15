@@ -1,6 +1,8 @@
 # CONSENTEMENT {-}
 
-1.  <span style="text-decoration:underline">Le consentement concerne tous types d’interactions à deux ou à plusieurs </span>(câlins, discussions, toucher, danse, sexe, s’asseoir à côté de quelqu’un...) 
+1.  <span style="text-decoration:underline">Le consentement concerne tous types d’interactions à deux ou à plusieurs </span>(câlins, discussions, toucher, danse, sexe, s’asseoir à côté de quelqu’un...).
+Peu importe le type d’interaction, le consentement est essentiel.
+
 
 
 2. <span style="text-decoration:underline">Unanime, explicite et renouvelable </span>
@@ -30,7 +32,6 @@ Toutes les personnes impliquées comprennent à quoi elles s’engagent en accep
 6. <span style="text-decoration:underline"> Responsabilité collective </span> 
 Comme les autres principes, le consentement est la responsabilité de tous·tes. La communauté de L’OsstidBurn s’engage à intégrer ces principes avec bienveillance, et à prendre soin de les faire respecter pour soi et les autres, en tant qu’acteur·trice et témoin. Chacun·e est responsable de valider et vérifier le consentement de ses partenaires, de nommer clairement ses OUI et ses NON, et de respecter les limites exprimées à chaque instant.  
 
-
 L’adhésion à ces principes assure un espace plus sécuritaire pour tous·te·s à nommer et faire respecter leur NON. 
 
 
@@ -53,11 +54,9 @@ Notre mandat principal reste centré sur le consentement : sensibilisation, gest
 
 Notre champ d’action s’élargit. Le Comité Conduite est également là pour soutenir la communauté face à des situations telles que l’intimidation, le harcèlement, la discrimination, l’abus de pouvoir ou le dossage.
 
-Nous sommes disponibles pour appuyer les comités, les camps ou les participant·e·s qui rencontrent des difficultés interpersonnelles ou organisationnelles.
-Notre rôle est préventif autant que réactif : être présent·e·s avant que les situations ne dégénèrent, pour favoriser un environnement de burn sain, respectueux et sécuritaire pour tou·te·s.
+Nous sommes disponibles pour appuyer les comités, les camps ou les participant·e·s qui rencontrent des difficultés interpersonnelles ou organisationnelles. Notre rôle est préventif autant que réactif : être présent·e·s avant que les situations ne dégénèrent, pour favoriser un environnement de burn sain, respectueux et sécuritaire pour tou·te·s.
 
-Pour joindre le Comité Conduite, vous pouvez écrire à conduite@losstidburn.org. Ce courriel est reçu par Camille C., Elizabeth V., Antonia S., Cléo G. et Meddy B..
-Si l’une de ces personnes est impliquée dans la situation ou si, pour toute autre raison, vous préférez qu’elle ne voie pas votre message, vous pouvez contacter directement au moins deux personnes du comité à leur adresse individuelle :
+Pour joindre le Comité Conduite, vous pouvez écrire à conduite@losstidburn.org. Ce courriel est reçu par Camille C., Elizabeth V., Antonia S., Cléo G. et Meddy B.. Si l’une de ces personnes est impliquée dans la situation ou si, pour toute autre raison, vous préférez qu’elle ne voie pas votre message, vous pouvez contacter directement au moins deux personnes du comité à leur adresse individuelle :
 
 * camille@losstidburn.org
 * cleo@losstidburn.org

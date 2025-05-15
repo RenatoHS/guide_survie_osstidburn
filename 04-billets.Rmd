@@ -2,30 +2,33 @@
 
 Aucun billet ne sera disponible à la porte!
 
-* Assurez-vous d’avoir votre billet et que tout le monde dans la voiture ait le sien. 
+Assurez-vous d’avoir votre billet ET que chaque personne dans votre véhicule ait le sien.
 
-* Tous·tes les participant·e·s doivent avoir une preuve d’identité et un billet à leur nom pour accéder à l’événement.
+* Tous·tes les participant·es doivent avoir un billet à son nom et une pièce d’identité avec photo, correspondant au nom et à la date de naissance indiqués à l’achat du billet.
 
-* Il est important d’avoir une preuve d’identité avec photo correspondant au nom et la date de naissance inscrite lors de votre inscription pour un billet. Notre équipe à la porte se basera sur cette pièce d’identité pour vous identifier et vous laisser entrer sur le site
+* Si ton nom choisi diffère de ton nom légal, informe nos volontaires à l’entrée afin qu’iels sachent comment s'adresser à toi correctement (par exemple : un post-it avec ton prénom choisi sur ta pièce d’identité peut aider).
 
-* Si votre nom choisi diffère de votre nom légal, informez nos volontaires à l’entrée afin qu’iels sachent comment s'adresser à vous correctement (par exemple, vous pouvez mettre un post-it sur votre pièce d’identité avec votre nom choisi).
-
-* Les participant·e·s de moins de 18 ans recevront un bracelet d’une couleur différente. Ces personnes seront identifiées pour leur interdire le service d'alcool.
+* Les participant·es de moins de 18 ans recevront un bracelet distinctif et n’auront pas accès au service d’alcool.
 
 <h2><span> ENTRÉE INTERDITE </span></h2> 
 
-En cas d’entrée interdite, la ou les personne·s fautives seront expulsées immédiatement et bannies des événements futurs de L’OsstidBurn.  
+Toute personne tentant d’entrer sans billet sera immédiatement expulsée et bannie des futurs événements de L’OsstidBurn.
 
-Transporter des passager·e·s clandestin·e·s ou aider des personnes à se faufiler est aussi grave que de se faufiler soi-même. Toutes les personnes à bord d’un véhicule transportant des passager·e·s clandestin·e·s  se verront interdire l’entrée, sans remboursement des billets.  `
+* Faire entrer des passager·e·s clandestin·es ou aider quelqu’un à contourner l’entrée **est tout aussi grave** que de le faire soi-même.
+* **Tout le véhicule** sera refusé à l’entrée, **sans remboursement**.
 
-Soyez respectueux·ses des organisateur·trice·s, ce sont des volontaires pour l’événement tout comme vous l’êtes.
+Soyez respectueux·ses des organisateur·trices, ce sont des volontaires pour l’événement tout comme vous l’êtes.
 
 <h2><span> ACCÈS PAR VÉHICULE </span></h2> 
 
-Les derniers mètres du chemin qui mènent à l'entrée du site et au parking de L’OsstidBurn sont endommagés. Avancez très lentement. 
-Le sentier boisé menant aux sites de campement étant accidenté, seuls les véhicules 4x4 avec un dégagement d’au moins 12 po du sol pourront y accéder. 
+L’accès au site se fait via un chemin cabossé, et les derniers mètres qui mènent à l'entrée du site et au parking de l’OsstidBurn sont endommagés. Merci d’avancer très lentement. 
 
-IMPORTANT: Si la chaussée du sentier était jugée impraticable par le propriétaire et/ou DPW (bouette due aux conditions météorologiques), un système de navettes sera mis en place pour transporter les remorques des gens à l'aide de VTT. Les véhicules 4x4 équipés de pneus tout terrain (Mud Tires) pourraient être tolérés si les conditions le permettent.
+Seuls les véhicules 4x4 avec un dégagement minimal de 12 pouces (30 cm) peuvent accéder aux sentiers du site de campement. Les véhicules 4x4 équipés de pneus tout terrain (Mud Tires) pourraient être tolérés si les conditions le permettent.
+
+
+IMPORTANT: Les véhicules doivent être approuvés par le département ASS (Access Support Squad), qui se réserve le droit de refuser l’accès selon l’état du terrain.
+
+Si la chaussée du sentier était jugée impraticable par le propriétaire et/ou DPW (par exemple : bouette), un système de navettes sera mis en place pour transporter les remorques à l'aide de VTT. 
 
 
 ACCÈS AU SENTIER PAR VÉHICULE 4X4 
@@ -41,16 +44,16 @@ Mardi: 05h00 à 14h00 \
 
 <h2><span> VOUS N’AVEZ PAS DE 4X4 ?  </span></h2> 
 
-Lorsque vous arriverez sur le site de L’OsstidBurn, vous devrez laisser votre véhicule au stationnement et transporter tous vos effets personnels par vos propres moyens. Les sentiers sont impraticables pour tout véhicule routier standard.
+À votre arrivée sur le site de l’OsstidBurn, vous devrez laisser votre véhicule au stationnement et transporter vos effets personnels à pied. Les sentiers sont impraticables pour tout véhicule routier standard.
  
-Il y a environ 15 minutes de marche d’un bout à l’autre du site le long du sentier. Arrivez préparé·e·s!
- 
-Prévoyez: diables, chariots, cordes, etc. pour  le transport de votre matériel. Le stationnement est à environ 800m du site du campement. 
+Préparez-vous !
+Il y a environ 800 mètres de marche entre le stationnement et le site de campement, soit environ 15 minutes.
+Pensez à apporter : diables, chariots, cordes, ou tout autre équipement pour faciliter le transport de votre matériel.
+
+Le site de l'OsstidBurn a une capacité limitée pour accueillir des véhicules. L'équipe du Stationnement fait des miracles chaque année pour vous orienter une fois sur place.
 
 
-Le site de L'OsstidBurn a une capacité limitée pour accueillir des véhicules. L'équipe du Stationnement fait des miracles à chaque année pour vous orienter une fois sur place.
-
-Si vous venez en voiture,  <span style="text-decoration:underline">**IL EST OBLIGATOIRE d'avoir votre pass de stationnement (voiture ou VR). Vous devez avoir une passe de stationnement pour chaque voiture.**</span>
+Si vous venez en voiture,  <span style="text-decoration:underline">**IL EST OBLIGATOIRE d'avoir votre pass de stationnement por ta voiture ou ton VR. Vous devez avoir une passe de stationnement pour chaque véhicule.**</span>
 
 Pour obtenir un pass de stationnement, ou un **ticket pour le bus d'Osstidburn**, veuillez accéder le site web : https://participation.losstidburn.org/
 

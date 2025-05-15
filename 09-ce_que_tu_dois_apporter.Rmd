@@ -8,7 +8,7 @@
 * Eau: Aucune source d’eau ne sera disponible sur  place. Nous conseillons 2L par personne et par jour.  
 * Nourriture 
 * Tente
-* Bâches (Il pleut souvent pendant les dates de l'Osstidburn)
+* Bâches (Il pleut souvent pendant cette période de l'année)
 * Un ou plusieurs sacs de couchage, couvertures, manteaux, etc. (Prévoir assez de trucs chauds pour être confortable lors des nuits fraîches - ça prend plus qu’on pourrait penser!)  
 * Cuisinière, glacière, bol, ustensiles, combustible, casserole et accessoires de cuisine… 
 * Extincteur 

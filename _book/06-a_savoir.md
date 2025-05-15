@@ -7,24 +7,16 @@ Il n’y aura pas d’accès à de l’eau potable. Vous devez amener votre eau 
 La baignade est strictement interdite une fois la nuit tombée!  
 Aucun lavage de vaisselle ou lavage de corps dans le ruisseau, pas de savon dans le ruisseau, même s’il est bio. 
 
-
-**VOLONTARIAT** \
-Tout à L’OsstidBurn est organisé et géré par des volontaires. Le volontariat, c’est une belle façon de contribuer et de participer à l’événement. Il existe plusieurs façons de vous impliquer: Accueil, Premiers Soins, Rangers, Périmètre du Feu, Département public de la Wouérie (DPW), etc. 
-Vous devez avoir acheté un billet pour accéder à la plateforme d’inscription!
-
-https://participation.losstidburn.org
-
-
 **LES TIQUES** \
 Les Cantons-de-l’Est font partie des zones particulièrement à risque pour la présence des tiques infectées pouvant transmettre la maladie de lyme. Consultez ce site pour plus d'informations: https://www.quebec.ca/sante/problemes-de-sante/a-z/maladie-de-lyme 
 
 
 **CENDRIERS DE POCHE** \
-ATTENTION AUX FUMEUR·EUSE.S! Ne jetez pas vos mégots dans la forêt – utilisez un cendrier portatif. 
+Attention aux fumeur·ses : ne jetez pas vos mégots dans la forêt – utilisez un cendrier portatif.
 
 
 **ARTS DE FEU** \
-Toute œuvre de feu (flame effect ou fire poofer) doit avoir été positionnée sur le site par l’organisation préalablement.  Si vous ou votre camp comptez installer une œuvre de feu, vous devez faire une demande de placement spécifique. Avant l’allumage, il faut faire vérifier son œuvre par un membre de FAST (Feu & Art  Sécuritaires en Tabouère). 
+Toute œuvre de feu (flame effect ou fire poofer) doit avoir été positionnée sur le site par l’organisation préalablement.  Si vous ou votre camp comptez installer une œuvre de feu, vous devez faire une demande de placement spécifique. Avant l’allumage, il faut faire vérifier son œuvre par un membre de FAST (Feu & Art  Sécuritaires en Tabouère). Voir sections  "Les burns"/ et ou "burns barrels".
 
 
 **SORTIES / RENTRÉES** \
@@ -32,9 +24,11 @@ Aucune réadmission n’est autorisée lorsque vous sortez du site, sauf pour ur
 
 
 **FEU DE CAMPS** \
-AUCUN FEU DE CAMPS PERMIS! Référez-vous à la  section «Burn Barrels: Règles et modalités». 
+AUCUN FEU DE CAMPS PERMIS! Réfère-toi à la  section "Burn Barrels". 
 
 **ARGENT** \
-L'achat ou vente de quoi que ce soit n'est pas permis pendant l'événement. L'économie du burn est centrée sur le don. 
-Référez-vous à la  section «BURNING MAN :: 10 principes» pour mieux comprendre. Les sacs de glaces sont la seule exception à cette règle, mais ils doivent être commandés en avance sur le site web de l'OsstidBurn.
+Aucun achat ou vente n’est permis pendant l’événement. L’économie du Burn est fondée sur le **don** : on partage ce qu’on a, sans échange monétaire.
+Réfère-toi à la section "les 10 principes du burning man" pour mieux comprendre cette philosophie.
+Une exception : les sacs de glace, que tu dois commander à l’avance sur le site web de l’OsstidBurn. Aucun échange d’argent sur place !
+
 
