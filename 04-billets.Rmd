@@ -19,6 +19,16 @@ Toute personne tentant d’entrer sans billet sera immédiatement expulsée et b
 
 Soyez respectueux·ses des organisateur·trices, ce sont des volontaires pour l’événement tout comme vous l’êtes.
 
+<h2><span> ACCÈS CARBONEUTRE </span></h2>
+
+Vous cherchez une place de covoiturage?
+C’est bon pour l’environnement et ça permet de réduire le nombre de voiture sur le site 
+Voici le [lien de covoiturage de l'OsstidBurn 2025](https://www.groupcarpool.com/t/25kbzo) pour en organiser un. 
+ 
+Je fais quoi si je ne trouve pas de covoiturage? Well, pense à L’OsstidBus!
+L'OsstidBus est un projet carboneutre de transport collectif porté depuis 2022 par des membres de l'Org qu'on adapte chaque année pour le rendre le plus accessible possible.
+Pour te procurer un **ticket pour l'OsstidBus** : https://participation.losstidburn.org/
+
 <h2><span> ACCÈS PAR VÉHICULE </span></h2> 
 
 L’accès au site se fait via un chemin cabossé, et les derniers mètres qui mènent à l'entrée du site et au parking de l’OsstidBurn sont endommagés. Merci d’avancer très lentement. 
@@ -55,11 +65,5 @@ Le site de l'OsstidBurn a une capacité limitée pour accueillir des véhicules.
 
 Si vous venez en voiture,  <span style="text-decoration:underline">**IL EST OBLIGATOIRE d'avoir votre pass de stationnement por ta voiture ou ton VR. Vous devez avoir une passe de stationnement pour chaque véhicule.**</span>
 
-Pour obtenir un pass de stationnement, ou un **ticket pour le bus d'Osstidburn**, veuillez accéder le site web : https://participation.losstidburn.org/
-
-Vous avez de la place disponible dans votre voiture? Encouragez le covoiturage.
-C’est bon pour l’environnement et ça permet de réduire le nombre de voiture sur le site 
-Voici le [lien de covoiturage de l'OsstidBurn 2025](https://www.groupcarpool.com/t/25kbzo) pour en organiser un. 
- 
 
 

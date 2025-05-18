@@ -33,12 +33,11 @@ Tout à l’OsstidBurn est imaginé, organisé et mis en place par des osstidbur
 Le volontariat est une façon essentielle de contribuer à la magie de l’événement. Il existe plein de façons de t’impliquer : Accueil, Premiers Soins, Rangers, Sanctuaire, Périmètre du Feu, Département Public de la Wouérie (DPW), etc
 
 
-Toutes les personnes participant à L’OsstidBurn sont invitées à combler un minimum de deux postes durant l’événement. À l’achat de votre billet, vous avez reçu le lien vers la plateforme de volontariat (ci-dessous). Allez choisir vos quarts dès maintenant si ce n’est pas déjà fait! 
-Assurez-vous d’avoir un billet avant de vous y inscrire; s’inscrire ne donne pas accès à un billet. ;-)  
-
+Toutes les personnes participant à l’OsstidBurn sont invitées à combler un minimum de deux postes volontaires durant l’événement. Si tu as déjà ton billet, tu as aussi reçu un lien vers la plateforme de volontariat (ci-dessous). Va choisir tes quarts dès maintenant si ce n’est pas déjà fait :
 https://participation.losstidburn.org
 
-Et surtout, n’oublie pas de mettre à jour tes infos. Important : s’inscrire comme bénévole ne remplace pas l’achat du billet. 😉
+Et surtout, n’oublie pas de mettre à jour tes infos. 
+Important : s’inscrire comme bénévole ne remplace pas l’achat du billet. 😉
 
 
 **To access the English version of this guide click ->>[HERE](https://survival.losstidburn.org)<<-**

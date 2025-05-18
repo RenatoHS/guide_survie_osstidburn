@@ -31,16 +31,16 @@ ACCÈS AU SENTIER PAR VÉHICULE 4X4
 
 
 * Jeudi: 05h00 à 20h30
-* Vendredi: 05h00 → 20h30 
+* Vendredi: 05h00 à 20h30 
 * **Samedi à lundi : aucun véhicule autorisé sur le sentier**
-* Mardi: 05h00  à 14h00 
+* Mardi: 05h00 à 14h00 
 
 Voir prochaine section (billets) pour plus de détails
 
 
 PERIODES DE SILENCE (sans musique amplifiée ni génératrices) 
 
-* Jeudi à lundi :  6h00 → 12h00 
+* Jeudi à lundi :  6h00 à 12h00 
 * Mardi : de 6h au début de l'Exodus. 
 
 Cette politique est sujette à changement au courant de l’événement, voir section "Camping et autres infos".

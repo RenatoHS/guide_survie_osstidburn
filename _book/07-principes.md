@@ -1,13 +1,13 @@
-# BURNING MAN :: 10 principes {-} 
+# BURNING MAN : 10 principes {-} 
 
-**Ces principes ne sont ni des commandements, ni des règlements. Ils suggèrent une ligne de conduite qui permet une organisation communautaire distincte**
+**Ces principes ne sont ni des commandements, ni des règlements. Ils suggèrent une ligne de conduite qui permet une organisation communautaire distincte** 
+
 **Une participation à un tel événement pourrait changer votre perception du monde qui vous entoure et éventuellement influencer votre façon d'interagir avec celui-ci.**
 
 
 <h2><span> RESPONSABILITÉ CIVILE  </span></h2>
 Chacun·e se doit d’avoir un comportement civique et respectueux des autres, et de respecter les 10 principes qui régissent l’événement. 
 Les membres de la communauté qui organisent des événements doivent assumer la responsabilité du bien-être public et s’efforcer de communiquer les responsabilités civiques aux participant·e·s. Iels doivent également assumer la responsabilité de mener les événements conformément aux lois locales, nationales et fédérales. 
-
 
 <h2><span> PARTICIPATION </span></h2>
 L’OsstidBurn repose sur la participation de tout le monde. C’est pourquoi chaque personne est encouragée à être plus qu’une simple spectatrice et à participer à l'événement dans tous les sens du terme, soit en y prenant part et en en faisant partie. Le succès de l’événement dépend de votre implication. C’est vous qui faites ce que l’événement est!  
@@ -29,18 +29,14 @@ De plus, la propreté du site est une responsabilité commune et l’entretien d
 <h2><span> EXPRESSION DE SOI RADICALE  </span></h2>
 L’ouverture d’esprit est un principe fondamental. Laissez-vous transporter par votre fibre artistique et votre goût prononcé pour la fête. Exprimez-vous librement, personne ne vous jugera.  
 
-
-
 <h2><span> DON </span></h2>
 Le don est très important à L’OsstidBurn, sans attente de retour. Le don n’est pas forcément  matériel: il peut prendre la forme d’un service, d’un poème, ou d’un soin apporté à l’autre.  
 
 <h2><span> DÉCOMMODIFICATION </span></h2>
 L’OsstidBurn exclut toute forme de commerce, de publicité, de commandite ou d’activités commerciales. L’argent ne sert donc à rien sur place. Nous encourageons la participation et l'expérience individuelle à la consommation pure. 
 
-
 <h2><span> INCLUSION RADICALE </span></h2>
 L’Osstidburn accepte tout le monde. Chaque personne est une partie intégrante de l’événement. Chacun·e s’inclut et inclut les autres, quelque soit leur origine, religion ou préférence sexuelle. So «Include yourself, include others!»
-
 
 <h2><span> CONSENTEMENT: PRINCIPE 0 </span></h2>  
 L’OsstidBurn est un environnement extrêmement libre et ouvert d’esprit. Nous souhaitons créer un espace suffisamment sécurisé (safe-enough) pour tous·tes. Comme pour les autres principes, le bien-être et la sécurité de chacun·e est garanti par une intention collective de respecter et d’appliquer un principe de consentement avant toute interaction.

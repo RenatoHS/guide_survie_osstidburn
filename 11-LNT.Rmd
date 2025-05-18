@@ -47,4 +47,5 @@ Une MOOP Map est créée après chaque édition de L’OsstidBurn, à partir des
 
 Ces données sont ensuite étudiées par le comité LNT, puis utilisées lors de la préparation des éditions futures afin d’octroyer les placements aux camps ou artistes.
 
+
 **La plaine, les sites de parking, le chemin, le bois et la rivière sont des espaces communs. Il est de votre responsabilité en tant que participant.e de veiller à la propreté de ces espaces, au même titre que votre campement.**

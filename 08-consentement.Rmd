@@ -4,7 +4,6 @@
 Peu importe le type d’interaction, le consentement est essentiel.
 
 
-
 2. <span style="text-decoration:underline">Unanime, explicite et renouvelable </span>
   
   

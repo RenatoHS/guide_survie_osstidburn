@@ -21,7 +21,4 @@ Le Sanctuaire est un endroit calme et sécuritaire pour les participant·e·s vi
 S’il vous plaît, faites preuve de prudence. Prenez soin de vos ami·e·s et de vous-même. Buvez de l’eau, mangez. Et amusez-vous! 
 
 Nous avons des fournitures médicales à la centrale  “HQ Sécurité”. Venez nous voir si vous n’avez pas ce qu’il vous faut dans votre propre kit de premiers soins. 
-La nuit, assurez-vous de voir et d’être vu·e. Ayez toujours au moins une lampe de poche ou une frontale sur vous. 
-
-
--- L’Équipe Sécurité de L’OsstidBurn 
+La nuit, assurez-vous de voir et d’être vu·e. Ayez toujours au moins une lampe de poche ou une frontale sur vous.

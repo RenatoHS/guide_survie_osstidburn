@@ -2,7 +2,6 @@
 
 <h2><span>CAMPER À L’OSSTIDBURN </span></h2> 
 
-
 Les camps thématiques auront des zones de camping clairement identifiées. Si vous ne faites pas partie d’un camp thématique, installez-vous dans une zone de libre-camping. 
 
 Il y aura des camps sonores à L’OsstidBurn qui joueront du son amplifié au cours de la nuit. Prenez en compte au moment de vous installer. Si vous avez le sommeil léger, il est possible de s'installer plus haut, près de la plaine afin de passer des nuits plus calmes. 
@@ -61,6 +60,3 @@ Cette politique est sujette à changement au courant de l’événement - on che
 
 Après deux avertissements, vous devrez couper le son pour le reste de l’événement. 
 Nous rappelons que les participant·es ont toujours le droit de communiquer poliment leur opinion au sujet du niveau sonore d’un soundcamp. Un sound camp à la liberté de prendre en compte ou non le commentaire, en autant que les règles de son aient été respectées. Faisons de notre mieux pour nous mettre à la place de l’autre et ne pas causer de migraine inutile (que ce soit avec du son ou des conflits). 
-
-
-
