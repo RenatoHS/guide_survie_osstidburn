@@ -20,39 +20,41 @@
 4.<span style="text-decoration:underline"> Nudity, clothing, costume or behaviour DOES NOT constitute an invitation to any interaction. </span> 
   
   
-  5. <span style="text-decoration:underline"> Consent must be FREE and CONSCIOUS. </span> 
-  A person who is asleep or under duress is not consenting. Taking substances (alcohol, drugs, cannabis...) or even sexual energy and physical intimacy can also alter consciousness. So you need to be all the more vigilant if you use a psychoactive substance or interact with a person or persons in an altered state of consciousness. 
+5. <span style="text-decoration:underline"> Consent must be FREE and CONSCIOUS.</span> Someone who is asleep or coerced cannot consent. Substance use (alcohol, drugs, cannabis...) or even sexual energy and physical closeness can affect awareness. Extra caution is needed if you are using substances or interacting with someone whose state of consciousness might be altered.
   
-All involved clearly understand what they are committing to by accepting the interaction: <span style="text-decoration:underline"> Consent must be informed. </span> 
+Everyone involved must fully understand what they are consenting to: <span style="text-decoration:underline"> this is called informed consent. </span> 
 
 
 6. <span style="text-decoration:underline"> Collective responsibility </span> 
-Like the other principles, consent is everyone’s responsibility. The L’OsstidBurn community is committed to embodying these principles in a caring way, and to ensuring that they are upheld, as an actor and as a witness. Each individual is responsible for validating and verifying the consent of their partners, for clearly naming their YES and NO,  and for respecting expressed limits at all times.
+Like all other principles, consent is everyone’s responsibility. The OsstidBurn community is committed to integrating these values with care and making sure they’re upheld—for yourself and others—as both participants and witnesses.
+
+Everyone is responsible for checking in with partners, clearly naming their YESes and NOs, and respecting the limits communicated at all times.
 
 
-Adherence to these principles guarantees a safe space for everyone to name and to assert their NO
+Living by these principles helps create a safer space for everyone to assert and have their NOs respected. 
 
 
 **WHAT TO DO IF YOU WITNESS OR EXPERIENCE A VIOLATION OF CONSENT?**
 
-* If a participant seems to make people uncomfortable or exceeds explicitly agreed limits, feel free to express it openly.
-* If you do not feel comfortable acting, approach the **Rangers**.   
-* If you feel at risk yourself, leave the situation immediately, and go find the **Sentinels or Rangers**.
-* Please inform the **Rangers** of any inappropriate behaviour.
-* The Organization reserves the right to expel any person whose behaviour is inappropriate.
-* After the event, if you’d like to inform us of any breach of consent, you can do so by sending us an email at <span style="text-decoration:underline">conduct@losstidburn.org </span> 
+* If a participant seems to be making others uncomfortable or crossing clearly expressed boundaries, speak up.
+* If you don’t feel safe intervening directly, approach the **Rangers**.   
+* If you feel in danger, remove yourself from the situation immediately and find Sentinels or Rangers.
+* We encourage you to report any inappropriate behavior to the  **Rangers**.
+* The organization reserves the right to expel anyone who behaves inappropriately.
+* After the event, if you wish to report a consent violation, feel free to contact us at:  <span style="text-decoration:underline">conduct@losstidburn.org </span> 
 
 <h2><span> CONDUCT COMMITTEE  </span></h2>
 
-The Conduct Committee is not a new committee, but the natural evolution of the Consent Committee. This name change better reflects the expansion of our mission, in alignment with the needs of a growing community, and helps clarify our role.
+The Conduct Committee isn’t a new body—it’s the natural evolution of the Consent Committee. The name change better reflects our expanded mission, aligned with the needs of a growing community, and helps clarify our role.
 
-Our primary mandate remains centered on consent: raising awareness, handling complaints, implementing appropriate measures, and supporting camps that request assistance.However, our scope is expanding. The Conduct Committee is also here to support the community in situations such as bullying, harassment, discrimination, abuse of power, or dosing.
+Our main focus remains consent: awareness-building, managing reports, implementing appropriate measures, and supporting camps upon request.
 
-We are available to support committees, camps, or participants facing interpersonal or organizational challenges.
-Our role is both preventive and responsive: to be present before situations escalate, and to help foster a healthy, respectful, and safe burn environment for everyone.
+Our scope has widened. The Conduct Committee also supports the community with situations involving bullying, harassment, discrimination, abuse of power, or non-consensual dosing.
 
-To reach the Conduct Committee, you can email conduct@losstidburn.org. This email is received by Camille C., Elizabeth V., Antonia S., Cléo G., and Meddy B.
-If one of these individuals is involved in the situation, or if for any reason you would prefer they not see your message, you may contact at least two members of the committee directly at their individual addresses:
+We’re here to support committees, camps, and participants dealing with interpersonal or organizational issues. Our role is both preventive and responsive: being present before situations escalate, in order to foster a healthy, respectful, and safe Burn environment for everyone.
+
+
+To contact the Conduct Committee, write to conduct@losstidburn.org. This inbox is monitored by Camille C., Elizabeth V., Antonia S., Cléo G., and Meddy B. If any of them are involved in the situation—or for any other reason—you may contact at least two members directly:
 
 * camille@losstidburn.org
 * cleo@losstidburn.org
@@ -60,17 +62,18 @@ If one of these individuals is involved in the situation, or if for any reason y
 * antonia@losstidburn.org
 
 
-Please note: The address consent@losstidburn.org remains active for now. It is accessible only by Elizabeth V. and Antonia S., to ensure continuity in handling messages sent to the former committee.
+Note : The old address consent@losstidburn.org is still active. It is currently monitored only by Elizabeth V. and Antonia S. to ensure continuity with previous messages.
 
 <h2><span> PHOTOGRAPHY </span></h2>
 
-Photographing and filming participants without their consent is prohibited. Remember to ask before taking pictures!
+Taking photos or videos of participants without their consent is prohibited. Always ask before taking photos!
 
-Respect the ‘No photography’ or ‘Pas de photo’ signs.
+Respect any “No photography” or “Pas de photo” signs.
 
-<h2><span> PARENTS  </span></h2>
+<h2><span>PARENTS</span></h2>
 
-PREPARE YOUR KIDS. Let your kids know in advance about the kind of things they might see and hear. Nudity, iconoclastic art, rude language and weird behaviour are all part of the event.
+Prepare your children: explain ahead of time what they might see or hear—nudity, provocative art, vulgar language, and/or strange behaviors are part of the experience.
 
-When you get to L’OsstidBurn, walk around with  them and identify landmarks that will help them navigate and be safe. Show them Safety HQ and speak to the Rangers. Children can show up at Safety HQ if they get lost.
+When you arrive at OsstidBurn, take a walk through the site with your kids and help them locate key landmarks. Visit Safety HQ. Our Rangers will have tips for you, and it’s also a safe place where lost kids can go if needed.
+
 

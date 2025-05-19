@@ -4,46 +4,46 @@
 <h2><span> LEAVE NO TRACE (LNT) </span></h2> 
 
 
-Our community respects the environment. We are committed to leaving no physical trace of our activities wherever we gather. We clean up after ourselves and endeavour, whenever possible, to leave such places in a better state than when we found them. You must carry out all your personal effects and your waste after the event. There will be no garbage container at the exit. Bring garbage bags and equipment to manage all your waste. We ask you to use the toilets and not urinate on the forest, specially not near the stream. 
+At OsstidBurn, we respect the land that welcomes us. We come, we live, we leave—without a trace. Better yet: we aim to leave the place better than we found it.
+There will be no trash containers on-site or at the exit. So bring back **everything you brought**, including your trash (yes, even your apple core). Bring strong garbage bags, containers for leftovers, and tools to manage your own mess.
 
-In addition, site cleanliness is a shared responsibility and site maintenance is everyone’s business. Remember to have a small bag with you at all times to collect any trash you see on the ground, even if you didn’t drop it there. We also strongly urge you to participate in the site cleanup (MOOP SWEEP) at the end of the event, in addition to your camp cleanup. Consult the LNT guide for further information on the subject.
+And please: **no peeing in the wild**, especially not near the river!
+
+COLLECTIVE RESPONSIBILITY
+
+Keeping the site clean is everyone’s job. Always carry a small bag to pick up trash you see—even if it’s not yours. And most importantly, join the final MOOP sweep in addition to cleaning up your own camp. It’s a fun, muddy, and rewarding collective moment.
 
 
+**MOOP?? WHAT'S THAT**
 
-**WHAT IS MOOP?**
+MOOP = **Matter Out Of Place**. It refers to anything that doesn’t originally belong to the land where the event is held.
 
-MOOP is an acronym for “Matter Out of Place”, which is a convenient way of referring to anything that is not originally of the land on which our event takes place.
+Cigarette butts, bottle caps, glowsticks, fireworks, feathers, glitter, confetti, broken bits of wood, plastic, costume pieces, metal, or glass…
 
-It can be anything: cigarette butts, bottle caps, glowsticks, fireworks, feathers, broken bits of wood, plastic, metal or broken glass.
+Even organic matter (yes, even biodegradable) counts as MOOP. If everyone tossed an apple core in the woods, the site would quickly become a dump—and attract animals. Our environmental impact must be as minimal as possible.
 
-Organic matter, even if it’s biodegradable, is also MOOP. If everyone started throwing away apple cores or banana peels in the woods, the place would soon become a dump and attract animals. Our environmental impact must be as small as possible.
+Unlike mainstream festivals, **there are no waste or recycling facilities** on an LNT event site. Everything you bring to OsstidBurn must leave with you—including your trash. Make sure to dispose of it responsibly after the event.
 
-Unlike mainstream festivals, LNT events do not provide facilities for garbage or recycling on the site. Each participant must assume responsibility for their environmental impact. Everything brought to L’OsstidBurn must leave with you, including your waste. Be sure to dispose of it responsibly after the event.
 
 
 <h2><span>LNT GOOD PRACTICES GUIDE</span></h2>
 
-As you're planning your trip, it is absolutely necessary that you read the LNT good practices guide on our website, under the Preparation -> Leave No Trace section.
-
+While preparing, it’s essential to read the full LNT best practices guide:
 https://losstidburn.org/en/leave-no-trace/
 
-This guide will answer most of your LNT questions. If you still have questions after reading it, please feel free to contact the L'OsstidBurn community on its Facebook page, or contact us at: 
+This guide will answer most of your questions. Still need help? Ask the OsstidBurn community on Facebook or email us at:
 
 lnt@losstidburn.org
 
 **FINAL MOOP SWEEP**
 
-The LNT committee ensures that the site is in as good or better condition than when we arrived.
-
-A complete clean up of the site will take place on Tuesday, June 24th from 2PM to 6:30PM and we need your help! To participate, please check the volunteer platform.
-
-https://participation.losstidburn.org/
+The LNT team ensures the woods stay in good condition—or better than before we arrived. A collective site cleanup will take place on **Tuesday, June 24 from 2:00 PM to 6:30 PM.** To join, sign up on the volunteer platform:  https://participation.losstidburn.org/ 
 
 <h2><span>MOOP MAP</span></h2>
 
-Each year, the LNT committee creates a MOOP Map, based on the photos of what we gathered during the final MOOP sweep. It shows the cleanliness level of camps, art installations and common areas, as they were left by the participants, before the MOOP sweep.
+A MOOP Map is created after each edition of OsstidBurn, based on data gathered during the MOOP Sweep (photos of collected MOOP). It shows how clean each camp, art installation, and shared space was left before the final sweep.
 
-This data is carefully examined by the LNT committee and used during the preparation of future editions to give camps and artists their placement.
+This data is reviewed by the LNT committee and used to determine placement for camps and artists in future editions.
 
-**_The field, parking site, paths, wood and river are common areas. It is your responsibility as a participant to make sure they remain clean, in the same way as your camp._**
+**_The field, parking areas, paths, woods, and the river are shared spaces. As a participant, you’re just as responsible for those as you are for your own campsite._**
 

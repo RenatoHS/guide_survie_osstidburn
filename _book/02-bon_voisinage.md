@@ -1,12 +1,31 @@
 # GOOD NEIGHBOURS {-} 
 
-We have new neighbours. Yes, real estate development has also affected the Township of Potton. Keeping a good relationship with them is critical for the sustainability of the event on this site that we have made our own.
+Maintaining a good relationship with local residents is essential for the future of OsstidBurn on this land we’ve temporarily made our own.
 
-**This is why we are asking for everyone's collaboration.**
 
-* No music, sound systems, events or gatherings, including parties, will be tolerated on the plana (the clearing) or in the parking lot.
+**We’re counting on your collaboration to ensure everything flows in harmony.**
+
+<h2><span>SOUND, PARTIES & GATHERINGS</span></h2> 
+
+* No music, sound systems, events, or parties are allowed in the parking area or on the open field.
+
+<h2><span>DRIVING IN THE TOWNSHIP</span></h2> 
+
 * Drive slowly in the Township of Potton. In order to reduce noise pollution from car traffic, arrive during Gate opening hours, respect the speed limit and avoid excessive noise (e.g. techno at full volume).
 * Respect the signs delimiting the site, otherwise you'll be asked to move your tent. We're surrounded by private property.
-* **NO parking on the road **.  You should have a parking pass to enter the site. Otherwise, carpool with someone that has a parking pass, or come with the OsstidBus.
-* Help local shops, Spend your money with a big smile ! In the village there is a great bakery, coffee roaster, depaneur-hardware store in town.
-* Leave no trace, **DO Not dump your garbage in the containers in the village**, bring it home.  
+
+
+<h2><span>PARKING</span></h2> 
+
+* **NO PARKING ON THE ROAD **.  
+* You should have a parking pass to enter the site.
+
+No pass? Carpool or hop on the OsstidBus: https://losstidburn.org/en/transportation/
+
+<h2><span>SUPPORT LOCAL BUSINESSES</span></h2> 
+
+A great way to thank the host community is to spend your money locally—with a smile! In the village, you’ll find an excellent bakery, a coffee roaster, and a convenience store/hardware shop.
+
+<h2><span>LEAVE NO TRACE</span></h2> 
+
+* As always: pack it in, pack it out. Leave the place cleaner than you found it.

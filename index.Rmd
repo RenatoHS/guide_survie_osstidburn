@@ -1,13 +1,13 @@
 --- 
 title: "Survival Guide 2025 edition"
 site: bookdown::bookdown_site
-author: "l'OsstidBurn Team"
+author: "OsstidBurn Team"
 documentclass: book
 bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
-  Survival Guide of l'OsstidBurn.
+  OsstidBurn Survival Guide.
 biblio-style: apalikerend
 csl: chicago-fullnote-bibliography.csl
 bookdown::bs4_book:
@@ -27,20 +27,12 @@ bookdown::bs4_book:
 
 <h2><span> FOREWORD </span></h2> 
 
-L'OsstidBurn is not a festival, it is part of a global cultural movement spearheaded by Burning Man, which manifests itself structured around [10 core Principles](https://survival.losstidburn.org/burning-man-10-principes) that guide burners (a.k.a you) into the Burning Man experience.
+OsstidBurn isn't a festival. It’s an event rooted in a global culture inspired by Burning Man, based on [10 core Principles](https://survival.losstidburn.org/burning-man-10-principes) that guide the experience of burners (including you!).
 
-More importantly, everything at L’OsstidBurn is organized and run by volunteers.  
+All participants are asked to fill at least two volunteer shifts during the event. If you already have your ticket, you’ve also received a link to the volunteer platform (below). Go choose your shifts now if you haven’t already: https://participation.losstidburn.org
 
-Volunteering is a great way to contribute and participate in the event. There are many ways  to get involved: Gate, First Aid, Rangers, Sanctuary, Fire Perimeter, Department of  Public Works (DPW), etc.
-
-All L’OsstidBurn participants are encouraged to take on a minimum of two shifts during the event. When you purchased your ticket, you received the link to the volunteer platform (below). Go pick your shifts now if you haven’t already!
-
-Make sure you have a ticket first – signing up for shifts will not get you a ticket. ;-) 
-  
-
-https://participation.losstidburn.org
-
-Then, don’t forget to update your information!
+And don’t forget to update your info.
+Important: signing up as a volunteer does NOT replace the need to buy a ticket. 😉
 
 **Pour accéder à la version française de ce guide cliquez ->>[ICI](https://survie.losstidburn.org)<<-**
 

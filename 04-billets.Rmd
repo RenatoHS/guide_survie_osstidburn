@@ -1,60 +1,66 @@
 # TICKETS & ACCESS {-}
 
-No tickets will be available on site!
+No ticket, no entry!
 
-* Make sure you and everyone in your vehicle have your tickets.
-* All participants must have a ticket in their name to access the event. 
-* You must have a photo ID with the same name and birth date that you provided when you purchased your ticket. Our gate team will need to identify you in order to let you into the site. 
-* If your chosen name differs from your legal name, inform our volunteers at the entrance so that they know how to address you correctly. For instance you can put a post-it on your ID with your chosen name. 
+Make sure you have your ticket AND that each person in your vehicle has theirs
 
-* Participants under 18 will be given a different-coloured wristband so they won’t be served alcohol.
+* You must present your ticket (PDF or digital) and photo ID that matches the name and date of birth listed on your ticket.
+* If your chosen name differs from your legal name, let the volunteers at the gate know—feel free to add a post-it with your chosen name to your ID.
+* Participants under 18 will receive a distinctive wristband and will not have access to alcohol service.
 
 
-<h2><span> PROHIBITED ENTRY </span></h2> 
 
-Anyone who attempts to enter without a ticket will be expelled immediately and banned from future L’OsstidBurn events.
+<h2><span>ENTRY PROHIBITED</span></h2> 
 
-Carrying stowaways or helping people sneak in is as serious as sneaking in yourself. All passengers in a vehicle carrying stowaways will be prohibited entry without reimbursement of tickets. 
+Anyone attempting to enter without a ticket will be immediately expelled and banned from future OsstidBurn events.
 
-Be respectful of the organizers. They are volunteers for the event, just like you are.
+* Smuggling people in or helping someone bypass the gate **is just as serious** as doing it yourself.
+* **The entire vehicle** will be turned away with **no refund**.
+* Respect the rules, respect the volunteers.
+
+
+Be kind to the organizers—they’re volunteers too, just like you.
+
+<h2><span>CARBON-NEUTRAL ACCESS TO THE SITE</span></h2> 
+
+**Looking for a carpool spot?** It's good for the environment and helps reduce the number of cars on-site. Here’s the [link for OsstidBurn 2025’s](https://www.groupcarpool.com/t/25kbzo) carpooling platform to organize one.
+
+**What if I can’t find a carpool?** Well, think about the OsstidBus! The OsstidBus is a carbon-neutral collective transport project, led since 2022 by members of the Org, which we adapt every year to make it as accessible as possible. To get your OsstidBus ticket: https://losstidburn.org/en/transportation/
 
 
 <h2><span> VEHICLE ACCESS </span></h2> 
 
-The final meters of the road leading to the entrance to the L’OsstidBurn site are quite rough. Drive very slowly.
+Access to the site is via a bumpy road. The last stretch before the entrance and parking area is rough—please drive very slowly.
 
-Since the trail to the camping sites is quite rugged, only 4x4 vehicles with at least 12 inches of ground clearance will be allowed access.
+Only 4x4 vehicles with a minimum clearance of 12 inches (30 cm) can access the campsite trails. 4x4 vehicles equipped with mud tires may be allowed if conditions permit.
 
-IMPORTANT: If the owner and/or the DPW consider the trail to be impassable (muddy due to weather conditions), a shuttle system will be set up to transport people's trailers using ATVs. 4x4 vehicles equipped with off-road tires (Mud Tires) may be allowed if conditions permit.
+All vehicles must be approved by the **ASS (Access Support Squad)**, which has the final say depending on trail conditions.
+
+If the trail is deemed unusable by the landowner or DPW (e.g., due to mud), a shuttle system using ATVs will be set up to tow trailers.
 
 
 ACCESS TO THE TRAIL BY 4X4 VEHICLE
 
 
-Thursday: 5AM to 8:30PM (**Early Arrivals only**)\
-Friday: 5AM to 8:30PM vehicles \
+Thursday: 5:00 AM to 8:30 PM (**Early Arrivals only**)\
+Friday: 5:00 AM to 8:30 PM vehicles \
 Saturday: No vehicles \
 Sunday: No vehicles \
 Monday: No vehicles \
-Tuesday: 5AM to 2PM \
-
-Please note that only 4-wheel-drive vehicles with 12 inches of ground clearance may be permitted on the trail, depending on terrain conditions. **The ASS department determines which vehicles are allowed on the path. Thank you for respecting their decision regarding your vehicle.**
+Tuesday: 5:00 AM to 2:00 PM \
 
 <h2><span> DON’T HAVE A 4X4? </span></h2> 
 
-When you arrive at the L’OsstidBurn site, you must leave your vehicle in the parking lot and transport all your personal belongings by your own means. The trails are impassable for any standard road vehicle.
+Upon your arrival at OsstidBurn, you will need to leave your vehicle in the parking area and carry your gear in by foot. The trails are not suitable for any standard road vehicle.
+ 
+Be prepared! It’s about 800 meters (a 15-minute walk) from the parking lot to the camping area. 
 
-It’s about a 15-minute walk from one end of the site to the other along the trail – come prepared!
+We recommend bringing a dolly, cart, ropes, or any gear that can help you haul your stuff.
 
-Bring hand trucks, wagons, ropes, etc. to transport your equipment. Parking is about 800m from the camping area.
+The OsstidBurn site has limited space for parking. The Parking Team works magic every year to fit everyone in—follow their guidance!
 
-The L'OsstidBurn site has a limited capacity to accommodate cars.  The parking team works miracles every year to guide you when you arrive.
+If you're coming by car, you **MUST** have a parking pass for your car or RV (recrational vehicle). Every vehicle must have its own pass.
 
-If you drive to l’OsstidBurn,  <span style="text-decoration:underline">**IT IS MANDATORY to have a parking pass (car or RV). You need one parking pass for each vehicle.**</span>
+Get your parking pass here: https://participation.losstidburn.org/
 
-To obtain a parking pass, or a **ticket for the Osstidburn bus**, please go to : https://participation.losstidburn.org/
-
-Do you have free space in your car? We suggest carpooling.
-It's good for the environment and it reduces the number of cars in the site.
-Click on the [l'OsstidBurn 2025 carpool link](https://www.groupcarpool.com/t/25kbzo) to set up a carpool.
 

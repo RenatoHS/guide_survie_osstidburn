@@ -1,8 +1,8 @@
-# L’OSSTIDBURN ?? {-}
+# OSSTIDBURN ?? {-}
 
 <h2><span>WHAT’S THAT?</span></h2> 
 
-L'OsstidBurn is a regional Burn, which is a participative art event organized by local Burners to bring Burning Man culture and principles to their local communities.The website for the event is the following: https://losstidburn.org/
+OsstidBurn is a regional Burn, which is a participative art event organized by local Burners to bring Burning Man culture and principles to their local communities.The website for the event is the following: https://losstidburn.org/
 
 
 See https://regionals.burningman.org for a list of all official regional burns.
@@ -11,9 +11,9 @@ L’OsstidBurn has been recognized by Burning Man as an official regional event 
 
 <h2><span>MISSION?</span></h2>
 
-L’OsstidBurn’s mission is to promote engagement in art and participation. Inspired by the 10 principles of Burning Man, L’OsstidBurn encourages participants to express their creativity freely and radically.
+OsstidBurn’s mission is to promote engagement in art and participation. Inspired by the 10 principles of Burning Man, L’OsstidBurn encourages participants to express their creativity freely and radically.
 
-The eclectic L’OsstidBurn community is made up of people from all walks of life: artists, scientists, engineers, shamans, nurses, chefs, plumbers, philosophers, accountants, etc. Everyone converges to co-create a temporary zone  of self-expression. Participants paint, weld, sculpt, burn things, write code, cook with a lot of oil and sometimes practice biodanza... In short, they create remarkable interactive experiences.
+The eclectic OsstidBurn community is made up of people from all walks of life: artists, scientists, engineers, shamans, nurses, chefs, plumbers, philosophers, accountants, etc. Everyone converges to co-create a temporary zone  of self-expression. Participants paint, weld, sculpt, burn things, write code, cook with a lot of oil and sometimes practice biodanza... In short, they create remarkable interactive experiences.
 
 <h2><span>WHEN?</span></h2>
 
@@ -30,9 +30,9 @@ Eastern Townships
 * 1 hour 40 minutes from Montreal
 * 3 hours from Quebec City
 
-<h2><span>WHERE DOES THE NAME L’OSSTIDBURN COME FROM?</span></h2> 
+<h2><span>WHERE DOES THE NAME OSSTIDBURN COME FROM?</span></h2> 
 
-The name of the event is a reference to L’Osstidcho, an anti-conformist and revolutionary show presented for the first time on June 20, 1968 at Théâtre du Quat’Sous in Montreal.  The concept was simple: change the customs of theater by  combining different disciplines. In the end, the owner of the Quat’Sous Theatre got fed up with the chaos and unruliness of the members of the young troupe, for whom art came from disorder. L’Osstidcho is a show that will leave an indelible mark on Quebec’s collective imagination.
+The name of the event is a reference to Osstidcho, an anti-conformist and revolutionary show presented for the first time on June 20, 1968 at Théâtre du Quat’Sous in Montreal.  The concept was simple: change the customs of theater by  combining different disciplines. In the end, the owner of the Quat’Sous Theatre got fed up with the chaos and unruliness of the members of the young troupe, for whom art came from disorder. Osstidcho is a show that will leave an indelible mark on Quebec’s collective imagination.
 
 <h2><span>WHAT IS THIS PLACE?</span></h2>
 

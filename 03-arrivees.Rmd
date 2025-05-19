@@ -1,23 +1,41 @@
 # ARRIVALS {-}
 
-We strongly recommend arriving during the light of day. The site is located in the woods. You will need to clear your campsite and remove branches, rocks and leaves. Bring working gloves and tools.
+The site is deep in the forest: for your safety, we strongly recommend arriving during daylight hours.
 
-<h2><span> EARLY ARRIVALS </span></h2> 
+You'll need to clear your camp area of branches, rocks, and leaves—so bring work gloves and tools to help set up your space.
 
-* 19 June - Thursday: 9AM to 12AM (midnight) 
+<h2><span>SCHEDULES</span></h2>  
 
-<h2><span> GENERAL ACCESS </span></h2> 
+EARLY ARRIVALS 
 
-* 20 June - Friday: 9AM to 12AM (midnight)
-* 21 June - Saturday: 9AM to 12AM (midnight)
-* 22 June - Sunday: 9AM to 5PM
+* 19 June - Thursday: 9:00 AM to 12:00 AM (midnight) 
 
-<h2><span> EXODUS </span></h2> 
+GENERAL ACCESS 
 
-* 24 June - Tuesday: 9AM to 2PM
+* 20 June - Friday: 9:00 AM to 12:00 AM (midnight)
+* 21 June - Saturday: 9:00 AM to 12:00 AM (midnight)
+* 22 June - Sunday: 9:00 AM to 5:00 PM
 
-<h2><span> LEAVE NO TRACE (MOOP SWEEP) </span></h2> 
+EXODUS
 
-* 24 June - Tuesday: 2PM to 6:30PM
+* 24 June - Tuesday: 9:00 AM to 2:00 PM
 
+LEAVE NO TRACE (MOOP SWEEP)
+
+* 24 June - Tuesday: 2:00 PM to 6:30 PM
+
+<h2><span>ADDTIONAL INFO</span></h2>  
+
+VEHICLE ACCESS TO TRAIL, 4x4 ONLY + PASS REQUIRED
+
+* Thursday (early arrivals): 5:00 AM to 8:30 PM 
+* Friday: 5:00 AM to 8:30 PM 
+* Saturday to Monday: no vehicles allowed on the trail 
+* Tuesday: 5:00 AM to 2:00 PM
+
+QUIET HOURS (no amplified sound or generators)
+
+Thursday to Monday: 6:00 AM to 12:00 PM (noon) 
+Tuesday: 6:00 AM to GTFO begins 
+This policy may change during the event (see the section “Sound Policy: Don’t Rot the Vibe.”)
 
