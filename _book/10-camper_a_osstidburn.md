@@ -21,7 +21,7 @@ Prenez-en soin, gardez-les propres pour les suivant·e·s.
 * Ce qui sort de votre beau body  
 * Papier de toilette (1 épaisseur) 
 
-À ne pas mettre dans les Porta-Potties : tampons, serviettes hygiéniques, essuie-mains, couches, mégots de cigarettes ou tout autre déchet. Apportez un sac avec vous pour en disposer.  
+**À ne pas mettre dans les Porta-Potties :** tampons, serviettes hygiéniques, essuie-mains, couches, mégots de cigarettes ou tout autre déchet. Apportez un sac avec vous pour en disposer.  
 
 
 <h2><span> GÉNÉRATRICES </span></h2>
@@ -38,24 +38,25 @@ Soyez responsables lorsque vous utilisez des génératrices afin d’éviter de 
 * Les rallonges électriques enroulées peuvent chauffer et s’enflammer lorsqu’elles transportent un courant élevé. Ne les laissez pas à proximité de votre carburant ou de votre génératrice. 
 
 
-<h2><span> POLITIQUE DE SON
-«GANGRÈNE PAS LES AUTRES»  </span></h2>  
+<h2><span> POLITIQUE DE SON</span></h2>
+
+«GANGRÈNE PAS LES AUTRES»    
 
 La politique complète de SonCoeur est disponible sur le site de L’OsstidBurn: 
 https://losstidburn.org/rapports-politiques/
 
 L’équipe de SonCoeur croit en la capacité des opérateur·trice·s de systèmes de son à s’auto réguler et nous en appelons à leur bon jugement et leur capacité à s’adapter aux diverses situations que représente un burn. 
 
-Il n’y aura pas de «police du son» et de patrouille pour s’assurer que les règles seront respectées. Par contre, les règles sont assez claires et précisent que n’importe quel·e participant·e est en droit de consulter un camp (et son sonomètre) afin de vérifier son niveau sonore. 
+Il n’y aura pas de «police du son» et de patrouille pour s’assurer que les règles seront respectées. Par contre, les règles sont assez claires et précisent que **n’importe quel·e participant·e** est en droit de consulter un camp (et son sonomètre) afin de vérifier son niveau sonore. 
 
 * Tous les systèmes de son de catégorie 1+  ([voir le guide](https://docs.google.com/document/d/14ef80A8L4MoYyTf9886PC7QEXWQJGnkqpgbeklcFgjI/edit?tab=t.0#heading=h.d5k4muil36kw)) doivent s’enregistrer avant  l’événement. 
-* Limite en tout temps de 100 décibels à 5m (pondération dBC). 
-* La période de silence (sans musique amplifiée ni génératrices) est entre 6h et midi le jeudi, vendredi, samedi, dimanche, lundi et mardi (de 6h au début du GTFO). 
+* Limite en tout temps **de 100 décibels à 5m** (pondération dBC). 
+* **La période de silence** (sans musique amplifiée ni génératrices) est entre 6h et midi le jeudi, vendredi, samedi, dimanche, lundi et mardi (de 6h au début du GTFO). 
 * Un·e opérateur·trice doit être à proximité pendant le fonctionnement de son système de son. En aucun cas un système amplifié ne devrait être laissé fonctionnel sans personne réveillée autour (il peut y avoir exception pour une installation d’art à un volume raisonnable). 
 * Une situation exceptionnelle peut demander des mesures exceptionnelles.
 
 
-Cette politique est sujette à changement au courant de l’événement - on cherche à établir une bonne relation avec la ville et les voisin·es alors soyez coopératif·ves· si un·e membre de SonCoeur vous demande de diminuer le niveau sonore et surtout ne montez pas le volume 20 minutes plus tard.
+Cette politique est sujette à changement au courant de l’événement - on cherche à établir une bonne relation avec la ville et les voisin·es alors soyez coopératif·ves· si un·e membre de SonCoeur vous demande de diminuer le niveau sonore et **surtout ne montez pas le volume 20 minutes plus tard.**
 
 
 Après deux avertissements, vous devrez couper le son pour le reste de l’événement. 

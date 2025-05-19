@@ -37,9 +37,9 @@ L’adhésion à ces principes assure un espace plus sécuritaire pour tous·te�
 **QUE FAIRE SI VOUS ÊTES VICTIME OU TÉMOIN D’UNE VIOLATION DE CONSENTEMENT?**
 
 * Si un·e participant·e semble mettre mal à l’aise les personnes avec qui iel interagit ou dépasse les limites explicitement consenties, n’hésitez pas à l’exprimer ouvertement. 
-* Si vous ne vous sentez pas à l’aise d’agir, approchez les Rangers.  
+* Si vous ne vous sentez pas à l’aise d’agir, approchez les **Rangers**.  
 * Si vous vous sentez vous-même en danger, quittez  la situation immédiatement, et allez trouver les Rangers. 
-* Nous vous invitons à informer les Rangers de tout comportement déplacé. 
+* Nous vous invitons à informer les **Rangers** de tout comportement déplacé. 
 * L’organisation se réserve le droit d’exclure toute personne au comportement inapproprié. 
 * Suite à l’événement, si vous souhaitez nous faire part d’une situation de bris de consentement, n’hésitez pas à contacter le comité Conduite à <span style="text-decoration:underline">conduite@losstidburn.org </span>
 

@@ -18,10 +18,10 @@ Il n'y as pas d'électricité disponible dans le site de  l'événement. Prevoye
 génératrices (voir section "Camping et autres infos" pour installer une génératrice).
 
 **ARTS DE FEU** \
-Toute œuvre de feu (flame effect ou fire poofer) doit avoir été positionnée sur le site par l’organisation préalablement.  Si vous ou votre camp comptez installer une œuvre de feu, vous devez faire une demande de placement spécifique. Avant l’allumage, il faut faire vérifier son œuvre par un membre de FAST (Feu & Art  Sécuritaires en Tabouère). Voir sections  "Les burns"/ et ou "burns barrels".
+Toute œuvre de feu (flame effect ou fire poofer) doit avoir été positionnée sur le site par l’organisation préalablement.  Si vous ou votre camp comptez installer une œuvre de feu, vous devez faire une demande de placement spécifique. Avant l’allumage, il faut faire vérifier son œuvre par un membre de FAST (Feu & Art  Sécuritaires en Tabouère). Voir la section  "Conclave et autres flammes".
 
 **SORTIES / RENTRÉES** \
-Aucune réadmission n’est autorisée lorsque vous sortez du site, sauf pour urgence. Nous vous rappelons qu’aucune eau potable, ni électricité ne sont disponibles sur le site! 
+Aucune réadmission n’est autorisée lorsque vous sortez du site, sauf pour urgence.
 
 **FEU DE CAMPS** \
 AUCUN FEU DE CAMPS PERMIS! Réfère-toi à la  section "Burn Barrels". 

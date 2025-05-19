@@ -27,7 +27,7 @@ Voici le [lien de covoiturage de l'OsstidBurn 2025](https://www.groupcarpool.com
  
 Je fais quoi si je ne trouve pas de covoiturage? Well, pense à L’OsstidBus!
 L'OsstidBus est un projet carboneutre de transport collectif porté depuis 2022 par des membres de l'Org qu'on adapte chaque année pour le rendre le plus accessible possible.
-Pour te procurer un **ticket pour l'OsstidBus** : https://participation.losstidburn.org/
+Pour te procurer un **ticket pour l'OsstidBus** : https://losstidburn.org/transport/
 
 <h2><span> ACCÈS PAR VÉHICULE </span></h2> 
 
