@@ -14,13 +14,21 @@ La mission de L’OsstidBurn est de promouvoir l’art et l’engagement partici
 
 La communauté plutôt éclectique de L’OsstidBurn est composée d’individus de tous genres: artistes, scientifiques, ingénieur·e·s, chamans, plombier·e·s, cuisinièr·e·s, philosophes, infirmièr·e·s,  comptables… Tous·tes se rencontrent pour créer une zone temporaire d’expression de soi. Iels y peignent, soudent, sculptent, mettent des affaires  en feu, écrivent du code, cuisinent avec beaucoup d’huile et biodansent parfois… Bref, iels y fabriquent des trucs interactifs surprenants! 
 
-<h2><span>QUAND ?</span></h2>
 
+<h2><span> L'OSSTIDBURN 2025 </span></h2>
+
+<img src="www/sticker_theme_2025.png" width="70%" style="display: block; margin: auto;" />
+
+**THÈME 2025: AAAAAAAAAAAAAAAAAA !!**
+ 
+
+C'est cette émotion précise que l'on ressent tous, chacun à notre façon, depuis le début de l'année 2025. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA est le cri primal qui nous anime et nous rassemble, comme une bannière qui flotte au vent.
+
+**QUAND ?**
 
 Du jeudi 19 juin au mardi 24 juin 2025.
 
-
-<h2><span> OÙ ? </span></h2>
+**OÙ ?** 
 
 L’adresse et les coordonnées seront envoyées à tous les détenteur·ice·s de billets 48 heures avant l’événement. 
 
