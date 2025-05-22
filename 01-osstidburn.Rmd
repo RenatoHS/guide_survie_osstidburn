@@ -17,6 +17,10 @@ The eclectic OsstidBurn community is made up of people from all walks of life: a
 
 <h2><span> OSSTIDBURN 2025 </span></h2>
 
+```{r another-plot, out.width="70%", fig.align="center",echo = FALSE}
+knitr::include_graphics("www/sticker_theme_2025.png")
+```
+
 **THEME 2025: AAAAAAAAAHHHHHHH !!**
 
 
